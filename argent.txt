@@ -1,3 +1,18 @@
+Connaissez-vous le chat de Schrödinger? C'est une expérience
+imaginaire classique de la science. On met un chat (imaginaire,
+heureusement) dans une boîte. Si un atome émet une particule
+radioactive, un gaz toxique tuera le chat. Mais selon les lois de la
+physique quantique, l'atome se comporte à la fois comme s'il avait ou
+non émis une particule jusqu'à ce qu'on ouvre la boîte, ce qui
+voudrait dire que le chat serait à la fois mort et vivant.
+
+Ce type d'expérience est assez fréquent en physique. En général, on
+imagine une situation contre-intuitive qui semble contrevenir aux lois
+scientifiques et on observe ce qui en découlerait. C'est une façon
+d'explorer de nouvelles idées sans être limités par nos préjugés
+habituels. Je vais vous proposer une expérience imaginaire reliée à
+l'économie.
+
 Imaginons que l'argent disparait, mais que les humains ne s'en
 rendent pas compte et continuent leur vie exactement comme
 avant. On va encore travailler. On va encore au magasin et le
@@ -16,7 +31,17 @@ tout ce qui change, c'est qu'on ne comprend plus ces humains qui
 continuent à agir sans la garantie d'être récompensés pour leurs
 actions.
 
+
+
+
+
+
+
 Je vais vous demander parfois de refaire cette expérience, dans un
 contexte précis. D'imaginer des humains-zombie, qui continuent leur
 petite routine de vie, même s'il n'y a plus d'argent qui change de
-mains. Voici un exemple, qu'on explorera plus en détail plus tard. 
+mains.
+
+PLUS TARD - TROP COMPLEXE POUR L'INTRO - Donner exemple du déficit.
+Confusion entre pas assez d'argent (ressources) et pas assez d'argent
+(droit d'utiliser les ressources)
