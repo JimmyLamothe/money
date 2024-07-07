@@ -1,0 +1,15 @@
+Idea for a game - simulation (colab with Nicki Case?)
+
+Human (or alien? humanoid) body, but every cell functions according to
+ecnomic rules - change the base assumptions and see how the body
+functions - what happens if cells only work if they are paid? What
+happens if cells can accumulate more ressources than they need? -
+Cells need minimum ressources or they die - How does body function or
+not? Different cell categories - builders is the easy one, what are
+the others? Each cell category maps to a societal equivalent or not?
+Cell happiness level
+
+Ideally this should be able to mirror different conceptions of
+capitalism in a way that works, but only if you find the right
+assumptions - shows what assumptions each economic model needs to make
+to be true
