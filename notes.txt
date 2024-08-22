@@ -162,7 +162,7 @@ Réalité: la dette ne sera jamais remboursée. Aucun pays n’a l’intention d
 
 Citation de Zen and the Art of Motorcycle Maintenance:
 
-« The true system, the real system, is our present construction of systematic thought itself, rationality itself, and if a factory is torn down but the rationality which produced it is left standing, then that rationality will simply produce another factory. If a revolution destroys a systematic government, but the systematic patterns of thought that produced that government are left intact, then those patterns will repeat themselves in the succeeding government. There’s so much talk about the system. And so little understanding. »
+«The true system, the real system, is our present construction of systematic thought itself, rationality itself, and if a factory is torn down but the rationality which produced it is left standing, then that rationality will simply produce another factory. If a revolution destroys a systematic government, but the systematic patterns of thought that produced that government are left intact, then those patterns will repeat themselves in the succeeding government. There’s so much talk about the system. And so little understanding.»
 
 Fin de l’intro:
 
@@ -249,3 +249,6 @@ Seulement ensuite passer au capital qui mène à
 La fortune maximum
 
 Exemple de mon propre travail - nombre d’émissions qui a augmenté
+
+
+Économie = le temps qu'on donne aux gens qu'on ne connait pas
