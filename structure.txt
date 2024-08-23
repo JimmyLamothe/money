@@ -1,7 +1,7 @@
-Intro - But du livre
-Argent - Confiance
-Argent - Pouvoir / Temps
-Organisation du temps - Beauté du capitalisme vs autres
+1. Intro - But du livre
+2. Argent - Confiance
+3. Argent - Pouvoir / Temps
+4. Organisation du temps - Argent vs Gouvernement
 Mérite - Théorie
 Mérite - Travailleurs essentiels
 Mérite - Agriculture
@@ -9,9 +9,10 @@ Mérite - Réalité - Pouvoir <---> Salaire - Productivité - Transfert horizont
 Mérite - Travail seule manière d'avoir du mérite / Travail invisible
 Environnement - Consommer pour produire
 Environnement - Publicité - Contribution négative
-Environnement - Société du loisir / Pandémie
-Environnement - Aide sociale / Salaire minimum
-Environnement - Revenu minimum
+Spirituel - Société du loisir / Pandémie
+Gouvernement - L'autre forme de pouvoir et d'organisation du temps
+Gouvernement - Aide sociale / Salaire minimum
+Gouvernement - Revenu minimum
 
 
 
