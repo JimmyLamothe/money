@@ -2,9 +2,7 @@
 2. Argent - Confiance
 3. Argent - Pouvoir / Temps
 4. Organisation du temps - Argent vs Gouvernement
-Mérite - Théorie
-Mérite - Travailleurs essentiels
-Mérite - Agriculture
+Mérite - Travailleurs essentiels - Agriculture - Théorie
 Mérite - Réalité - Pouvoir <---> Salaire - Productivité - Transfert horizontal de la richesse
 Mérite - Travail seule manière d'avoir du mérite / Travail invisible
 Environnement - Consommer pour produire
@@ -70,5 +68,3 @@ Gouvernement - Revenu minimum
 
 - Motivation - Milliardaires veut jet privé parce que l'autre en a un
   	       - si tout le monde a moins tout va bien
-
-
