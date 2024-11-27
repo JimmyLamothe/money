@@ -148,7 +148,7 @@ On voit la différence entre un manque de ressources et un manque d'argent. Lors
 
 
 
-La productivité économique est aussi en partie une illusion monétaire. Si on produit la même chose pour des gens plus riches, ils la paient plus cher que des plus pauvres. Un pad thaï en Thaïlande est sans doute meilleur que celui qu'on peut acheter à Wall Street, mais il se vend bien moins cher. On ne mesure pas la valeur réelle de ce qui est produit, mais sa valeur monétaire. La valeur dépend davantage du client que du produit lui-même.
+La productivité économique est aussi en partie une illusion monétaire. Si on produit la même chose pour des gens plus riches, ils la paient plus cher que des plus pauvres. Un pad thaï en Thaïlande est souvent meilleur que celui qu'on peut acheter à Wall Street, mais il se vend bien moins cher. On ne mesure pas la valeur réelle de ce qui est produit, mais sa valeur monétaire. La valeur dépend davantage du client que du produit lui-même.
 
 
 
@@ -262,10 +262,22 @@ Et comment juger un pays face au crédit? Votre opinion est aussi valable que la
 
 
 
+Certains d'entre vous croyez sûrement encore qu'on devrait simplement rembourser notre dette nationale, comme vous remboursez vos propres dettes. Vous croyez peut-être même que c'est un devoir moral. J'aimerais simplement soulever quelques différences entre la dette d'un gouvernement et la dette d'un individu.
+
+D'abord, quand on contracte une dette soi-même, c'est naturel de sentir un devoir moral de la rembourser. Mais on naît déjà avec notre part de la dette de notre pays. On peut refuser l'héritage de nos parents s'il s'agit de dettes, mais on n'a pas le droit de refuser l'héritage financier de nos ancêtres. On naît avec une dette qu'on n'a pas contractée.
+
+Après une révolution contre une dictature, le nouveau gouvernement démocratique est responsable des dettes que le dictateur avait contractées pour leur mener la guerre. Quand les esclaves d'Haïti ont remporté leur combat pour leur liberté, ils ont dû rembourser la France pendant des siècles pour compenser les anciens esclavagistes. Les dettes gouvernementales ne se préoccupent en rien de la morale.
+
+De toute manière, peu importe si on pense que c'est souhaitable ou non, il est à toutes fins pratiques impossible pour un pays démocratique de rembourser ses dettes. Le gouvernement qui s'y risquerait deviendrait tellement impopulaire dès que la situation économique lui demanderait d'imposer des sacrifices importants à une majorité de la population qu'il se verrait obligé de faire marche arrière ou perdrait les prochaines élections.
+
+
+
+
 
 
 Les gens les plus doués et motivés à accaparer les ressources collectives vont toujours le faire dans une société qui le permet. Chacun va le faire à plus ou moins grande échelle selon sa motivation et son aptitude à accumuler de la richesse. Si certains s’arrêtent par soucis éthique ou parce qu’ils comprennent que cette accumulation sans fin nuit à leur bonheur, ils seront simplement dépassés par d’autres qui n’ont pas ces soucis ou cette lucidité.
 
+NOTES EN VRAC: Le besoin d’accumuler toujours plus de pouvoir c’est comme un enfant avec un écran, c’est pas parce qu’il en veut toujours plus que c’est bon pour lui.
 
 
 
@@ -276,6 +288,9 @@ Jusqu'à maintenant, j'ai toujours utilisé l'article défini "les", pour écrir
 Une fois investi ou déposé à la banque, je ne contrôle plus mon argent. On ne me demande pas si je suis prêt à en sacrifier un pourcentage pour qu'on pardonne une part de la dette d'un pays exsangue. Et aurais-je le courage de le faire, quitte à m'apauvrir? Dans tous les cas, mon épargne est utilisée pour défendre les intérêts des riches, peu importe mes convictions personnelles. 
 
 Mais dans les prochains textes, qui parlent de la relation entre les riches et de la démocratie, je vais aussi parler parfois de "certains riches". Certains riches investissent beaucoup d'argent pour manipuler l'environnement politique d'une manière favorable à leurs intérêts, peu importe les conséquences sociales. Leurs noms ne m'importent pas, mais ils existent, et c'est à eux que je vais faire référence lorsque j'écrirai "certains riches" plutôt que "les riches".
+
+NOTES EN VRAC: Remplacer texte les vs des par texte qui explique l’importance de ne pas focus sur les acteurs du moment mais bien sur les forces sous-jacentes
+
 
 
 
@@ -352,6 +367,12 @@ Pourtant, les lois font à peine la distinction entre les deux situations. Des e
 
 Dans les deux cas, les riches profitent de notre incapacité à saisir que l'argent n'a pas la même nature à grande échelle qu'à petite échelle. C'est différent d'avoir du pouvoir sur sa propre existence et d'avoir du pouvoir sur celle de milliers d'autres.
 
+NOTES EN VRAC: Les deux dichotomies: riche / travailleur - payeur d’impôts / pas payeur d’impôts (contribuable / parasite) - Riches veulent nous faire adhérer au deuxième plutôt qu'au premier
+
+
+
+NOTES EN VRAC: Les conservateurs sont naturellement sans réponses aux nouveaux problèmes. Quand un gouvernement conservateur vit un échec, il ne peut pas proposer de nouvelle politique. Sa raison d'être est de dire que les choses ne doivent pas changer. On peut seulement proposer encore moins de gouvernement, encore moins d'impôts, encore moins de règlementation. Les progressistes, au contraire, peuvent toujours proposer une nouvelle solution quand la précédente échoue.
+
 
 
 
@@ -384,6 +405,11 @@ Pour régler les problèmes en profondeur, il faudrait des mesures qui remettent
 
 
 
+NOTES EN VRAC: Parler de riches aiment bien aussi centre-gauche globaliste. Préfèrent droite = on gagne beaucoup trop mais se contentent de gauche = on gagne trop. Craignent extrême-gauche et extrême-droite qui remettent en question le consensus qui leur convient, mais croient pouvoir contrôler l'extrême-droite - Parler plus du fait que les politiques de centre-gauche (surtout libre-échange?) ne sont pas nécessairement bonnes pour les pauvres mais ont favorisé la classe intellectuelle
+
+Parler de trucs en vrac (ou parler plus des tariffs directement?) Ex: Tariffs = On fait les choses les uns pour les autres dans le même pays (pas exactement ça mais c'est l'idée)
+
+
 
 C'est inévitable qu'il y ait des institutions politiques qui défendent des valeurs plus conservatrices, parce qu'elles représentent le ressenti sincère d'une bonne part de la population. Il y aura toujours des gens qui préfèrent ce qu'ils connaissent et se méfient de ce qui est nouveau ou différent. Mais ce n'est pas inévitable que ces institutions politiques conservatrices défendent les intérêts des riches. C'est à ça qu'on peut s'attaquer.
 
@@ -404,6 +430,7 @@ C'est inévitable qu'il y ait des institutions politiques qui défendent des val
 
 
 
+Les riches ne sont bien sûr pas les seuls responsables de la polarisation sociale. La technologie est sans doute le plus grand facteur, et certains politiciens en profitent pour faire carrière.
 
 L'histoire de la polarisation sociale est intimement reliée à la technologie. On pourrait la diviser grossièrement en quatre grandes phases.
 
@@ -416,28 +443,12 @@ Lors de la troisième phase, le marché médiatique se fragmente. Des chaînes d
 Enfin, avec les réseaux sociaux, les groupes deviennent encore plus petits et isolés entre eux. La vérité objective perd son importance, puisque le filtre médiatique a perdu une grande part de son influence. C'est le terreau parfait pour les extrémistes et les théories de conspiration.
 
 
+	 
 
 
-
-Les riches ne sont bien sûr pas les seuls responsables de la polarisation sociale. La technologie est sans doute le plus grand facteur, et certains politiciens en profitent pour faire carrière.
-
-
-
-
-
-
-
-
-
-Mais le droit de vote n'est pas le seul moyen d'avoir une influence politique. Un individu peut aussi agir directement, de différentes manières. On l'appelle souvent un militant, mais ce terme évoque surtout des gens qui se regroupent pour défendre collectivement une cause. Je ne connais pas de terme équivalent pour l'action analogue d'un riche qui utilise son pouvoir sur le temps des autres pour tenter d'influencer le processus politique.
-
-Il y a deux façons principales d'agir sur le plan politique autrement que par le droit de vote. On peut tenter d'influencer directement le gouvernement élu et ses représentants. Si les militants le font ouvertement, certains riches le font derrière des portes closes par l'entremise des lobbyistes, ou en développant des relations personnelles avec les politiciens. Je ne vais pas en parler dans ce livre, parce que je n'ai rien à dire que vous n'avez pas entendu ailleurs.
-
-L'autre façon d'agir, c'est de tenter d'influencer le vote des électeurs. C'est sur ce point que je vais m'attarder, parce que certains riches tentent d'y arriver en jouant sur la division sociale, minant les bases communes qui permettent à la démocratie de survivre.
-
-
-
-
+NOTES EN VRAC: 1a: On est tellement deux équipes qu'on a plaisir que l'autre souffre
+4: Problème: si on s'haït trop on accepte pas que l'autre soit au pouvoir
+On survivrait pas à un autre quatre ans de l'adversaire
 
 
 
@@ -456,22 +467,50 @@ Ces principes servent simplement à exprimer de manière formelle ce que la plup
 
 Mais je crois que cette modération saine peut nous amener à ignorer le troisième principe. Quand les problèmes sont assez graves, il faut proposer des solutions qui sont capables de les régler, même si ça implique des changements qui nous font peur. C'est pour cette raison que le plus important est d'abord de démontrer que la situation actuelle est intenable.
 
+NOTES EN VRAC:  pouvoir privé illimité est le premier problème assez grave qu’on doit absolument faire quelque chose pour le régler 
 
 
 
 
 
-
-Si l’argent n’existe pas, ça veut aussi dire qu’on ne peut pas régler tous les problèmes en prenant l’argent des riches - si c’est de l’argent qui représente du pouvoir futur on ne peut pas nécessairement le convertir en autant de pouvoir présent
-
+NOTES EN VRAC: Illusion de la séparation pouvoir argent - on n’a pas le pouvoir d’enlever son argent à Peladeau. Seulement à ti-jean Tremblay. C’est pour ça que ça prendrait une force collective de beaucoup de pays pour le faire - Si tu n’utilises pas ton pouvoir pour défendre ton pouvoir, quelqu’un d’autre utilisera le sien pour te l’enlever (ça vaut à la fois pour les milliardaires et les gens ordinaires) - C’est en principe plus difficile de cacher la richesse que le revenu parce que tout l’enjeu de la possession est de prouver que la ressource nous appartient
 
 
 
+NOTES EN VRAC: Un milliardaire, ça ne sert à rien - où plutôt ça ne sert à rien qu’il soit milliardaire 
+
+Le premier débat c’est la question de l’utilité et la moralité de l’existence des milliardaires
+
+Le deuxième débat c’est la question de notre capacité à se débarrasser des milliardaires 
+
+Le premier débat n’en est pas un. Dès qu’on va commencer à le tenir l’évidence de la réponse va s’imposer d’elle-même 
+
+On pourra alors passer au vrai débat, le deuxième. La société est en retard d’un débat.
+
+En ce moment, on peine à s’imaginer un monde sans milliardaires, comme les paysans peinaient à s’imaginer un monde sans roi et sans seigneurs.
+
+Mais quand il n’y en aura plus, on ne comprendra pas pourquoi on a toléré leur existence aussi longtemps
+
+De la même façon qu’il a d’abord fallu pouvoir s’imaginer un monde sans roi, il faut d’abord réussir à s’imaginer un monde sans milliardaires
+
+NOTES EN VRAC: Notion que ça convient au paysan que le roi soit de droit divin parce que c’est plus facile d’affronter le monde ainsi
 
 
 Même si on devra sans doute utiliser la force pour que chaque milliardaire accepte des limites à son pouvoir, on doit leur offrir une façon douce de rejoindre la société de manière honorable. Il faut mettre en place un système pour que les riches puissent volontairement remettre leur argent en trop à la société.
 
 Ceux qui le font de bon coeur seraient reconnus officiellement pour leur geste et on saurait que les profits de leurs compagnies sont distribués de manière plus juste que ceux des autres. Ça deviendrait à la fois pour eux un avantage social par la reconnaissance collective et un avantage compétitif sur le plan économique.
+
+NOTES EN VRAC: Les compagnies (actions) ont une obligation légale de prioriser uniquement la possibilité pour les riches qui les possèdent de devenir toujours plus riches. Ce n’est pas la seule conception possible du but d’une compagnie ni la plus souhaitable pour la société. Ce n’est pas non plus un juste retour sur le mérite de chacun
+
+Notion de l'héritage à comment on se débarasse des milliardaires - à leur mort pour éviter que pouvoir illimité se transfère intact de génération en génération? Option douce
+
+On doit rendre ça meilleur marché pour les milliardaires de rester que de partir / s'ils restent on leur enlève tranquillement leur argent en trop - s'ils partent on le prend tout d'un coup
+
+Les milliardaires ne sont pas foncièrement méchants - ce sont comme des enfants à qui leurs parents n’ont pas montré à partager - comme société c’est notre devoir de leur apprendre
+
+
+
+NOTES EN VRAC: Si l’argent n’existe pas, ça veut aussi dire qu’on ne peut pas régler tous les problèmes en prenant l’argent des riches - si c’est de l’argent qui représente du pouvoir futur on ne peut pas nécessairement le convertir en autant de pouvoir présent - Illusion de la redistribution de la richesse parce que l’argent donne l’illusion que les riches consomment plus de ressources qu’ils ne le font réellement - sac à 35000$ - Rolling Stones a une Bar Mitzvah - Ces choses consomment très peu de ressources et valent seulement cher parce qu’il y a beaucoup de riches en compétition - si l’on donnait leur argent aux pauvres il y aurait compétition pour des ressources réelles - On prétendrait qu'il y a eu une grande destruction de richesse si on interdisait les milliardaires, alors que rien de réel n'aurait été détruit. Une peinture à 100 millions vaudrait maintenant 10 millions, mais elle serait identique. Si on passait la loi de la fortune maximale, les milliardaires seraient instantanément moins riches, avant même d’être obligés de se départir de leurs biens, parce qu’il n’y aurait plus d’ultra-riches pour les acheter. Exemple des tableaux qui valent des centaines de millions. Les gens parleraient de destruction de richesse parce qu’ils ne comprennent pas qu’il ne s’est jamais agit de richesse mais de pouvoir. Les tableaux seraient les mêmes. Rien n’aurait changé sauf leur valeur. Le but n’est pas d’enlever des choses aux milliardaires c’est de leur enlever du pouvoir
 
 
 
@@ -491,6 +530,122 @@ On consomme pour pouvoir produire, autant qu'on produit pour pouvoir consommer.
 
 
 
+
+J'aimerais d'abord résumer ce que l'argent fait de mieux à mes yeux. Il nous permet de vivre dans de grandes sociétés relativement fonctionnelles où on conserve une certaine liberté sur ce qu'on choisit de faire de nos vies.
+
+Peu importe si on est plus ou moins heureux en grands groupes sociaux qu'on l'était en petits clans, ça demeure remarquable qu'ils existent. Ils demandent un degré d'organisation incroyable. Agriculture, transport, construction, médecine, éducation, infrastructures... tout ça est à la fois essentiel au bon fonctionnement de la société et très fragile. Il a déjà suffi d'un paquebot coincé au mauvais endroit pour provoquer une crise économique mondiale.
+
+Pour que la société fonctionne, il faut réussir à organiser collectivement notre temps pour accomplir toutes ces tâches essentielles. Si l'état joue un rôle à grande échelle, l'argent complète son action à la plus petite échelle possible. Mais comment le fait-il exactement?
+
+Pour bien le comprendre, on pourrait se représenter la société comme un organisme vivant, et les humains comme les cellules qui le composent. Chaque cellule contribue à la survie et au bien-être de l'organisme, tout en dépendant à son tour de son bon fonctionnement.
+
+Un être vivant semble avoir été construit selon un plan très précis. On s'imaginerait facilement qu'il existe une sorte de quartier général dans l'organisme qui dicte à chaque cellule où aller et quoi faire, tellement le tout est bien coordonné.
+
+Pourtant, à l'origine, cet organisme se résumait à une seule cellule, dont le code génétique contenait toutes les instructions nécessaires pour la suite. Un être vivant doit pouvoir croître et fonctionner correctement à toutes les étapes de son développement, d'une seule cellule à soixante mille milliards.
+
+Pour y arriver, les cellules communiquent entre elles. Une cellule souche en influence une autre à se différencier pour faire partie du coeur, par exemple, alors que la première continue à se diviser. C'est un des mécanismes de base du développement fétal.
+
+Même une fois l'organisme complet avec tous ses systèmes et organes, la communication cellulaire demeure la base de son fonctionnement. Les cellules réagissent à leur environnement immédiat et communiquent avec leurs voisines, ou influencent des cellules plus éloignées via les hormones et les neurotransmetteurs. Tous les systèmes et organes du corps dépendent de cette communication pour fonctionner.
+
+L'argent joue un rôle très similaire dans nos sociétés. On pourrait dire que c'est avec l'argent que les "cellules" humaines communiquent leurs besoins.
+
+Pour donner un exemple facile à comprendre, on pourrait penser à une ruée vers l'or dans un film western. Des milliers de personnes se déplacent en masse pour profiter d'un filon. Une nouvelle ville pousse alors en quelques mois en plein désert, sans que personne ne coordonne les travaux, comme par magie... la magie de l'argent.
+
+Quand les prospecteurs se déplacent, leurs besoins les suivent. Et ils ont de l'argent à donner à ceux qui peuvent les combler. Un menuisier en manque de travail ira construire des maisons. Sa fille va enseigner aux enfants. Un docteur fraîchement diplomé y trouvera sa première clientèle. Le gouvernement n'a pas besoin de leur ordonner d'aller travailler là-bas. Les gens suivent naturellement la trace des besoins non comblés.
+
+Pourquoi? Parce qu'à moins d'être riche, on a besoin d'un travail pour survivre. Si on ne donne pas de notre temps, on n'a pas le droit au temps des autres. On a besoin du temps des autres pour satisfaire tous les besoins qu'on ne peut pas combler nous-même. Et pour avoir un travail, il faut pouvoir combler les besoins de quelqu'un d'autre.
+
+Le travail joue un rôle tellement central dans nos vies qu'il sert d'identité sociale. Le menuisier est aussi papa, mais je l'ai nommé naturellement par son travail, comme le docteur. Mais j'ai parlé de la fille du menuisier plutôt que de l'enseignante, parce que peu importe son travail, à l'époque, son rôle social était d'être "fille de" jusqu'au jour où elle serait "femme de".
+
+J'ai choisi cet exemple parce qu'il est frappant, mais pas besoin d'or et de boomtown pour voir comment l'argent nous fait répondre aux besoins de notre environnement immédiat. Une de mes amies a ouvert un café parce qu'elle était jeune maman et ne trouvait nulle part dans son quartier où s'arrêter pour un répit avec ses enfants. C'est vite devenu le centre d'une petite communauté qui partageait le même besoin et attendait un endroit où le combler.
+
+Comme elle avait identifié un vrai besoin, le café a fait un profit qui lui a permis d'y consacrer son temps, ainsi qu'à ses employés. Si elle avait eu tort, le café aurait fermé tôt ou tard, et quelqu'un d'autre aurait ouvert un commerce dans le même local, jusqu'à ce qu'on comble un besoin réel de la communauté.
+
+Toute la société s'organise autour de ces interactions humaines qui collectivement forment ce qu'on appelle l'économie. On influence les autres par chacune de nos actions, parfois de manière évidente, parfois de manière à peine perceptible. On déménage. On essaie un nouveau magasin. On se découvre une nouvelle passion. On change d'horaire. On perd son travail et on doit en chercher un nouveau.
+
+Toute la société s'organise autour de ces interactions humaines. Nos actions influencent les autres, parfois de manière évidente, parfois de manière à peine perceptible. On déménage. On essaie un nouveau magasin. On se découvre une nouvelle passion qui exige des achats. On change d'horaire. On perd son travail et on doit en chercher un nouveau.
+
+Ce n'était pas la première carrière de mon amie, ni la dernière. Comme bien des gens, elle a toujours cherché une activité qui la rendrait heureuse tout en lui permettant de gagner sa vie. Le besoin d'argent nous oblige à trouver un équilibre entre nos envies et besoins personnels et ceux des autres. C'est la question qu'on se pose lorsqu'on choisit un métier: qu'est-ce que j'aime faire et que les autres voudraient que je fasse?
+
+Si je suis très chanceux, les deux coïncident. Mais en général, je dois choisir. Plus j'accorde d'importance à faire ce que j'aime, plus le temps que je donne aux autres est agréable. Mais je dois accepter de gagner moins d'argent, donc d'avoir moins de pouvoir sur le temps des autres.
+
+Si je choisis plutôt mon travail selon les besoins des autres, j'aurai moins de plaisir au travail, ou je vivrai plus de stress, par exemple. Mais j'aurai aussi plus d'argent, donc plus de pouvoir sur le temps des autres. En bref, on choisit toujours entre avoir plus de pouvoir sur son propre temps, ou plus de pouvoir sur le temps des autres.
+
+Bien sûr, on n'a pas tous accès aux mêmes possibilités. Tout dépend de notre origine, notre classe sociale, notre éducation et bien d'autres facteurs. On peut sacrifier tout le reste pour gagner le plus d'argent possible et être quand même plus pauvre qu'un autre qui accorde la priorité à son temps personnel.
+
+Mais c'est de cette manière que notre système économique oblige les gens à offrir de leur temps pour contribuer à la société, tout en leur laissant une certaine liberté quant au comment. Cette liberté n'est pas la même pour tous, mais elle a une valeur pour ceux qui ont la chance de pouvoir en profiter.
+
+
+NOTES EN VRAC: Exemple des tomates une année plus cher une année moins cher ceux qui aiment plus ça en achètent quand même et les producteurs font quand même de l’argent. La tomate vaut plus cette année là
+
+
+
+
+TEXTE BROUILLON: Si tout le monde (ou presque) doit travailler, tous les travailleurs ne sont pas égaux. Certains gagnent beaucoup pour leur temps, d'autres à peine assez pour survivre. Qu'est-ce qui explique la différence? La science économique nous enseigne que c'est le jeu de l'offre et la demande (on y reviendra). Mais j'aimerais qu'on se pose d'abord naïvement la question, sans idées préconçues, simplement d'après ce qui semblerait naturel.
+
+D'abord, comme on l'a appris pendant la pandémie, certains travailleurs sont essentiels... et d'autres pas. J'ai moi-même eu la confirmation que mon travail de traducteur pour la télévision n'était pas essentiel à la société, ce qui m'est toujours apparu comme une évidence. Qu'est-ce qui pourrait être plus naturel que de s'imaginer que les emplois les plus essentiels seraient aussi les plus payants?
+
+Pourtant, ce n'est pas le cas. Certains travailleurs essentiels, comme les médecins, sont en haut de l'échelle, d'autres, comme les aide-soignants, tout en bas. Les travailleurs temporaires agricoles sont les moins bien payés de la province, même s'il n'y a rien de plus important que de nourrir les gens. Les fermiers eux-mêmes sont si mals rémunérés pour leur ouvrage sans fin que certains sont poussés au suicide. Il n'y a pas de lien évident entre l'importance du travail et sa rémunération.
+
+TEXTE BROUILLON: Bien sûr, notre temps ne nous accorde pas à tous le même pouvoir. Quand notre salaire est plus grand, ça veut dire que notre temps a davantage de valeur sociale. S'il est plus petit, c'est que la société lui accorde moins de valeur.
+
+Bien sûr, on n'a pas tous le même salaire. En d'autres mots, notre temps ne nous accorde pas à tous le même pouvoir. C'est pour cette raison qu'un avocat ou médecin pourrait se permettre, par exemple, d'avoir quelqu'un à la maison à temps plein pour s'occuper des enfants. Son temps a une assez grande valeur sociale pour lui permettre d'exercer du pouvoir sur l'entièreté du temps de travail d'un autre être humain.
+
+NOTES EN VRAC: Dans le cadre du mérite: any metric will be gamed
+
+NOTES EN VRAC: Comme l’argent est une forme de pouvoir, il est influencé par les autres formes de pouvoir - Idée que le pouvoir détermine le salaire - Notre salaire représente simplement notre capacité à s'accaparer de l'argent. Ce n'est pas une pure fonction de notre mérite. Tout pouvoir se convertit en argent - grandeur, beauté, origine sociale - C’est peut-être d’ailleurs ce qui expliquerait ce qu’on entend sur les femmes qui se font refuser une augmentation voir retirer une offre d’emploi parce qu’elles demandent trop. Elles ont pêché en n’acceptant pas leur manque de pouvoir, ce qui paraît mal pour n’importe qui, pas juste les femmes - Faire le lien entre aide-soignants / travailleurs agricoles = nouveaux arrivants / non-citoyens = pas de pouvoir social. Salaire = pouvoir sur l’argent - Exemple du CEO qui a énormément de pouvoir pour s’accaparer une grande part des profits - On confond avoir le droit et mériter - « Il l’a pas volé » « c’est son argent »
+
+
+
+
+
+
+NOTES EN VRAC: Travails mal payés comme travailleur agricole, dépanneur, préposé au soin - combien seraient-ils payés si chacun avait droit à un montant suffisant pour vivre? Distinction entre valeur d’un travail et facilité de le combler - qu’arriverait il au prix de la nourriture? Est-ce qu’on officialiserait l’exploitation des étranger comme en Arabie Saoudite? Produire moins consommer moins si les gens n’ont pas à travailler - Exemple des agriculteurs On fait venir des travailleurs étrangers parce que le prix doit rester bas - Remplacer le service militaire par le service agricole
+
+
+NOTES EN VRAC: Mini-texte sur le reste du monde - j’en parle pas j’y connais rien - je crois que les gens ordinaires se préoccupent plus des autres que les milliardaires - j’espère qu’en donnant plus de pouvoir aux gens ordinaires et moins aux milliardaires ça va améliorer les choses  - j’espère qu’en repartissant mieux l’argent les gens vont se sentir l’espace d’être plus généreux
+
+
+
+NOTES EN VRAC: Le travail c’est la seule façon dans nos sociétés de démontrer qu’on mérite de survivre  - Est-ce que le fait qu’on doit avoir un travail pour avoir de l’argent ne fait pas aussi qu’on invente des jobs qui ne sont pas essentielles? 
+
+
+
+NOTES EN VRAC: Travail non-rémunéré - femmes - recompense que j’ai quand je travaille gratis pour des amis plus grand que s’ils me payaient - s’ils me payaient ils seraient moins reconnaissants plus exigeants - je n’aurais pas la même chose plus l’argent j’aurais l’argent et moins du reste - On passe une partie de notre temps à faire des choses pour notre propre plaisir (le loisir), une autre à faire des choses pour les gens qu'on connaît (le travail invisible), et le reste à faire des choses pour des gens qu'on ne connaît pas nécessairement (le travail). Quand on parle de l'économie, on parle de cette dernière partie. - Ce travail invisible se fait généralement en famille ou en petits groupes, quand on se retrouve dans la même situation que les premiers peuples, qui n'avaient pas besoin d'argent pour que chacun contribue au bien commun. Mais pour faire fonctionner des groupes sociaux plus grands, il faut une courroie de transmission qui élargit le lien de confiance aux gens qu'on ne connaît pas. L'argent est cette courroie. - Une personne qui ne travaille pas peut contribuer plus à la société qu'une personne qui travaille (travail invisible).
+
+Ça pourrait même être une définition simplifiée de l'économie: c'est la somme du temps consacré à des gens qu'on ne connaît pas. Quand on offre notre temps aux gens qu'on connaît, on demande rarement de l'argent en retour. On appelle souvent ça le travail invisible, parce qu'il ne se reflète pas dans le portrait économique.
+
+
+NOTES EN VRAC: Chapitre publicité - valeur négative - Transfert horizontal de valeur - Publicité comparé à la cigarette- besoin qu’on n’avait pas et qu’on doit maintenant combler - Il y a quatre types de travail:
+
+Travail qui crée des besoins = négatif
+Mtravail qui transfère la richesse de manière horizontale = inutile
+
+Travail qui comble des besoins créés or le travail qui crée des besoins = inutile
+
+Faire comprendre que comme pour riche / pauvre, la dichotomie utile / inutile est un spectre et on est rarement complètement seulement un ou l'autre
+
+
+
+
+NOTES EN VRAC: Nommer le revenu minimal selon un terme qui fait référence à l’environnement (objecteur de conscience) - Définir RM en fonction de logé-nourri minimal, pas montant précis - Section sur le revenu minimum - on devrait avoir plus de respect pour quelqu’un qui ne travaille pas mais ne consomme que le minimum vital que pour quelqu’un qui ne travaille pas mais produit autant de gaz à effet de serre avec son jet privé que 20000 snowbirds - À base ce qu’il nous faut pour être heureux c’est un endroit où dormir de la nourriture à notre faim et des gens qu’on aime et qui nous aiment
+
+
+
+
+NOTES EN VRAC: Section sur travailler avec les humains qu'on a.
+
+Certains seront toujours gentils et généreux, peu importe leur contexte.
+
+D'autres seront toujours égoïstes et mesquins, peu importe le contexte.
+
+Mais pour la majorité, ils ont le potentiel d'écouter leur petit ange ou leur petit diable selon le contexte.
+
+Les riches ont un intérêt économique à faire ressortir ce qu'il y a de plus méchant chez l'homme.
+
+L’argent peut servir d’amplificateur idéologique. On l’utilise pour choisir ce qui existe déjà chez les gens et lui donner plus de force.
+
+Si on enlève l’argent, ces sentiments existeront encore mais ils ne prendront pas toute la place
 
 
 Les mesures que je propose dans ce livre pourraient difficilement être plus minimes. La fortune maximale ne touchera directement que quelques milliers de personnes à travers la planète. Pour les autres huit milliards, non seulement ils n'auront rien à verser, mais ils hériteront du pouvoir qu'on retire aux milliardaires.
