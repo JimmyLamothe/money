@@ -139,7 +139,7 @@ Le chômage nous donne un autre exemple simple de la différence entre manque de
 
 Lorsque le chômage est élevé, le gouvernement peut mettre en place des programmes et des subventions pour encourager l'embauche, ou engager directement plus d'employés. Toutes ces mesures coûtent de l'argent, bien sûr, et augmentent le déficit, même si les anciens chômeurs payent désormais des impôts.
 
-Si on oublie un instant l'argent et qu'on pense simplement à la réalité concrète, la situation du pays s'est améliorée. Des chômeurs sont devenus des travailleurs. Dans la mesure où leur travail est utile, ils apportent maintenant une plus grande contribution à la société.
+Si on oublie un instant l'argent et qu'on pense simplement à la réalité concrète, la situation du pays s'est améliorée. Des chômeurs sont devenus des travailleurs. Dans la mesure où leur travail est utile, ils contribuent maintenant davantage à la société.
 
 Mais le gouvernement n'avait pas l'argent, il a dû l'emprunter. S'il en emprunte trop, les riches vont exiger qu'il réduise ses dépenses. Il devra couper les programmes de subvention et d'embauche. Les travailleurs redeviendront des chômeurs. Leur contribution se perdra de nouveau.
 
@@ -148,7 +148,6 @@ On voit la différence entre un manque de ressources et un manque d'argent. Lors
 
 
 
-La productivité économique est aussi en partie une illusion monétaire. Si on produit la même chose pour des gens plus riches, ils la paient plus cher que des plus pauvres. Un pad thaï en Thaïlande est souvent meilleur que celui qu'on peut acheter à Wall Street, mais il se vend bien moins cher. On ne mesure pas la valeur réelle de ce qui est produit, mais sa valeur monétaire. La valeur dépend davantage du client que du produit lui-même.
 
 
 
@@ -278,6 +277,19 @@ De toute manière, peu importe si on pense que c'est souhaitable ou non, il est 
 Les gens les plus doués et motivés à accaparer les ressources collectives vont toujours le faire dans une société qui le permet. Chacun va le faire à plus ou moins grande échelle selon sa motivation et son aptitude à accumuler de la richesse. Si certains s’arrêtent par soucis éthique ou parce qu’ils comprennent que cette accumulation sans fin nuit à leur bonheur, ils seront simplement dépassés par d’autres qui n’ont pas ces soucis ou cette lucidité.
 
 NOTES EN VRAC: Le besoin d’accumuler toujours plus de pouvoir c’est comme un enfant avec un écran, c’est pas parce qu’il en veut toujours plus que c’est bon pour lui.
+
+
+
+
+La productivité économique est aussi en partie une illusion monétaire. Si on produit la même chose pour des gens plus riches, ils la paient plus cher que des plus pauvres. Un pad thaï en Thaïlande est souvent meilleur que celui qu'on peut acheter à Wall Street, mais il se vend bien moins cher. On ne mesure pas la valeur réelle de ce qui est produit, mais sa valeur monétaire. La valeur dépend davantage du client que du produit lui-même.
+
+NOTES EN VRAC: Texte sur temps des gens pays pauvres vaut moins que temps des gens pays riches mais simplement en déménageant dans un pays riche leur temps vaut plus ce qui crée une pression constante - source principale d’instabilité
+
+Globalisation: temps de	ceux dont le temps vaut	plus pour consommer rentre en compétition avec ceux dont le temps vaut
+moins pour produire - en même temps ceux dont le temps vaut plus pour consommer peut profiter du temps de ceux dont le
+temps vaut moins pour produire - mais pas tous sont en compétition au niveau de	la production
+
+Globalisation fait que c’est comme si le pauvre vivait ici
 
 
 
@@ -494,6 +506,13 @@ Mais quand il n’y en aura plus, on ne comprendra pas pourquoi on a toléré le
 De la même façon qu’il a d’abord fallu pouvoir s’imaginer un monde sans roi, il faut d’abord réussir à s’imaginer un monde sans milliardaires
 
 NOTES EN VRAC: Notion que ça convient au paysan que le roi soit de droit divin parce que c’est plus facile d’affronter le monde ainsi
+
+Truc sur la difficulté émotive de changer les règles de l’argent - ça nous déstabilise au plus profond de notre être - on
+préfère l’injustice qu’on connaît qu’une justice inconnue - dans section imaginer le monde sans rois
+
+
+
+
 
 
 Même si on devra sans doute utiliser la force pour que chaque milliardaire accepte des limites à son pouvoir, on doit leur offrir une façon douce de rejoindre la société de manière honorable. Il faut mettre en place un système pour que les riches puissent volontairement remettre leur argent en trop à la société.
