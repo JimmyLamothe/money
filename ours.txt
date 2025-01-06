@@ -129,14 +129,17 @@ Un déficit, c'est donc un transfert de pouvoir des pauvres vers les riches. Sur
 
 En théorie, le gouvernement aurait pu financer les versements aux chômeurs forcés par un impôt ou un taxe spéciale visant les riches. Plutôt que de faire un déficit en demandant la permission aux riches de nourrir les pauvres, on aurait exercé le pouvoir politique pour transférer le droit de consommer directement à ceux qui en avaient besoin, sans compensation future.
 
-En pratique, ça aurait été à peu près impossible. Les outils fiscaux du gouvernement ne sont pas assez précis pour viser directement les plus riches de la société, ceux justement qui se sont enrichis pendant la pandémie. Et surtout, le pouvoir politique est très limité lorsqu'on cherche à l'exercer sur les ultra-riches. On explorera cet aspect plus en profondeur bientôt.
+En pratique, ça aurait été à peu près impossible. Les outils fiscaux du gouvernement ne sont pas assez précis pour viser directement les plus riches de la société, ceux justement qui se sont enrichis pendant la pandémie. Et surtout, le pouvoir politique est très limité lorsqu'on cherche à l'exercer sur les ultra-riches. On explorera cet aspect plus en profondeur plus tard.
 
-Et bien sûr, il y a la question de la justice. Si les riches ont mérité leur pouvoir, est-ce qu'on a le droit moral de leur enlever sans compensation? C'est une question importante à laquelle il faudra revenir également.
+Et bien sûr, il y a la question de la justice. Est-ce que les riches ont mérité ce pouvoir? Si oui, est-ce qu'on a le droit moral de leur enlever sans compensation? C'est une question importante à laquelle il faudra aussi revenir.
 
-Mais peu importe comment on évalue la question morale, il faut comprendre qu'un pays peut très bien produire toutes les ressources nécessaires à sa population mais tout de même faire un déficit si les gens qui ont le droit de les utiliser ne sont pas les mêmes que celles qui ont besoin de les consommer.
+Mais peu importe comment on répond à la question morale, il demeure qu'un pays ne fait pas un déficit par manque de ressources, mais bien parce que les personnes qui ont droit à ces ressources ne sont pas les mêmes que celles qui en ont besoin.
 
 
 
+
+
+Ce qui est vrai dans un sens est aussi vrai dans l'autre. Tout comme on peut avoir suffisamment de ressources mais manquer d'argent, on peut avoir assez d'argent et manquer de ressources, à l'image d'un milliardaire sur une île déserte. Même un gouvernement prêt à dépenser une fortune en éducation ou en santé ne peut pas transformer l'argent en professeurs ou en infirmières à volonté.
 
 
 
@@ -195,7 +198,7 @@ Comment une absurdité peut-elle devenir une évidence quand on remplace un mot 
 
 
 
-Selon les seuils de revenus, on serait riche à partir d'un certain revenu et pauvre en bas d'un autre. Entre les deux, on ferait partie de la classe moyenne, c'est à dire qu'on ne serait ni riche, ni pauvre.
+Selon les seuils de revenus, on serait riche à partir d'un certain revenu et pauvre sous un autre. Entre les deux, on ferait partie de la classe moyenne, c'est à dire qu'on ne serait ni riche, ni pauvre.
 
 Pourtant, en réalité, à peu près tout le monde se réclame de la classe moyenne. Rares sont ceux qui se disent riches ou pauvres. Le riche, c'est toujours celui qui en a un peu plus que nous. C'est le statut auquel on aspire, mais qu'on n'atteint jamais. Et le pauvre, c'est celui qui en a moins. C'est la personne qu'on craint devenir. L'expérience de la plupart des gens est d'aspirer à la richesse et de craindre la pauvreté, peu importe leur revenu.
 
@@ -221,6 +224,16 @@ On déplore souvent le fait qu'autant de gens ne votent plus aux élections. Mai
 
 
 
+
+
+NOTES EN VRAC: Texte sur ce que c’est un milliardaire sans le prisme de l’argent - comparaison explicite aux nobles du moyen-âge - même au niveau du droit? Début: voici toutes les manières dont les riches ressemblent aux nobles - bataillon de fiscalistes vs armée de chevaliers - héritage / celui qui établit la fortune comme celui qui arrache un territoire / le fils paresseux qui la dilapide comme l'héritier faible qui se fait gruger son territoire - On s’est débarrassé des rois mais on a remplacé les barons par des milliardaires qui se transmettent leur pouvoir de père en fils
+
+
+Voici en quoi les milliardaires ressemblent à des barons du moyen-âge si on les regarde à travers le prisme du pouvoir plutôt que celui de l'argent.
+
+Par son pouvoir de dépenser, le milliardaire tire le bénéfice de la vie productive de centaines ou de milliers de personnes pour lui tout seul, comme le baron. Il a sans doute moins de serviteurs qui se dévouent uniquement à lui, mais lorsqu'il s'achète un yacht ou un jet privé, un grand nombre de travailleurs spécialisés vont lui accorder une année ou plus de leur vie active. Ce qui est évident pour d'aussi grandes dépenses reste vrai pour les plus petites. S'il dépense chaque année mille fois le salaire moyen, ça veut dire qu'il faut le travail annuel de mille personnes pour satisfaire ses seuls besoins personnels.
+
+Comme le territoire du baron a d'abord dû être conquis, la fortune du milliardaire n'est pas apparue du néant. 
 
 
 
@@ -283,6 +296,12 @@ Après une révolution contre une dictature, le nouveau gouvernement démocratiq
 
 De toute manière, peu importe si on pense que c'est souhaitable ou non, il est à toutes fins pratiques impossible pour un pays démocratique de rembourser ses dettes. Le gouvernement qui s'y risquerait deviendrait tellement impopulaire à cause des sacrifices nécessaires qu'il se verrait obligé de faire marche arrière ou perdrait les prochaines élections.
 
+
+
+
+NOTES EN VRAC: Définition possible du mérite : contribuer au bien-être des autres
+
+Dès qu’on se demande si c’est au mérite on voit que non (héritage) - mais peut-être que la société doit respecter le besoin humain d’accroître son pouvoir et de transmettre ce pouvoir à ses enfants - immigrants qui en traversant une frontière décuplent leur pouvoir et celui de toute leur descendance
 
 
 
@@ -614,7 +633,7 @@ NOTES EN VRAC: Le besoin d’accumuler toujours plus de pouvoir c’est comme un
 
 NOTES EN VRAC: Comparaison privateer vs. pirate. Ils font la même chose même si un peut se réclamer de l'autorité d'un gouvernement.
 
-
+NOTES EN VRAC: Le gouvernement sait à la cent prêt combien j’ai gagné l’an passé - mais il sait pas au milliard près la fortune d’un multi-milliardaire
 
 
 NOTES EN VRAC: Si l’argent n’existe pas, ça veut aussi dire qu’on ne peut pas régler tous les problèmes en prenant l’argent des riches - si c’est de l’argent qui représente du pouvoir futur on ne peut pas nécessairement le convertir en autant de pouvoir présent - Illusion de la redistribution de la richesse parce que l’argent donne l’illusion que les riches consomment plus de ressources qu’ils ne le font réellement - sac à 35000$ - Rolling Stones a une Bar Mitzvah - Ces choses consomment très peu de ressources et valent seulement cher parce qu’il y a beaucoup de riches en compétition - si l’on donnait leur argent aux pauvres il y aurait compétition pour des ressources réelles - On prétendrait qu'il y a eu une grande destruction de richesse si on interdisait les milliardaires, alors que rien de réel n'aurait été détruit. Une peinture à 100 millions vaudrait maintenant 10 millions, mais elle serait identique. Si on passait la loi de la fortune maximale, les milliardaires seraient instantanément moins riches, avant même d’être obligés de se départir de leurs biens, parce qu’il n’y aurait plus d’ultra-riches pour les acheter. Exemple des tableaux qui valent des centaines de millions. Les gens parleraient de destruction de richesse parce qu’ils ne comprennent pas qu’il ne s’est jamais agit de richesse mais de pouvoir. Les tableaux seraient les mêmes. Rien n’aurait changé sauf leur valeur. Le but n’est pas d’enlever des choses aux milliardaires c’est de leur enlever du pouvoir - Milliardaires pourraient choisir de tout dépenser - Brewster’s Millions - Mais ce serait purement un geste de dépit puisqu’ils ont déjà la capacité de dépenser en pure perte à l’infini - ils pourraient aussi tout brûler et en retirer exactement le même plaisir purement mesquin - Donner exemple concret d’un milliardaire qui doit vendre des parts dans sa compagnie - le prix va descendre, donc destruction de richesse - mais en fait tout ce qui existait vraiment existe encore, les biens, les employés, les réseaux de distribution - tout ce qui a été détruit c’est ce n’existait pas vraiment, l’argent - des gens puissants se partagent moins de pouvoir - il y a eu
@@ -734,3 +753,11 @@ Quant au revenu minimal, il s'agit essentiellement d'une action symbolique, puis
 Si on croit sincèrement à ce changement dans nos perceptions, on voudra naturellement modifier la forme du revenu minimum pour qu'il permette un mode de vie minimal mais honnête, tout en facilitant la possibilité de l'améliorer un peu par le travail à temps partiel ou le bénévolat.
 
 Ces changements ne suffiraient sans doute pas par eux-mêmes à sauver la démocratie et la planète. Mais j'espère qu'ils auront non seulement un effet pratique, mais aussi et surtout un effet moral et symbolique. Elles seront seulement efficaces si elles mènent, suivent et facilitent un changement dans nos valeurs. Si on réussit à les mettre en place, ça voudra dire que la lutte en ce sens nous aura déjà permis de faire un pas énorme dans la bonne direction.
+
+
+
+
+
+
+
+Pour répondre à la question en entrevue - d’abord dire bien sûr l’argent existe, mais on confond l’argent et les ressources, l’argent et ce qu’on achète avec l’argent. Dans la plupart des cas du quotidien la distinction est sans importance, mais elle est essentielle pour comprendre l’économie macro - une société c’est beaucoup de gens qui font des choses les uns pour les autres
