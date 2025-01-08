@@ -174,7 +174,7 @@ Pourquoi est-ce que je définis le riche et le pauvre de cette manière, plutôt
 
 D'abord, je crois que ça reflète mieux la réalité que j'essaie de décrire dans ce livre. Dans l'exemple du déficit, lorsque je parle de riches et de pauvres, je fais partie des deux camps. Une petite part de ma petite richesse sert à financer le déficit de mon pays, et j'en gagne une petite part de pouvoir supplémentaire. Et en tant que chômeur forcé, j'ai fait partie de ceux qui ont dépendu un instant de l'aide du gouvernement.
 
-Mais je crois aussi que cette définition explique la sympathie naturelle que les gens peuvent avoir pour l'expérience de vie et les besoins de gens beaucoup plus riches qu'eux. Comme cette identification est selon moi un des plus gros freins aux changements qui sont nécessaires, je crois qu'il est essentiel de l'expliquer et de montrer en quoi elle vient d'une perception faussée de la réalité. C'est ce qu'on va décortiquer un peu plus tard.
+Mais je crois aussi que cette définition explique la sympathie naturelle que les gens peuvent avoir pour l'expérience de vie et les besoins de gens beaucoup plus riches qu'eux. Comme cette identification est selon moi un des plus gros freins aux changements qui sont nécessaires, je crois qu'il est essentiel de l'expliquer et de montrer en quoi elle vient d'une perception faussée de la réalité. On y reviendra plus tard.
 
 Pour l'instant, j'aimerais seulement qu'on se rappelle que quand j'écris "les riches", je ne parle pas des gens qui gagnent un salaire élevé, ou de quelques milliardaires malveillants. Je parle de tous ceux qui ont réussi à accumuler de la richesse, aussi minuscule soit-elle, chacun étant responsable de sa part, petite ou grande. Et quand je parle des pauvres, je parle de tous ceux qui doivent travailler pour combler leurs besoins.
 
@@ -230,23 +230,31 @@ On déplore souvent le fait qu'autant de gens ne votent plus aux élections. Mai
 
 Voici en quoi les milliardaires ressemblent davantage à des barons du moyen-âge qu'à des citoyens ordinaires, vus à travers le prisme du pouvoir plutôt que celui de l'argent.
 
-Par son pouvoir de dépenser, le milliardaire tire le bénéfice de la vie productive de centaines ou de milliers de personnes pour lui tout seul, comme le baron. Il a sans doute moins de serviteurs qui se dévouent uniquement à lui, mais lorsqu'il s'achète un yacht ou un jet privé, un grand nombre de travailleurs spécialisés vont lui accorder une année ou plus de leur vie active. Ce qui est évident pour d'aussi grandes dépenses reste vrai pour les plus petites. S'il dépense chaque année mille fois le salaire moyen, ça veut dire qu'il faut le travail annuel de mille personnes pour satisfaire ses seuls besoins personnels.
+Par son pouvoir de dépenser, le milliardaire tire le bénéfice de la vie productive de centaines ou de milliers de personnes pour lui tout seul, comme le baron. Il a peut-être moins de serviteurs, mais lorsqu'il s'achète un yacht ou un jet privé, un grand nombre de travailleurs spécialisés vont lui accorder une année ou plus de leur vie active. Ce qui est évident pour d'aussi grandes dépenses reste vrai pour les plus petites. S'il dépense chaque année mille fois le salaire moyen, il faut le travail annuel de mille personnes pour satisfaire ses seuls besoins personnels.
 
 Le territoire du baron et la fortune du milliardaire se transmettent de génération en génération. Dans les deux cas, leurs enfants héritent du grand pouvoir de leurs parents, sans autre forme de mérite qu'être nés dans la bonne famille. Cette transmission perpétuelle crée une aristocratie financière qui n'a rien à envier à celle de l'ancienne nobilité.
 
 Même le premier baron de sa lignée venait généralement d'une famille noble. De la même manière, rares sont les nouveaux milliardaires qui ne sont pas nés de millionnaires. Il faut souvent plusieurs générations pour établir un pouvoir de cette ampleur.
 
-Comme le territoire du baron a d'abord dû être conquis, la fortune du milliardaire n'est pas apparue du néant. Peu importe si le premier baron a obtenu son titre par honneur ou par traitrise, s'il a maintenu sa puissance par un règne juste ou par la terreur, son pouvoir et celui de ses descendants reste le même. De la même manière, de grandes fortunes obtenues de la traite d'esclaves se perpétuent jusqu'à aujourd'hui. Les responsables de la crise des opioïdes sont devenus milliardaires (? à confirmer). Le pouvoir du noble et du grand riche ne dépend pas de l'éthique.
+Comme le territoire du baron a d'abord dû être conquis, la fortune du milliardaire n'est pas apparue du néant. Peu importe si le premier baron a obtenu son titre par honneur ou par traitrise, s'il a maintenu sa puissance par un règne juste ou par la terreur, son pouvoir et celui de ses descendants reste le même. De la même manière, de grandes fortunes obtenues de la traite d'esclaves se perpétuent jusqu'à aujourd'hui. Les responsables de la crise des opioïdes sont devenus milliardaires. Le pouvoir du noble et du grand riche est étranger à la morale.
 
-Le baron et le milliardaire ont des gens à leur service dont l'unique rôle est de défendre leur pouvoir. À l'image des chevaliers et soldats qui défendent le territoire du baron, le milliardaire a un bataillon de fiscalistes, d'avocats et de lobbyistes qui protègent sa fortune. Les uns travaillent à empêcher les gouvernements de passer des lois qui nuiraient à sa fortune, les autres cherchent à contourner les lois qui sont votées.
+Le baron et le milliardaire ont des gens à leur service dont l'unique rôle est de défendre leur pouvoir. À l'image des chevaliers et soldats qui défendent le territoire du baron, le milliardaire a un bataillon de fiscalistes, d'avocats et de lobbyistes qui protègent sa fortune. Les uns travaillent à empêcher les gouvernements de passer des lois qui nuiraient à son pouvoir, les autres cherchent à contourner les lois qui sont votées.
 
-Même la fin d'une lignée de nobles ou de grands riches est souvent similaire. Alors qu'il a généralement fallu une grande force pour arracher un premier territoire ou bâtir une fortune, il en faut beaucoup moins pour la maintenir. Mais les enfants ne sont pas toujours les émules de leurs parents, et le nouveau baron préfére peut-être faire la fête pendant que ses rivaux grugent son territoire, alors que les petits-enfants du milliardaire peuvent se contenter de dilapider sa fortune.
-
-
+Même la fin d'une lignée de nobles ou de grands riches est souvent similaire. Alors qu'il a généralement fallu une grande force pour arracher un premier territoire ou bâtir une fortune, il en faut beaucoup moins pour la maintenir. Mais les enfants ne sont pas toujours les émules de leurs parents, et le nouveau baron préfére peut-être faire la fête pendant que ses rivaux grugent son territoire, alors que les petits-enfants du milliardaire se contentent parfois de dilapider sa fortune.
 
 
 
-NOTES EN VRAC: Poursuivre par mini-texte sur ce en quoi les milliardaires ne ressemblent pas aux barons / ressemblent à citoyens ordinaires: le droit: mais encore… - Défense automatique avec les revenus de la richesse va territoire qui doit être défendu
+
+Voici en quoi les milliardaires ressemblent davantage à des citoyens ordinaires qu'à des barons du moyen-âge, vus à travers le prisme du pouvoir plutôt que celui de l'argent.
+
+En théorie, ils sont égaux devant la loi.
+
+En pratique, un tel pouvoir a ses privilèges dans le système légal comme ailleurs. Il impose un respect qui fait broncher beaucoup de procureurs au moment de lancer une poursuite. Il donne droit aux meilleurs avocats et permet d'aller en appel à l'infini. Et le système légal punit davantage les crimes de pauvres que les crimes de riches. Une fraude de dix millions encourt souvent une moins grande peine qu'un vol mille fois moins important.
+
+Mais malgré ces imperfections, contrairement aux barons, la justice s'applique aussi aux milliardaires. Si certains d'entre eux s'accordent encore le droit de cuissage, ils sont parfois punis.
+
+
+
 
 
 
@@ -259,7 +267,7 @@ Mais en réalité, aucun pays ne rembourse sa dette. En fait, il n'en est jamais
 
 Alors qu'est-ce que c'est vraiment, la dette nationale? Là encore, tout s'éclaire si on oublie l'argent et qu'on parle en termes de pouvoir. On a vu plus tôt que le déficit est en pratique un transfert de pouvoir des pauvres vers les riches. La dette, c'est donc l'accumulation de tout ce pouvoir que les riches ont amassé. Et les riches utilisent le levier de pouvoir de la dette pour obliger les gouvernements à adopter des politiques économiques qui leur sont favorables.
 
-Dans un sens, la dette est simplement une promesse que les pauvres ont fait aux riches. Et rien ne fait plus peur aux riches qu'un pauvre qui menace de renier sa promesse. Il faut l'écraser pour ne pas qu'il donne le mauvais exemple aux autres.
+Dans un sens, la dette est simplement une promesse que les pauvres ont fait aux riches. Et rien ne fait plus peur aux riches qu'un pauvre qui menace de renier sa promesse. Il faut l'écraser avant qu'il donne le mauvais exemple aux autres.
 
 La Grèce nous a fourni un exemple frappant de cette réalité il n'y a pas si longtemps. Sa dette nationale avait dépassé les niveaux acceptés par les créditeurs et le gouvernement s'est vu obligé d'imposer des mesures d'austérité sévères en échange de l'argent qu'il lui fallait pour financer ses dépenses. Les conséquences de ces mesures ont été dévastatrices et le pays est tombé en profonde récession.
 
@@ -289,9 +297,9 @@ Mais on n'est pas tous égaux face au crédit. On peut le constater en reprenant
 
 Pour les vrais pauvres, le crédit est une tentation à laquelle on cède, ou le seul moyen de parer à un imprévu. Dans les deux cas, on perd le peu de pouvoir qu'on avait sur notre temps et celui des autres. On peut seulement emprunter à des conditions onéreuses, parce qu'on risque de ne pas pouvoir rembourser. C'est pourquoi l'usurier a longtemps été le petit roi des quartiers pauvres. Si on arrive à épargner de peine et de misère un petit montant, il ne nous rapporte à peu près rien et il s'évapore au premier coup dur.
 
-La fourmi est l'image populaire du comportement sain face au crédit. On épargne un maximum et on l'investit en suivant les bons conseils des économistes. Notre petite cagnotte grossit tranquillement jusqu'à ce qu'on puisse vivre des revenus qu'elle génère. Le crédit semble avoir été inventé pour la fourmi tellement elle y est bien adaptée.
+La fourmi est l'image populaire du comportement sain face au crédit. On épargne un maximum et on l'investit en suivant les bons conseils des économistes. Notre petite cagnotte grossit tranquillement jusqu'à ce qu'on puisse vivre des revenus qu'elle génère. Le crédit semble avoir été inventé pour la fourmi tant elle y est bien adaptée.
 
-Pas besoin d'insister sur la cigale avec son hypothèque démesurée qu'on réhypothèque dès que possible pour rénover au goût du jour. Mais c'est aussi parfois la cigale, moins frileuse face au risque, qui va emprunter gros pour démarrer son entreprise. Avec un peu de chance, ça va lui permettre de rejoindre le club des vrais riches, bien que ce soit sans doute tout en bas de l'échelle.
+Pas besoin d'insister sur la cigale avec son hypothèque démesurée et réhypothèque dès que possible pour rénover au goût du jour. Mais c'est aussi parfois la cigale, moins frileuse face au risque, qui va emprunter gros pour démarrer son entreprise. Avec un peu de chance, ça va lui permettre de rejoindre le club des vrais riches, bien que ce soit sans doute tout en bas de l'échelle.
 
 Quant au vrai riche, son pouvoir vient essentiellement du crédit qu'il fait aux autres. Peu importe où il place son argent, il lui en revient toujours plus. Il a accès aux meilleurs taux et aux meilleures opportunités d'investissement. S'il emprunte, c'est souvent dans le cadre d'une structure financière qui limite ses pertes si l'entreprise échoue.
 
@@ -302,7 +310,24 @@ Et comment juger un pays face au crédit? Votre opinion est aussi valable que la
 
 
 
-Certains d'entre vous croyez sûrement encore qu'on devrait simplement rembourser notre dette nationale, comme vous remboursez vos propres dettes. Vous croyez peut-être même que c'est un devoir moral. J'aimerais simplement soulever quelques différences entre la dette d'un gouvernement et la dette d'un individu.
+
+
+
+Beaucoup des maux de notre société découlent du fait qu'autant de nous sommes riches, selon la définition qu'on a donnée plus tôt. La majorité de la population a une petite richesse qui génère un petit revenu. Même si ce petit pécule n'a rien d'une grande fortune, il nous fait vivre des expériences qui s'apparentent à celles des vrais riches. Et surtout, ces expériences génèrent des émotions qui nous font sympathiser avec leurs désirs.
+
+Lorsqu'on parle d'impôts sur la succession, on pense à nos enfants. On les imagine enfin propriétaires plutôt que locataires toute leur vie. On veut les protéger contre les malchances et les mésaventures. On ne veut surtout pas que le gouvernement vienne piger encore dans ce qu'on a réussi à accumuler au prix des efforts d'une vie. Et on comprend l'émotion du grand riche, qui veut aussi transmettre ce qu'il a accumulé à sa descendance.
+
+Pourtant, ce grand riche a peut-être déjà offert trois propriétés de son vivant à son enfant. Cet enfant pourrait même être le propriétaire qui a évincé le vôtre de son logement pour des rénovations prétextes à une augmentation monstre de loyer. Ou c'est peut-être un gentil milliardaire qui donnen à la charité et finance écoles et musées, pour éviter les caricatures sombres.
+
+Dans les deux cas, son désir d'éviter les impôts sur la succession n'a rien à voir avec le vôtre. Le pouvoir qu'il veut transmettre est un pouvoir qui permet de dominer, alors que le pouvoir que vous voulez transmettre à vos enfants est le pouvoir de se protéger. Une limite imposable suffisamment élevée permettrait aisément de différencier les deux situations. Si le riche ne peut pas transmettre intact son pouvoir de domination, le besoin de protection du moins riche devient d'autant moins grand.
+
+Mais l'émotion est la même. Et cette émotion fait que beaucoup d'entre nous défendons des intérêts contraires aux nôtres. 
+
+
+
+
+
+Beaucoup d'entre vous croyez sûrement malgré tout qu'on devrait simplement rembourser notre dette nationale, comme vous remboursez vos propres dettes. Vous croyez peut-être même que c'est un devoir moral. J'aimerais simplement soulever quelques différences entre la dette d'un gouvernement et la dette d'un individu.
 
 D'abord, quand on contracte une dette soi-même, c'est naturel de sentir un devoir moral de la rembourser. Mais on naît déjà avec notre part de la dette de notre pays. On peut refuser l'héritage de nos parents s'il s'agit de dettes, mais on n'a pas le droit de refuser l'héritage financier de nos ancêtres. On naît avec une dette qu'on n'a pas contractée.
 
