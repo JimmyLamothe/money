@@ -160,7 +160,7 @@ On voit la différence entre un manque de ressources et un manque d'argent. Lors
 
 
 
-Je ne crois pas pouvoir aller plus loin sans expliquer ce que j'entends par riche et pauvre. Ça peut sonner très manichéen, comme s'il y avait les gentils pauvres d'un côté et les méchants riches de l'autre. Mais en réalité, la plupart d'entre nous appartenons aux deux catégories à la fois. Et ces catégories rassemblent des gens dont la vie et les intérêts sont très différents.
+Je ne crois pas pouvoir aller plus loin sans expliquer ce que j'entends par riche et pauvre. Ça peut sonner manichéen, comme s'il y avait les gentils pauvres d'un côté et les méchants riches de l'autre. Mais en réalité, la plupart d'entre nous appartenons aux deux catégories à la fois. Et ces catégories rassemblent des gens dont la vie et les intérêts sont très différents.
 
 Qu'est-ce que c'est, un riche, exactement? Dans un sens, c'est moi. Quiconque a assez d'épargne pour en tirer un petit revenu est riche dans la mesure où son argent travaille aussi.
 
@@ -228,7 +228,7 @@ On déplore souvent le fait qu'autant de gens ne votent plus aux élections. Mai
 
 
 
-Voici en quoi les milliardaires ressemblent davantage à des barons du moyen-âge qu'à des citoyens ordinaires, vus à travers le prisme du pouvoir plutôt que celui de l'argent.
+Voici en quoi les milliardaires ressemblent davantage à des barons du moyen-âge qu'à des citoyens ordinaires, vus par le prisme du pouvoir plutôt que celui de l'argent.
 
 Par son pouvoir de dépenser, le milliardaire tire le bénéfice de la vie productive de centaines ou de milliers de personnes pour lui tout seul, comme le baron. Il a peut-être moins de serviteurs, mais lorsqu'il s'achète un yacht ou un jet privé, un grand nombre de travailleurs spécialisés vont lui accorder une année ou plus de leur vie active. Ce qui est évident pour d'aussi grandes dépenses reste vrai pour les plus petites. S'il dépense chaque année mille fois le salaire moyen, il faut le travail annuel de mille personnes pour satisfaire ses seuls besoins personnels.
 
@@ -240,12 +240,14 @@ Comme le territoire du baron a d'abord dû être conquis, la fortune du milliard
 
 Le baron et le milliardaire ont des gens à leur service dont l'unique rôle est de défendre leur pouvoir. À l'image des chevaliers et soldats qui défendent le territoire du baron, le milliardaire a un bataillon de fiscalistes, d'avocats et de lobbyistes qui protègent sa fortune. Les uns travaillent à empêcher les gouvernements de passer des lois qui nuiraient à son pouvoir, les autres cherchent à contourner les lois qui sont votées.
 
+Les besoins matériels du baron et du milliardaire sont comblés à un tel point qu'ils peuvent dévouer des ressources énormes à l'accroissement continu de leur pouvoir. [expand on this?]
+
 Même la fin d'une lignée de nobles ou de grands riches est souvent similaire. Alors qu'il a généralement fallu une grande force pour arracher un premier territoire ou bâtir une fortune, il en faut beaucoup moins pour la maintenir. Mais les enfants ne sont pas toujours les émules de leurs parents, et le nouveau baron préfére peut-être faire la fête pendant que ses rivaux grugent son territoire, alors que les petits-enfants du milliardaire se contentent parfois de dilapider sa fortune.
 
 
 
 
-Voici en quoi les milliardaires ressemblent davantage à des citoyens ordinaires qu'à des barons du moyen-âge, vus à travers le prisme du pouvoir plutôt que celui de l'argent.
+Voici en quoi les milliardaires ressemblent davantage à des citoyens ordinaires qu'à des barons du moyen-âge, vus par le prisme du pouvoir plutôt que celui de l'argent.
 
 En théorie, ils sont égaux devant la loi.
 
@@ -317,11 +319,11 @@ Beaucoup des maux de notre société découlent du fait qu'autant de nous sommes
 
 Lorsqu'on parle d'impôts sur la succession, on pense à nos enfants. On les imagine enfin propriétaires plutôt que locataires toute leur vie. On veut les protéger contre les malchances et les mésaventures. On ne veut surtout pas que le gouvernement vienne piger encore dans ce qu'on a réussi à accumuler au prix des efforts d'une vie. Et on comprend l'émotion du grand riche, qui veut aussi transmettre ce qu'il a accumulé à sa descendance.
 
-Pourtant, ce grand riche a peut-être déjà offert trois propriétés de son vivant à son enfant. Cet enfant pourrait même être le propriétaire qui a évincé le vôtre de son logement pour des rénovations prétextes à une augmentation monstre de loyer. Ou c'est peut-être un gentil milliardaire qui donnen à la charité et finance écoles et musées, pour éviter les caricatures sombres.
+Pourtant, ce grand riche a peut-être déjà offert dix propriétés de son vivant à son enfant. Cet enfant pourrait même être le propriétaire qui a évincé le vôtre de son logement pour des rénovations prétextes à une augmentation monstre de loyer. Ou c'est peut-être un gentil milliardaire qui donne à la charité et finance écoles et musées, pour éviter les caricatures sombres.
 
 Dans les deux cas, son désir d'éviter les impôts sur la succession n'a rien à voir avec le vôtre. Le pouvoir qu'il veut transmettre est un pouvoir qui permet de dominer, alors que le pouvoir que vous voulez transmettre à vos enfants est le pouvoir de se protéger. Une limite imposable suffisamment élevée permettrait aisément de différencier les deux situations. Si le riche ne peut pas transmettre intact son pouvoir de domination, le besoin de protection du moins riche devient d'autant moins grand.
 
-Mais l'émotion est la même. Et cette émotion fait que beaucoup d'entre nous défendons des intérêts contraires aux nôtres. 
+Mais l'émotion est la même. Et cette émotion commune fait que beaucoup d'entre nous défendons des intérêts contraires aux nôtres. 
 
 
 
@@ -329,7 +331,7 @@ Mais l'émotion est la même. Et cette émotion fait que beaucoup d'entre nous d
 
 Beaucoup d'entre vous croyez sûrement malgré tout qu'on devrait simplement rembourser notre dette nationale, comme vous remboursez vos propres dettes. Vous croyez peut-être même que c'est un devoir moral. J'aimerais simplement soulever quelques différences entre la dette d'un gouvernement et la dette d'un individu.
 
-D'abord, quand on contracte une dette soi-même, c'est naturel de sentir un devoir moral de la rembourser. Mais on naît déjà avec notre part de la dette de notre pays. On peut refuser l'héritage de nos parents s'il s'agit de dettes, mais on n'a pas le droit de refuser l'héritage financier de nos ancêtres. On naît avec une dette qu'on n'a pas contractée.
+D'abord, quand on contracte une dette soi-même, c'est naturel de sentir un devoir moral de la rembourser. Mais on naît déjà avec notre part de la dette de notre pays. On peut refuser l'héritage de nos parents s'ils n'ont laissé que des dettes, mais on n'a pas le droit de refuser l'héritage financier de nos ancêtres. On naît avec une dette qu'on n'a pas contractée.
 
 Après une révolution contre une dictature, le nouveau gouvernement démocratique est responsable des dettes que le dictateur avait contractées pour leur mener la guerre. Quand les esclaves d'Haïti ont remporté leur combat pour leur liberté, ils ont dû rembourser la France pendant plus d'un siècle pour compenser les anciens esclavagistes. Les dettes gouvernementales ne se préoccupent en rien de la morale.
 
@@ -351,10 +353,16 @@ Texte sur le mérite: Passer rapidement sur la question du mérite pour remettre
 
 La question du mérite est à la fois la plus importante et la moins importante. Est-ce que les riches méritent leur fortune? Est-ce que les pauvres méritent leur misère? 
 
+Ce serait tentant de chercher simplement à prouver que la société est injuste. Mais il me semble que ça présumerait d'une chose: que les gens veulent d'abord et avant tout vivre dans une société juste. Si c'était le cas, il suffirait en effet de démontrer l'injustice pour motiver les gens à vouloir changer les choses.
 
 
 
-Bien sûr que c'est immoral qu'il y ait des milliardaires. On peut faire semblant que non, comme on peut faire semblant qu'il n'y a pas de changements climatiques. Même qu'on doit faire semblant, jusqu'à un certain point. Il faut une part de déni au quotidien pour préserver son équilibre mental dans un monde instable rempli d'injustices.
+À quoi bon? Il me semble qu'il suffit de rappeler qu'on peut naître milliardaire pour évacuer complètement la possibilité qu'on habite un monde juste.  
+
+
+Bien sûr que c'est immoral qu'il y ait des milliardaires.  On peut faire semblant que non, comme on peut faire semblant qu'il n'y a pas de changements climatiques. Même qu'on doit faire semblant, jusqu'à un certain point. Il faut une part de déni au quotidien pour préserver son équilibre mental dans un monde incertain rempli d'injustices.
+
+Il suffit de se rappeler qu'on peut naître milliardaire pour évacuer complètement la possibilité que ce soit justifié.
 
 Paragraphe(s) sur la recherche du pouvoir
 
@@ -713,6 +721,20 @@ NOTES EN VRAC: Comparaison privateer vs. pirate. Ils font la même chose même s
 
 NOTES EN VRAC: Le gouvernement sait à la cent prêt combien j’ai gagné l’an passé - mais il sait pas au milliard près la fortune d’un multi-milliardaire
 
+Un milliardaire, ça ne sert à rien - ou plutôt ça ne sert à rien qu’il soit milliardaire - s’il ne travaille encore que pour encore plus de pouvoir, il ne vaut pas plus qu’une vieille vedette sportive qui se présente sur le terrain uniquement pour empocher son gros salaire
+
+Le capitalisme n’a pas besoin de milliardaires. Un milliardaire, c’est quelqu’un dont tous les besoins sont tellement satisfaits qu’il peut utiliser son pouvoir pour changer le système en sa faveur 
+
+
+Lorsqu'on tente d'enlever du pouvoir aux puissants, ils répondent généralement par la violence. Et la violence est à la mesure de leur pouvoir. Plus ils sont puissants, plus cette violence sera grande.
+
+Il ne faut donc pas se faire d'illusion. Comme les rois, beaucoup de milliardaires vont répondre de manière violente à la perte de pouvoir. Le fait que ce soit une violence économique ne la rendra pas moins destructrice.
+
+C'est seulement parce qu'on vit dans un monde où il existe déjà autant de violence économique, et parce que cette violence s'empire sans cesse, qu'il devient envisageable de prendre le risque d'affronter la riposte des milliardaires.
+
+Il me semble même probable que la conscience de la gravité de la situation n'est pas encore assez répandue pour que ce genre d'action soit déjà possible. Mais c'est pourquoi il est important de semer le terrain pour être prêts à agir de manière positive dès que les conditions le permettent.
+
+
 
 NOTES EN VRAC: Si l’argent n’existe pas, ça veut aussi dire qu’on ne peut pas régler tous les problèmes en prenant l’argent des riches - si c’est de l’argent qui représente du pouvoir futur on ne peut pas nécessairement le convertir en autant de pouvoir présent - Illusion de la redistribution de la richesse parce que l’argent donne l’illusion que les riches consomment plus de ressources qu’ils ne le font réellement - sac à 35000$ - Rolling Stones a une Bar Mitzvah - Ces choses consomment très peu de ressources et valent seulement cher parce qu’il y a beaucoup de riches en compétition - si l’on donnait leur argent aux pauvres il y aurait compétition pour des ressources réelles - On prétendrait qu'il y a eu une grande destruction de richesse si on interdisait les milliardaires, alors que rien de réel n'aurait été détruit. Une peinture à 100 millions vaudrait maintenant 10 millions, mais elle serait identique. Si on passait la loi de la fortune maximale, les milliardaires seraient instantanément moins riches, avant même d’être obligés de se départir de leurs biens, parce qu’il n’y aurait plus d’ultra-riches pour les acheter. Exemple des tableaux qui valent des centaines de millions. Les gens parleraient de destruction de richesse parce qu’ils ne comprennent pas qu’il ne s’est jamais agit de richesse mais de pouvoir. Les tableaux seraient les mêmes. Rien n’aurait changé sauf leur valeur. Le but n’est pas d’enlever des choses aux milliardaires c’est de leur enlever du pouvoir - Milliardaires pourraient choisir de tout dépenser - Brewster’s Millions - Mais ce serait purement un geste de dépit puisqu’ils ont déjà la capacité de dépenser en pure perte à l’infini - ils pourraient aussi tout brûler et en retirer exactement le même plaisir purement mesquin - Donner exemple concret d’un milliardaire qui doit vendre des parts dans sa compagnie - le prix va descendre, donc destruction de richesse - mais en fait tout ce qui existait vraiment existe encore, les biens, les employés, les réseaux de distribution - tout ce qui a été détruit c’est ce n’existait pas vraiment, l’argent - des gens puissants se partagent moins de pouvoir - il y a eu
 destruction de pouvoir
@@ -745,8 +767,12 @@ NOTES EN VRAC: Fille de Vidéotron- paradoxe que son travail est à la fois pure
 
 
 
+NOTES EN VRAC: Texte sur l'IA - On a seulement peur parce qu'on doit travailler pour prouver notre mérite
+
+NOTES EN VRAC: Juste après texte IA - Comparaison bitcoin - concept du proof of work - toute l’énergie gaspillée en pure perte pour prouver le mérite qui donne droit à la récompense
 
 
+NOTES EN VRAC: Société d’abondance - on est passé sans s’en rendre compte d’un monde où on produisait pour consommer à un monde où on consommait pour produire - lien obésité - Parallèle surconsommation / obésité- ça répond d’abord à un besoin fondamental mais si la pulsion ne connaît pas de limite de satiété ça mène à la destruction de l’organisme
 
 
 
@@ -797,7 +823,8 @@ Travail qui comble des besoins créés par le travail qui crée des besoins = in
 Faire comprendre que comme pour riche / pauvre, la dichotomie utile / inutile est un spectre et on est rarement complètement seulement un ou l'autre
 
 
-NOTES EN VRAC: Parallèle surconsommation / obésité- ça répond d’abord à un besoin fondamental mais si la pulsion ne connaît pas de limite de satiété ça mène à la destruction de l’organisme
+NOTES EN VRAC: Parallèle surconsommation / obésité- ça répond d’abord à un besoin fondamental mais si la pulsion ne connaît pas de limite de satiété ça mène à la destruction de l’organisme - Société d’abondance - on est passé sans s’en rendre compte d’un monde où on produisait pour consommer à un monde où on consommait pour produire - lien obésité
+
 
 
 NOTES EN VRAC: Nommer le revenu minimal selon un terme qui fait référence à l’environnement (objecteur de conscience) - Définir RM en fonction de logé-nourri minimal, pas montant précis - Section sur le revenu minimum - on devrait avoir plus de respect pour quelqu’un qui ne travaille pas mais ne consomme que le minimum vital que pour quelqu’un qui ne travaille pas mais produit autant de gaz à effet de serre avec son jet privé que 20000 snowbirds - À base ce qu’il nous faut pour être heureux c’est un endroit où dormir de la nourriture à notre faim et des gens qu’on aime et qui nous aiment
