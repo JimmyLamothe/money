@@ -240,7 +240,7 @@ Comme le territoire du baron a d'abord dû être conquis, la fortune du milliard
 
 Le baron et le milliardaire ont des gens à leur service dont l'unique rôle est de défendre leur pouvoir. À l'image des chevaliers et soldats qui défendent le territoire du baron, le milliardaire a un bataillon de fiscalistes, d'avocats et de lobbyistes qui protègent sa fortune. Les uns travaillent à empêcher les gouvernements de passer des lois qui nuiraient à son pouvoir, les autres cherchent à contourner les lois qui sont votées.
 
-Les besoins matériels du baron et du milliardaire sont comblés à un tel point qu'ils peuvent dévouer des ressources énormes à l'accroissement continu de leur pouvoir. [expand on this?]
+Même après avoir comblé tous leurs besoins matériels et toutes leurs envies imaginables, le baron et le milliardaire disposent encore de ressources énormes. Ils peuvent donc en dévouer l'essentiel à l'accroissement continu de leur pouvoir.
 
 Même la fin d'une lignée de nobles ou de grands riches est souvent similaire. Alors qu'il a généralement fallu une grande force pour arracher un premier territoire ou bâtir une fortune, il en faut beaucoup moins pour la maintenir. Mais les enfants ne sont pas toujours les émules de leurs parents, et le nouveau baron préfére peut-être faire la fête pendant que ses rivaux grugent son territoire, alors que les petits-enfants du milliardaire se contentent parfois de dilapider sa fortune.
 
@@ -315,11 +315,11 @@ Et comment juger un pays face au crédit? Votre opinion est aussi valable que la
 
 
 
-Beaucoup des maux de notre société découlent du fait qu'autant de nous sommes riches, selon la définition qu'on a donnée plus tôt. La majorité de la population a une petite richesse qui génère un petit revenu. Même si ce petit pécule n'a rien d'une grande fortune, il nous fait vivre des expériences qui s'apparentent à celles des vrais riches. Et surtout, ces expériences génèrent des émotions qui nous font sympathiser avec leurs désirs.
+Notre incapacité à résoudre les maux de notre société découle en partie du fait qu'autant de nous sommes riches, selon la définition qu'on a donnée plus tôt. La majorité de la population a une petite richesse qui génère un petit revenu. Même si ce petit pécule n'a rien d'une grande fortune, il nous fait vivre des expériences qui s'apparentent à celles des vrais riches. Et surtout, ces expériences génèrent des émotions qui nous font sympathiser avec leurs désirs.
 
 Lorsqu'on parle d'impôts sur la succession, on pense à nos enfants. On les imagine enfin propriétaires plutôt que locataires toute leur vie. On veut les protéger contre les malchances et les mésaventures. On ne veut surtout pas que le gouvernement vienne piger encore dans ce qu'on a réussi à accumuler au prix des efforts d'une vie. Et on comprend l'émotion du grand riche, qui veut aussi transmettre ce qu'il a accumulé à sa descendance.
 
-Pourtant, ce grand riche a peut-être déjà offert dix propriétés de son vivant à son enfant. Cet enfant pourrait même être le propriétaire qui a évincé le vôtre de son logement pour des rénovations prétextes à une augmentation monstre de loyer. Ou c'est peut-être un gentil milliardaire qui donne à la charité et finance écoles et musées, pour éviter les caricatures sombres.
+Pourtant, ce grand riche a peut-être déjà offert dix propriétés de son vivant à son enfant. Cet enfant pourrait même être le propriétaire qui a évincé le vôtre de son logement pour des rénovations prétextes à une augmentation monstre de loyer. Ou, pour éviter les caricatures sombres, c'est peut-être un gentil milliardaire qui donne à la charité et finance écoles et musées.
 
 Dans les deux cas, son désir d'éviter les impôts sur la succession n'a rien à voir avec le vôtre. Le pouvoir qu'il veut transmettre est un pouvoir qui permet de dominer, alors que le pouvoir que vous voulez transmettre à vos enfants est le pouvoir de se protéger. Une limite imposable suffisamment élevée permettrait aisément de différencier les deux situations. Si le riche ne peut pas transmettre intact son pouvoir de domination, le besoin de protection du moins riche devient d'autant moins grand.
 
@@ -331,7 +331,7 @@ Mais l'émotion est la même. Et cette émotion commune fait que beaucoup d'entr
 
 Beaucoup d'entre vous croyez sûrement malgré tout qu'on devrait simplement rembourser notre dette nationale, comme vous remboursez vos propres dettes. Vous croyez peut-être même que c'est un devoir moral. J'aimerais simplement soulever quelques différences entre la dette d'un gouvernement et la dette d'un individu.
 
-D'abord, quand on contracte une dette soi-même, c'est naturel de sentir un devoir moral de la rembourser. Mais on naît déjà avec notre part de la dette de notre pays. On peut refuser l'héritage de nos parents s'ils n'ont laissé que des dettes, mais on n'a pas le droit de refuser l'héritage financier de nos ancêtres. On naît avec une dette qu'on n'a pas contractée.
+D'abord, quand on contracte une dette soi-même, c'est naturel de sentir un devoir moral de la rembourser. Mais on naît déjà avec notre part de la dette de notre pays. On peut refuser l'héritage de nos parents s'ils nous ont laissés plus de dettes que de biens, mais on ne peut pas refuser l'héritage financier de nos ancêtres. On naît avec une dette qu'on n'a pas contractée.
 
 Après une révolution contre une dictature, le nouveau gouvernement démocratique est responsable des dettes que le dictateur avait contractées pour leur mener la guerre. Quand les esclaves d'Haïti ont remporté leur combat pour leur liberté, ils ont dû rembourser la France pendant plus d'un siècle pour compenser les anciens esclavagistes. Les dettes gouvernementales ne se préoccupent en rien de la morale.
 
@@ -353,7 +353,38 @@ Texte sur le mérite: Passer rapidement sur la question du mérite pour remettre
 
 La question du mérite est à la fois la plus importante et la moins importante. Est-ce que les riches méritent leur fortune? Est-ce que les pauvres méritent leur misère? 
 
-Ce serait tentant de chercher simplement à prouver que la société est injuste. Mais il me semble que ça présumerait d'une chose: que les gens veulent d'abord et avant tout vivre dans une société juste. Si c'était le cas, il suffirait en effet de démontrer l'injustice pour motiver les gens à vouloir changer les choses.
+C'est la question la plus importante, parce que le sentiment de justice est universel. On veut tous habiter dans un monde où on a l'impression que chacun a ce qu'il mérite.
+
+Mais c'est aussi la question la moins importante, parce qu'on veut d'abord habiter dans un monde où on a personnellement suffisamment de pouvoir. On veut vivre dans un monde juste dans la mesure où il nous accorde assez de pouvoir.
+
+Chacun d'entre nous ressent le besoin de pouvoir et le besoin d'équité en proportions différentes. Pour certains, ce désir de pouvoir semble infini. Ils luttent toujours pour en avoir plus. Mais pour la plupart d’entre nous, le désir d’accroissement de puissance s’amenuise à mesure que nos besoins et envies sont comblés.
+
+Bien sûr, j'écris ce livre parce que je ressens un besoin plus fort de justice que de pouvoir. Mais je suis conscient que c'est d'abord parce que mon besoin de pouvoir, même s'il est sans doute modeste par rapport à d'autres, a surtout été comblé depuis ma petite enfance jusqu'à aujourd'hui. On n'est jamais aussi conscients de nos besoins comblés que de ceux qui restent insatisfaits.
+
+Ce serait facile de me contenter de décrire les injustices de notre monde et d'en imaginer un plus juste. Mais ce serait une erreur de faire abstraction de ce besoin de pouvoir. Des gens quittent leurs familles, leurs amis et les lieux qu'ils ont connus et aimés pour vivre dans un pays étranger où leurs enfants auront le pouvoir dont ils ont besoin.
+
+Et de manière plus générale, s'il y a en l'humain une certaine recherche du pouvoir, la société, peu importe sa forme d'organisation, doit comporter des leviers de pouvoir qui permettent de canaliser cette pulsion individuelle de manière positive pour l'ensemble. Mais ces leviers de pouvoir, quels qu'ils soient, seront inévitablement la cible de convoitise des individus les plus assoifés de pouvoir, qui tenteront de les asservir à leur bénéfice personnel. Plus ces leviers sont puissants, plus les conséquences seront graves s'ils sont détournés du bien commun.
+
+Une des grandes qualités du capitalisme, c'est de permettre une société fonctionnelle tout en donnant libre cours à la recherche individuelle de pouvoir. Les leviers de pouvoir du gouvernement n'ont donc pas besoin d'être très puissants. Ils doivent simplement suffir à canaliser le mouvement naturel pour éviter les débordements. C'est sans doute pour cette raison que le capitalisme s'est montré aussi compatible avec la démocratie.
+
+Est-ce que les milliardaires sont une conséquence inévitable d'une société où on permet à chacun de tenter d'accroître son pouvoir et de transmettre ce pouvoir à ses enfants? C'est peut-être là la vraie question.
+
+
+
+
+Le désir de justice et le désir d'accroissement me semblent être deux besoins fondamentaux auxquels la société doit donner une place importante.
+
+
+
+
+Pour d'autres, comme moi, 
+
+
+J’aurais pu passer ce livre uniquement à décrire les injustices du monde et imaginer un monde juste. Bien d’autres l’ont fait avant moi. Mais il me semble que ça présumerait d'une chose: que les gens veulent d'abord et avant tout vivre dans une société juste. Si c'était le cas, il suffirait en effet de démontrer l'injustice pour que les gens veuillent changer les choses.
+
+
+
+
 
 
 
