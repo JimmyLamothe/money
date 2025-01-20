@@ -155,6 +155,8 @@ Mais le gouvernement n'avait pas l'argent, il a dû l'emprunter. S'il en emprunt
 
 On voit la différence entre un manque de ressources et un manque d'argent. Lorsque le système économique échoue à utiliser efficacement toutes les ressources, le gouvernement ne peut pas simplement les mettre à profit sans payer son tribut aux riches. S'il ne peut pas payer ce tribut, les ressources se perdent, tout simplement.
 
+NOTE IMPORTANTE: Cet exemple ignore le fait que les anciens chômeurs vont utiliser leur salaire pour consommer davantage de ressources, ce qui complexifie la situation. Soit expliquer cette complexité, soit éliminer l'exemple s'il est trop complexe pour cette section.
+
 
 
 
@@ -450,7 +452,7 @@ Même si chaque changement est minuscule, leur accumulation transforme constamme
 
 
 
-Imaginons un instant une cellule qui... On vient d'imaginer un milliardaire.
+
 
 
 
@@ -458,42 +460,21 @@ Imaginons un instant une cellule qui... On vient d'imaginer un milliardaire.
 
 Bien sûr, il y a une différence fondamentale entre une "cellule" humaine et une véritable cellule. Comme les cellules d'un organisme partagent pour l'essentiel un même code génétique, elles sont toutes entières dévouées à sa survie et son épanouissement. Elles ne luttent pas les unes contres les autres, mais collaborent dans un but commun. Si elles reçoivent un signal leur ordonnant de mourir, elles obéissent sur le champ.
 
-Imaginons une cellule qui refuse d'obéir à ce signal. Elle commence plutôt à gonfler, et surtout à se diviser sans arrêt. Cet amas cellulaire accapare les ressources qui devaient servir à l'organisme. Puis, les cellules mutantes se propagent à travers le corps et s'infiltrent dans les organes. Si rien n'empêche leur croissance, leur masse suffit à entraver le bon fonctionnement de l'organisme et cause tôt ou tard sa mort.
+Imaginez une cellule qui ignore ce signal. Elle commence plutôt à gonfler, et surtout à se diviser sans arrêt. Cet amas cellulaire accapare les ressources qui devaient servir à l'organisme. Puis, les cellules mutantes se propagent à travers le corps et s'infiltrent dans les organes. Si rien n'empêche leur croissance, leur masse suffit un jour à entraver le bon fonctionnement de l'organisme et cause tôt ou tard sa mort.
 
 Je viens de décrire de manière très simplifiée l'apparition et l'évolution d'un cancer.
 
-Heureusement, le corps a des défenses pour se protéger. Lorsqu'une cellule refuse de se saborder et se développe en tumeur, des cellules spécialisées tentent de les éliminer. C'est seulement quand les défenses de l'organisme échouent pour différentes raisons qu'il faut recourir à la médecine moderne.
+Heureusement, le corps a des défenses pour se protéger. Lorsque des cellules défectueuses refusent de se saborder, d'autres cellules spécialisées tentent de les éliminer avant qu'une tumeur se forme. C'est seulement quand les défenses de l'organisme échouent pour différentes raisons qu'il faut recourir à la médecine moderne.
 
-D'un certain point de vue, les sociétés humains ressemblent à un organisme dont toutes les cellules ont quelque chose en commun avec ces cellules mutantes. (comparer non pas milliardaires seulement, mais nous tous, chacun à notre manière)
+Imaginez maintenant un organisme composé uniquement de ce type de cellules. On se figure mal comment un tel organisme pourrait survivre, pourtant c’est une métaphore de la société humaine. C'est presque miraculeux que nos sociétés fonctionnent aussi bien, malgré leurs défauts, sans que les être humains se soumettent entièrement au bien collectif, comme les cellules d'un organisme.
 
-Toute la puissance de l'être humain (certains diraient même sa surpuissance) provient de sa capacité sociale. 
+Bien sûr, un monde où les humains acceptent volontiers de mettre fin à leur vie pour le bien du groupe serait une dystopie digne d'un film de science-fiction. Les cultures individualistes accordent plus d’importance au bonheur personnel, les collectivistes priorisent le bien-être commun, mais il n’existe pas de société humaine qui ressemble à une ruche d’abeilles. Je suis reconnaissant de vivre dans une culture qui admet que j'accorde de l'importance à mon bonheur.
 
-
-
-
+Mais comme les organismes, nos sociétés ont besoin de défenses puissantes, afin de se protéger d'individus qui amassent beaucoup de pouvoir et détournent toujours plus de ressources à accroître ce pouvoir. Pour l'instant, ces défenses font encore défaut. L'idée d'une fortune maximale vise justement à renforcer ces défenses, sans créer un nouveau levier de pouvoir qui pourrait être détourné à son tour.
 
 
 
 
-L'humain est un curieux hybride entre un insecte social comme une abeille et un prédateur comme un loup. un animal social. Comme les fourmis ou les abeilles, on dépend du bon fonctionnement du groupe. C'est un curieux hybride, qui se comporte parfois comme une cellule qui agit pour le bien de l'organisme, parfois comme une entité individuelle qui lutte pour son propre bien-être.
-
-
-
-
-
-La métaphore est trop évidente pour que .... je suis content de vivre dans une culture qui admet que j'accorde de limportance à mon bonheur
-
-
-Les humains ont un rapport très différent avec la société que les cellules avec leur organisme. On accorde tous de l'importance à notre bonheur personnel, pas seulement à l'intérêt collectif. Même si on dépend du bon fonctionnement de la société, 
-
-
-
-
-
-
-On vient d'imaginer un milliardaire
-
-Corps a défense contre cancer - on n'en a pas contre les milliardaires
 
 
 
