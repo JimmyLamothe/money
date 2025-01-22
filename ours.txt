@@ -61,7 +61,7 @@ C'est la même chose pour les dépenses. Pour les services, c'est évident. Si j
 
 Pourtant, si je réfléchis à tout ce qui s'est passé pour que cette barre de chocolat arrive entre mes mains, je me rends compte qu'il s'agit de temps que d'autres ont consacré en échange d'argent. Je profite du temps de l'employé à la caisse, du temps du travailleur qui a cueilli la cabosse, du temps des marins qui l'ont fait traverser l'océan... ce serait une tâche vaine de chercher à en faire le décompte complet.
 
-Dans cette liste écourtée, j'ai passé sous silence la contribution des gens qui possèdent l'immeuble du dépanneur, le navire et la plantation. Il s'agit aussi en quelque sorte d'une contribution de temps. Par le passé, des gens ont construit et entretenu l'immeuble, bâti et réparé le navire, défriché et semé la plantation. Mais la propriété donne le droit d'obtenir de l'argent maintenant sans donner de son temps présent.
+Dans cette liste écourtée, j'ai passé sous silence la contribution des gens qui possèdent l'immeuble du dépanneur, le navire et la plantation. Il s'agit aussi en quelque sorte d'une contribution de temps. Par le passé, des gens ont construit et entretenu l'immeuble, bâti et réparé le navire, défriché et semé la plantation. On pourrait dire que la propriété est le droit de profiter de ce temps passé. Elle donne le droit d'obtenir de l'argent maintenant sans donner de son temps présent.
 
 C'est la différence essentielle entre le travail et la propriété. Quand on travaille, on donne de notre temps en échange du temps des autres. Mais on peut aussi obtenir de l'argent grâce à ce qu'on possède déjà. On appelle d'ailleurs ça faire travailler son argent. On profite alors du temps des autres sans offrir de notre temps en retour. Bien sûr, on a peut-être travaillé fort pour obtenir cette richesse, mais elle nous accorde toujours le même droit sur le temps des autres, peu importe comment on l'a obtenue.
 
@@ -129,7 +129,7 @@ Un déficit, c'est donc un transfert de pouvoir des pauvres vers les riches. Sur
 
 En théorie, le gouvernement aurait pu financer les versements aux chômeurs forcés par un impôt ou un taxe spéciale visant les riches. Plutôt que de faire un déficit en demandant la permission aux riches de nourrir les pauvres, on aurait exercé le pouvoir politique pour transférer le droit de consommer directement à ceux qui en avaient besoin, sans compensation future.
 
-En pratique, ça aurait été à peu près impossible. Les outils fiscaux du gouvernement ne sont pas assez précis pour viser directement les plus riches de la société, ceux justement qui se sont enrichis pendant la pandémie. Et surtout, le pouvoir politique est très limité lorsqu'on cherche à l'exercer sur les ultra-riches. On explorera cet aspect plus en profondeur plus tard.
+En pratique, ça aurait été à peu près impossible. Les outils fiscaux ne sont pas assez précis pour viser directement les plus riches de la société, ceux justement qui se sont enrichis pendant la pandémie. Et surtout, le pouvoir politique est très limité lorsqu'on cherche à l'exercer sur les plus riches. On explorera cet aspect plus en profondeur plus tard.
 
 Et bien sûr, il y a la question de la justice. Est-ce que les riches ont mérité ce pouvoir? Si oui, est-ce qu'on a le droit moral de leur enlever sans compensation? C'est une question importante à laquelle il faudra aussi revenir.
 
@@ -200,7 +200,7 @@ Comment une absurdité peut-elle devenir une évidence quand on remplace un mot 
 
 
 
-Selon les seuils de revenus, on serait riche à partir d'un certain revenu et pauvre sous un autre. Entre les deux, on ferait partie de la classe moyenne, c'est à dire qu'on ne serait ni riche, ni pauvre.
+Selon les seuils de revenus, on serait riche à partir d'un certain revenu et pauvre en deça d'un autre. Entre les deux, on ferait partie de la classe moyenne, c'est à dire qu'on ne serait ni riche, ni pauvre.
 
 Pourtant, en réalité, à peu près tout le monde se réclame de la classe moyenne. Rares sont ceux qui se disent riches ou pauvres. Le riche, c'est toujours celui qui en a un peu plus que nous. C'est le statut auquel on aspire, mais qu'on n'atteint jamais. Et le pauvre, c'est celui qui en a moins. C'est la personne qu'on craint devenir. L'expérience de la plupart des gens est d'aspirer à la richesse et de craindre la pauvreté, peu importe leur revenu.
 
@@ -234,15 +234,15 @@ Voici en quoi les milliardaires ressemblent davantage à des barons du moyen-âg
 
 Par son pouvoir de dépenser, le milliardaire tire le bénéfice de la vie productive de centaines ou de milliers de personnes pour lui tout seul, comme le baron. Il a peut-être moins de serviteurs, mais lorsqu'il s'achète un yacht ou un jet privé, un grand nombre de travailleurs spécialisés vont lui accorder une année ou plus de leur vie active. Ce qui est évident pour d'aussi grandes dépenses reste vrai pour les plus petites. S'il dépense chaque année mille fois le salaire moyen, il faut le travail annuel de mille personnes pour satisfaire ses seuls besoins personnels.
 
-Le territoire du baron et la fortune du milliardaire se transmettent de génération en génération. Dans les deux cas, leurs enfants héritent du grand pouvoir de leurs parents, sans autre forme de mérite qu'être nés dans la bonne famille. Cette transmission perpétuelle crée une aristocratie financière qui n'a rien à envier à celle de l'ancienne nobilité.
-
-Même le premier baron de sa lignée venait généralement d'une famille noble. De la même manière, rares sont les nouveaux milliardaires qui ne sont pas nés de millionnaires. Il faut souvent plusieurs générations pour établir un pouvoir de cette ampleur.
+Même après avoir comblé tous leurs besoins matériels et toutes leurs envies imaginables, le baron et le milliardaire disposent encore de ressources énormes. Ils peuvent donc en dévouer l'essentiel à l'accroissement continu de leur pouvoir.
 
 Comme le territoire du baron a d'abord dû être conquis, la fortune du milliardaire n'est pas apparue du néant. Peu importe si le premier baron a obtenu son titre par honneur ou par traitrise, s'il a maintenu sa puissance par un règne juste ou par la terreur, son pouvoir et celui de ses descendants reste le même. De la même manière, de grandes fortunes obtenues de la traite d'esclaves se perpétuent jusqu'à aujourd'hui. Les responsables de la crise des opioïdes sont devenus milliardaires. Le pouvoir du noble et du grand riche est étranger à la morale.
 
-Le baron et le milliardaire ont des gens à leur service dont l'unique rôle est de défendre leur pouvoir. À l'image des chevaliers et soldats qui défendent le territoire du baron, le milliardaire a un bataillon de fiscalistes, d'avocats et de lobbyistes qui protègent sa fortune. Les uns travaillent à empêcher les gouvernements de passer des lois qui nuiraient à son pouvoir, les autres cherchent à contourner les lois qui sont votées.
+Même le premier baron de sa lignée venait généralement d'une famille noble. De la même manière, rares sont les nouveaux milliardaires qui ne sont pas nés de millionnaires. Il faut souvent plusieurs générations pour établir un pouvoir de cette ampleur.
 
-Même après avoir comblé tous leurs besoins matériels et toutes leurs envies imaginables, le baron et le milliardaire disposent encore de ressources énormes. Ils peuvent donc en dévouer l'essentiel à l'accroissement continu de leur pouvoir.
+Le territoire du baron et la fortune du milliardaire se transmettent à leur descendance. Dans les deux cas, leurs enfants héritent du grand pouvoir de leurs parents, sans autre forme de mérite qu'être nés dans la bonne famille. Cette transmission perpétuelle crée une aristocratie financière qui n'a rien à envier à celle de l'ancienne nobilité.
+
+Le baron et le milliardaire ont des gens à leur service dont l'unique rôle est de défendre leur pouvoir. À l'image des chevaliers et soldats qui défendent le territoire du baron, le milliardaire a un bataillon de fiscalistes, d'avocats et de lobbyistes qui protègent sa fortune. Les uns travaillent à empêcher les gouvernements de passer des lois qui nuiraient à son pouvoir, les autres cherchent à contourner les lois qui sont votées.
 
 Même la fin d'une lignée de nobles ou de grands riches est souvent similaire. Alors qu'il a généralement fallu une grande force pour arracher un premier territoire ou bâtir une fortune, il en faut beaucoup moins pour la maintenir. Mais les enfants ne sont pas toujours les émules de leurs parents, et le nouveau baron préfére peut-être faire la fête pendant que ses rivaux grugent son territoire, alors que les petits-enfants du milliardaire se contentent parfois de dilapider sa fortune.
 
@@ -261,10 +261,6 @@ Mais malgré ces imperfections, contrairement aux barons, la justice s'applique 
 
 
 
-
-
-
-
 La dette nationale est une autre réalité dont la nature profonde est camouflée par l'argent. Une dette, en théorie, c'est quelque chose qu'on rembourse un jour, comme l'hypothèque que le propriétaire d'une maison rembourse à la banque. On s'imagine confusément que la dette nationale est quelque chose de similaire, qui ressemble à notre expérience personnelle avec les prêts banquaires et les cartes de crédit.
 
 Mais en réalité, aucun pays ne rembourse sa dette. En fait, il n'en est jamais même question. On parle de niveau de dette tolérable en fonction d'un certain pourcentage du produit intérieur brut. Même les économistes les plus à droite ne proposent pas sérieusement qu'on rembourse la dette nationale. On parle parfois de déficit zéro, mais on l'abandonne au premier soubre-saut économique en faveur de coupes d'impôts à droite ou de dépenses sociales à gauche.
@@ -273,9 +269,9 @@ Alors qu'est-ce que c'est vraiment, la dette nationale? Là encore, tout s'écla
 
 Dans un sens, la dette est simplement une promesse que les pauvres ont fait aux riches. Et rien ne fait plus peur aux riches qu'un pauvre qui menace de renier sa promesse. Il faut l'écraser avant qu'il donne le mauvais exemple aux autres.
 
-La Grèce nous a fourni un exemple frappant de cette réalité il n'y a pas si longtemps. Sa dette nationale avait dépassé les niveaux acceptés par les créditeurs et le gouvernement s'est vu obligé d'imposer des mesures d'austérité sévères en échange de l'argent qu'il lui fallait pour financer ses dépenses. Les conséquences de ces mesures ont été dévastatrices et le pays est tombé en profonde récession.
+La Grèce nous a fourni un exemple frappant de cette réalité récemment. Sa dette nationale avait dépassé les niveaux acceptés par les créditeurs et le gouvernement s'est vu obligé d'imposer des mesures d'austérité sévères en échange de l'argent qu'il lui fallait pour financer ses dépenses. Les conséquences de ces mesures ont été dévastatrices et le pays est tombé en profonde récession.
 
-Les électeurs ont donc voté pour un parti politique de gauche qui promettait de mettre fin aux mesures d'austérité et de renégocier la dette nationale. Malgré un référendum qui confirmait l'appui des Grecs à cette approche, le premier ministre a finalement cédé face à ses créanciers et a accepté des politiques d'austérité encore plus sévères que celles qui avaient été rejetées par référendum.
+Les électeurs ont donc voté pour un parti qui promettait de mettre fin aux mesures d'austérité et de renégocier la dette nationale. Malgré un référendum qui confirmait l'appui des Grecs à cette approche, le premier ministre a finalement cédé face à ses créanciers et a accepté des politiques d'austérité encore plus sévères que celles qui avaient été rejetées par référendum.
 
 Je ne prétends pas savoir s'il avait raison ou non de céder. Que l'argent existe ou pas, le pouvoir est bien réel. Les Grecs auraient peut-être souffert encore plus si leur premier ministre avait continué de résister. Mais c'est un exemple clair du pouvoir que la dette confère aux riches et du fait qu'ils n'hésitent pas à l'utiliser pour défendre leurs intérets.
 
@@ -323,9 +319,21 @@ Lorsqu'on parle d'impôts sur la succession, on pense à nos enfants. On les ima
 
 Pourtant, ce grand riche a peut-être déjà offert dix propriétés de son vivant à son enfant. Cet enfant pourrait même être le propriétaire qui a évincé le vôtre de son logement pour des rénovations prétextes à une augmentation monstre de loyer. Ou, pour éviter les caricatures sombres, c'est peut-être un gentil milliardaire qui donne à la charité et finance écoles et musées.
 
-Dans les deux cas, son désir d'éviter les impôts sur la succession n'a rien à voir avec le vôtre. Le pouvoir qu'il veut transmettre est un pouvoir qui permet de dominer, alors que le pouvoir que vous voulez transmettre à vos enfants est le pouvoir de se protéger. Une limite imposable suffisamment élevée permettrait aisément de différencier les deux situations. Si le riche ne peut pas transmettre intact son pouvoir de domination, le besoin de protection du moins riche devient d'autant moins grand.
+Dans les deux cas, son désir d'éviter les impôts sur la succession n'a rien à voir avec le vôtre. Le pouvoir qu'il veut transmettre est un pouvoir qui permet de dominer, alors que le pouvoir que vous voulez transmettre à vos enfants est le pouvoir de se protéger. Une limite imposable suffisamment élevée sur l'héritage permettrait aisément de différencier les deux situations. Si le riche ne peut pas transmettre intact son pouvoir de domination, le besoin de protection du moins riche devient d'autant moins grand.
 
 Mais l'émotion est la même. Et cette émotion commune fait que nous défendons souvent des intérêts contraires aux nôtres. 
+
+
+
+
+
+Pour exprimer la différence entre un milliardaire et un citoyen ordinaire, il faudrait utiliser le même genre de métaphores que les vulgarisateurs scientifiques utilisent pour parler de planètes, d'étoiles et de galaxies. Mais je crois que ça resterait en vain.
+
+On a les chiffres qu'il faut pour décrire le rapport mathématique entre ma petite fortune et celle d'un milliardaire. Mais il me semble que nos cerveaux perçoivent les quantités comme on les exprime dans certaines langues aborigènes, qui n'ont de mots que pour dire un, deux, un peu et beaucoup.
+
+Un million, c'est beaucoup d'argent. Un milliard, c'est beaucoup d'argent. On sait qu'un de ces deux montants est plus grand que l'autre, mais on peut difficilement concevoir à quel point ces deux "beaucoup d'argent" correspondent à une réalité totalement différente.
+
+
 
 
 
@@ -373,6 +381,9 @@ Une des grandes qualités du capitalisme, c'est qu'il met à profit notre désir
 Alors, bien sûr, c'est immoral qu'il y ait des milliardaires. Il suffit de se rappeler qu'on peut naître milliardaire pour évacuer complètement la possibilité que ce soit juste et mérité.
 
 Mais est-ce que les milliardaires sont une conséquence inévitable d'une société où on permet à chacun de tenter d'accroître son pouvoir et de transmettre ce pouvoir à ses enfants? C'est peut-être la vraie question.
+
+
+
 
 
 
@@ -455,9 +466,6 @@ Même si chaque changement est minuscule, leur accumulation transforme constamme
 
 
 
-
-
-
 Bien sûr, il y a une différence fondamentale entre une "cellule" humaine et une véritable cellule. Comme les cellules d'un organisme partagent pour l'essentiel un même code génétique, elles sont toutes entières dévouées à sa survie et son épanouissement. Elles ne luttent pas les unes contres les autres, mais collaborent dans un but commun. Si elles reçoivent un signal leur ordonnant de mourir, elles obéissent sur le champ.
 
 Imaginez une cellule qui ignore ce signal. Elle commence plutôt à gonfler, et surtout à se diviser sans arrêt. Cet amas cellulaire accapare les ressources qui devaient servir à l'organisme. Puis, les cellules mutantes se propagent à travers le corps et s'infiltrent dans les organes. Si rien n'empêche leur croissance, leur masse suffit un jour à entraver le bon fonctionnement de l'organisme et cause tôt ou tard sa mort.
@@ -470,9 +478,9 @@ Imaginez maintenant un organisme composé uniquement de ce type de cellules. On 
 
 Bien sûr, un monde où les humains acceptent volontiers de mettre fin à leur vie pour le bien du groupe serait une dystopie digne d'un film de science-fiction. Les cultures individualistes accordent plus d’importance au bonheur personnel, les plus collectivistes priorisent le bien-être commun, mais il n’existe pas de société humaine qui ressemble à une ruche d’abeilles. Je suis reconnaissant de vivre dans une culture qui admet que j'accorde de l'importance à mon bonheur.
 
-Mais comme les organismes, nos sociétés ont besoin de défenses puissantes, afin de se protéger d'individus qui amassent beaucoup de pouvoir et détournent toujours plus de ressources à accroître ce pouvoir. Pour l'instant, ces défenses font encore défaut. L'idée d'une fortune maximale vise justement à renforcer ces défenses, sans créer un nouveau levier de pouvoir qui pourrait être détourné à son tour.
+Mais comme les organismes, nos sociétés ont besoin de défenses puissantes, afin de se protéger d'individus qui amassent un pouvoir énorme et détournent toujours plus de ressources à accroître ce pouvoir. Pour l'instant, ces défenses font encore défaut. L'idée d'une fortune maximale vise justement à renforcer ces défenses, sans créer un nouveau levier de pouvoir qui pourrait être détourné à son tour.
 
-Une fortune maximale d'un milliard, c'est assez pour faire rêver n'importe qui et motiver ceux qui ont soif de pouvoir à développer des projets qu'on espère utiles à la société. Mais c'est une limite. Et le simple fait qu'il y ait une limite peut freiner la volonté de croissance infinie qui pousse certains milliardaires à tenter d'y asservir la société. On va aprofondir cette grande menace bientôt.
+Une fortune maximale d'un milliard, c'est assez pour faire rêver n'importe qui et motiver ceux qui ont soif de pouvoir à développer des projets qu'on espère utiles à la société. Mais c'est une limite. Et le simple fait qu'il y ait une limite peut freiner la volonté de croissance infinie qui pousse certains milliardaires à tenter d'y asservir la société. On va approfondir cette grande menace bientôt.
 
 
 
@@ -497,14 +505,11 @@ Si on crée un système qui apprend aux milliardaires à partager, les mêmes qu
 
 
 
-
-
-
 Tout est politisé aujourd'hui. Quand j'ai parlé de "sauver la planète" dans l'introduction, j'ai fâché un droitiste. Pourtant, la protection de l'environnement a déjà été quelque chose d'assez consensuel, même si on pouvait différer sur les moyens à employer et les sacrifices acceptables. Maintenant, certains éprouvent du plaisir quand on annonce aux nouvelles qu'on a foré un nouveau puits de pétrole dans un sanctuaire animalier.
 
 Je ne veux pas faire le procès des électeurs de droite, malgré cet exemple. La polarisation est un phénomène social qui nous affecte tous. On diabolise aussi nos adversaires à gauche. Comme on ne comprend pas leurs valeurs, on s'en fait une caricature malveillante. C'est difficile pour un universitaire urbain de se figurer ce que représentent les armes à feu dans la culture rurale. Les athées et les agnostiques jugent plus facilement les valeurs religieuses. La globalisation n'affecte pas les intellectuels de la même façon que les travailleurs manuels.
 
-Mais je ne veux pas non plus faire semblant que tout est égal. Si la polarisation nous affecte tous, elle est amplifiée à droite depuis longtemps par un investissement d'argent énorme de certains riches. Ils peuvent chercher à contrôler directement une partie de l'écosystème médiatique. Ils peuvent aussi financer des groupes d'influence de droite avec un budget énorme de communications.
+Mais je ne veux pas non plus faire semblant que tout est égal. Si la polarisation nous affecte tous, elle est amplifiée à droite depuis longtemps par un investissement d'argent énorme de personnes très riches. Ils cherchent à contrôler directement une partie de l'écosystème médiatique. Ils financent des groupes d'influence de droite avec un budget énorme de communications. Et ils récompensent les créateurs de contenus dont le message leur plaît.
 
 Le but est toujours le même. Il s'agit de segmenter la population en deux groupes ennemis et de se faufiler dans un des deux groupes pour faire passer des politiques économiques qui favorisent les riches, un peu à l'image d'un parasite qui tente de contrôler son hôte pour servir ses intérêts. Pour mieux comprendre le phénomène, il faut retourner en arrière pour voir comment on en est arrivé là.
 
@@ -520,7 +525,7 @@ Lorsqu'une société développe son économie et que la classe marchande s'enric
 
 C'est d'ailleurs rare qu'une démocratie naissante accorde déjà le vote aux pauvres. Ce droit est réservé d'abord à ceux qui détiennent une certaine richesse. C'est en quelque sorte normal: tout comme le roi aurait préféré ne pas céder de son pouvoir aux riches, les riches préfèrent ne pas partager leur pouvoir avec les pauvres.
 
-Mais il vient tout de même un moment où le droit de vote est accordé de manière plus égalitaire. Et dès ce moment, la démocratie, qui donnait du pouvoir aux riches, représente tout d'un coup également une menace. Si le vote de chaque citoyen a le même poids, et que chaque citoyen vote selon ses intérêts, ceux des pauvres prévaudront sur ceux des riches. Même si on a des intérêts communs, les élections se jouent sur les enjeux où on diffère. 
+Mais il vient tout de même un moment où le droit de vote est accordé de manière plus égalitaire. Et dès ce moment, la démocratie, qui donnait du pouvoir aux riches, représente tout à coup également une menace. Si le vote de chaque citoyen a le même poids, et que chaque citoyen vote selon ses intérêts, ceux des pauvres prévaudront sur ceux des riches. Même si on a des intérêts communs, les élections se jouent sur les enjeux où on diffère. 
 
 Les riches doivent donc chercher un moyen de conserver le pouvoir politique qu'ils ont gagné avec la démocratie. Et par définition, les riches sont une petite minorité. Être riche, c'est avoir beaucoup de pouvoir sur le temps des autres. Chaque riche implique donc de nombreux pauvres qui ont peu de pouvoir sur leur propre temps.
 
@@ -543,6 +548,45 @@ C'est une simplification extrême de la réalité, bien sûr. Il y a beaucoup d'
 
 
 
+
+
+
+La polarisation sociale actuelle n'est pas un phénomène naturel. La société se divise facilement entre riches et pauvres qui défendent chacun leurs intérêts. Les riches ont intérêt à éviter que ça se produise. Certains d'entre eux font donc tout en leur pouvoir pour amplifier une autre division naturelle, celle qui sépare les progressistes et les conservateurs sur le plan social. 
+
+Plus la division est grande, plus les deux groupes se détestent, moins ils sont prêts à travailler ensemble et moins ils peuvent s'opposer aux riches. Plus le débat politique se fait sur le terrain social, plus c'est facile pour les riches de se glisser dans le groupe des conservateurs en prétendant partager leurs sensibilités.
+
+Bien sûr, les riches ne font que financer cette division, à part ceux qui se mêlent directement de politique. Mais ils amplifient la voix des politicens, des faiseurs d'opinion et des créateurs de contenu qui propagent ces thèses et leur donnent l'importance qu'elles ont pris aujourd'hui. Sans ce dopage financier et médiatique, leur influence serait beaucoup moindre. Ce n'est pas une stratégie nouvelle, mais elle semble particulièrement dangereuse et efficace dans notre paysage médiatique fragmenté et décentralisé.
+
+J'aimerais préciser ici que je ne me préoccupe pas du tout dans ce livre de la nature de cette division. J'ai mes opinions, mais elles ne valent pas plus que celles d'un autre. Je me préoccupe uniquement du fossé qu'elle créé dans nos sociétés.
+
+La démocratie repose sur un principe simple: le camp perdant accepte la défaite, laisse l'autre camp gouverner, et attend les prochaines élections pour reconquérir le pouvoir. Mais plus on déteste et on craint l'autre camp, moins on est enclin à accepter la défaite. Et le 6 janvier 2020, un candidat perdant aux élections américaines a refusé sa défaite et demandé à ses partisans de s'opposer au transfert de pouvoir.
+
+Lorsqu'il se produit un phénomène similaire, ce serait facile de s'imaginer qu'il s'agit d'un cas unique. Mais il faut se rappeler qu'un tel individu se révèle seulement quand l'environnement attend son arrivée. C'est aux États-Unis qu'il y a le plus de milliardaires. C'est là que la division sociale est le plus grande et la mieux financée. Mais les mêmes forces qui ont préparé la voie à cet évènement sont à l'oeuvre partout ailleurs. C'est un signal d'alarme pour toutes les démocraties.
+
+
+
+
+
+
+
+J'ai mon opinion, mais elle n'a pas d'importance. 
+
+
+Peu importe ce qu'on pense des thèses de chaque camp, la question sociale est un leurre utilisé par les riches pour écarter la question économique.
+
+
+
+En finançant la division, ils l'amplifient. D'autres profitent de ces divisions. Et cette division est incompatible avec la démocratie.
+
+
+
+NOTES EN VRAC: Les deux dichotomies: riche / travailleur - payeur d’impôts / pas payeur d’impôts (contribuable / parasite) - Riches veulent nous faire adhérer au deuxième plutôt qu'au premier
+
+
+
+
+
+NOTES EN VRAC: Les conservateurs sont naturellement sans réponses aux nouveaux problèmes. Quand un gouvernement conservateur vit un échec, il ne peut pas proposer de nouvelle politique. Sa raison d'être est de dire que les choses ne doivent pas changer. On peut seulement proposer encore moins de gouvernement, encore moins d'impôts, encore moins de règlementation. Les progressistes, au contraire, peuvent toujours proposer une nouvelle solution quand la précédente échoue.
 
 
 
@@ -575,31 +619,6 @@ Dans les deux cas, les riches profitent de notre incapacité à saisir que l'arg
 
 
 
-NOTES EN VRAC: Les deux dichotomies: riche / travailleur - payeur d’impôts / pas payeur d’impôts (contribuable / parasite) - Riches veulent nous faire adhérer au deuxième plutôt qu'au premier
-
-
-
-
-
-NOTES EN VRAC: Les conservateurs sont naturellement sans réponses aux nouveaux problèmes. Quand un gouvernement conservateur vit un échec, il ne peut pas proposer de nouvelle politique. Sa raison d'être est de dire que les choses ne doivent pas changer. On peut seulement proposer encore moins de gouvernement, encore moins d'impôts, encore moins de règlementation. Les progressistes, au contraire, peuvent toujours proposer une nouvelle solution quand la précédente échoue.
-
-
-
-
-Pour exprimer la différence entre un milliardaire et un citoyen ordinaire, il faudrait utiliser le même genre de métaphores que les vulgarisateurs scientifiques utilisent pour parler de planètes, d'étoiles et de galaxies. Mais je crois que ça resterait en vain.
-
-On a les chiffres qu'il faut pour décrire le rapport mathématique entre ma petite fortune et celle d'un milliardaire. Mais il me semble que nos cerveaux perçoivent les quantités comme on les exprime dans certaines langues aborigènes, qui n'ont de mots que pour dire un, deux, un peu et beaucoup.
-
-Un million, c'est beaucoup d'argent. Un milliard, c'est beaucoup d'argent. On sait qu'un de ces deux montants est plus grand que l'autre, mais on peut difficilement concevoir à quel point ces deux "beaucoup d'argent" correspondent à une réalité totalement différente.
-
-
-
-
-
-
-
-
-
 
 
 
@@ -613,6 +632,15 @@ Mais ces programmes restent des pansements qui ne peuvent compenser tous les pro
 
 Pour régler les problèmes en profondeur, il faudrait des mesures qui remettent en doute le droit des riches d'accumuler un pouvoir illimité et de l'utiliser pour défendre leurs intérêts. Et un gouvernement qui s'y risquerait seul se ferait écraser sans merci.
 
+C'est inévitable qu'il y ait des institutions politiques qui défendent des valeurs plus conservatrices, parce qu'elles représentent le ressenti sincère d'une bonne part de la population. Il y aura toujours des gens qui préfèrent ce qu'ils connaissent et se méfient de ce qui est nouveau ou différent. Mais ce n'est pas inévitable que ces institutions politiques conservatrices défendent les intérêts des riches. C'est à ça qu'on peut s'attaquer.
+
+
+
+
+
+
+
+
 
 
 NOTES EN VRAC: Parler de riches aiment bien aussi centre-gauche globaliste. Préfèrent droite = on gagne beaucoup trop mais se contentent de gauche = on gagne trop. Craignent extrême-gauche et extrême-droite qui remettent en question le consensus qui leur convient, mais croient pouvoir contrôler l'extrême-droite - Parler plus du fait que les politiques de centre-gauche (surtout libre-échange?) ne sont pas nécessairement bonnes pour les pauvres mais ont favorisé la classe intellectuelle
@@ -621,7 +649,6 @@ Parler de trucs en vrac (ou parler plus des tariffs directement?) Ex: Tariffs = 
 
 
 
-C'est inévitable qu'il y ait des institutions politiques qui défendent des valeurs plus conservatrices, parce qu'elles représentent le ressenti sincère d'une bonne part de la population. Il y aura toujours des gens qui préfèrent ce qu'ils connaissent et se méfient de ce qui est nouveau ou différent. Mais ce n'est pas inévitable que ces institutions politiques conservatrices défendent les intérêts des riches. C'est à ça qu'on peut s'attaquer.
 
 
 
@@ -765,13 +792,13 @@ En finir avec les milliardaires, c'est une tâche herculéenne. On pourrait croi
 
 Mais au contraire, ce combat dépend entièrement de nous. Il n'aura jamais lieu si on n'est pas nombreux à croire et dire qu'il faut le mener. Ce sont les actions à petite échelle que j'évoquais dans l'introduction.
 
-La limite d'un milliard n'est pas le résultat d'un savant calcul mathématique, mais un choix émotif. On sait d'instinct que c'est trop. C'est grâce à l'émotion que les idées se propagent. L'idée d'une fortune maximale fera son chemin si elle interpelle les gens et canalise leur sentiment d'injustice. 
+La limite d'un milliard n'est pas le résultat d'un savant calcul mathématique, mais un choix émotif. On sait d'instinct que c'est trop d'argent. Et c'est grâce à l'émotion que les idées se propagent. L'idée d'une fortune maximale fera son chemin si elle interpelle les gens et canalise leur sentiment d'injustice.
 
 Mais l'indignation ne suffit pas. On finit par se résigner à tout si on ne voit pas de solution. Je crois que l'idée simple d'attendre d'être assez nombreux avant d'agir peut répondre aux objections rationnelles.
 
 Alors voilà ce que vous pouvez faire: d'abord, simplement y croire. Croire que c'est une bonne idée, croire que c'est possible. Ensuite, peut-être en parler lorsque la conversation s'y prête. Si vous êtes plus enthousiastes, amenez le sujet et demandez aux autres ce qu'ils en pensent. 
 
-Si c'est une bonne idée, elle fera naturellement son chemin. Ça pourrait devenir un mème sur les réseaux sociaux. Lorsqu'elle se sera assez répandue, elle pourra être le fait d'activisme politique, dans tous les partis, pas seulement à gauche, et aussi de manière non-partisane. Ce sera une autre piste d'action pour les plus motivés.
+Si c'est une bonne idée, elle fera naturellement son chemin. Ça pourrait devenir un mème sur les réseaux sociaux. Lorsqu'elle sera assez répandue, elle pourra être le fait d'activisme politique, dans tous les partis, pas seulement à gauche, et aussi (peut-être même surtout) de manière non-partisane. Ce sera une autre piste d'action pour les plus motivés.
 
 En fait, si elle est assez puissante pour avoir une chance de devenir réelle, elle passera inévitablement par toutes ces étapes. Sinon, elle mourra de sa mort naturelle. Je suis assez modeste pour savoir que c'est l'issue la plus probable, mais assez rêveur pour croire à son potentiel.
 
