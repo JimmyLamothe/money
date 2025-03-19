@@ -1,14 +1,35 @@
-J'aimerais commencer la deuxième section de ce livre par une anecdote qui peut sembler banale. J'ai reçu un appel récemment de mon fournisseur téléphonique pour m'avertir que j'avais terminé de payer mon vieux téléphone et que je pouvais en obtenir un nouveau. J'ai refusé. Rien de plus normal en apparence. Mais en y réfléchissant, je me rendais compte que ce moment banal encapsulait tous les pires défauts de notre système économique.
+J'aimerais commencer la deuxième section de ce livre par une anecdote qui peut sembler banale. J'ai reçu un appel récemment de mon fournisseur téléphonique pour m'avertir que j'avais terminé de payer mon vieux téléphone et que je pouvais en obtenir un nouveau. J'ai refusé. Rien de plus normal en apparence. Mais en y réfléchissant, j'ai senti que ce moment banal encapsulait tout l'engrenage économique qui met à mal la planète. 
 
-On paye quelqu'un pour convaincre quelqu'un d'autre de dépenser son argent pour un objet dont il n'a pas besoin. Le travail de l'employée qui m'a appelé a un impact presque entièrement négatif sur la société. Si elle fait bien son travail, je serai plus pauvre, sans être plus heureux. On aura gaspillé les ressources limitées de notre planète pour fabriquer un objet inutile et le transporter jusque chez moi.
+On paye quelqu'un pour convaincre quelqu'un d'autre de dépenser son argent pour un objet dont il n'a pas besoin.
 
-La seule utilité de son travail, c'est qu'il permet de faire travailler d'autres gens. Ceux qui conçoivent le téléphone, ceux qui en font la mise en marché, ceux qui participent à sa fabrication, et la personne qui m'a appelée, bien sûr. Mais si je désire un nouveau téléphone seulement parce qu'elle a réussi à créer ce besoin en moi, tout ce travail n'a d'autre utilité que d'avoir permis à ces gens de travailler. Les seuls personnes que mon achat aurait rendu plus heureux sont ceux qui auraient participé à sa production.
+Dans un sens, le travail de cette employée a un impact presque entièrement négatif sur la société. Si elle accomplit ce pour quoi elle est payée, je serai plus pauvre, sans être plus heureux. Et on aura gaspillé les ressources limitées de notre planète pour fabriquer un objet superflu et le transporter jusque chez moi.
 
-Quand on parle de surconsommationm, on s'imagine généralement que le problème vient de notre besoin de consommer toujours davantage. Mais en réalité, la surconsommation répond à un besoin de production. Notre système économique exige que tout le monde produise quelque chose pour avoir le droit de consommer. Et comme on a tous besoin de consommer au moins un minimum, on doit tous produire, peu importe si ce qu'on produit est utile.
+Mais dans un autre sens, son travail est le plus important qui soit, parce qu'il permet de donner du travail aux gens. À ceux qui conçoivent le téléphone, à ceux qui en font la mise en marché, à ceux qui participent à sa fabrication... et à la personne qui m'a appelée, bien sûr.
 
-On consomme pour pouvoir produire, autant qu'on produit pour pouvoir consommer.
+Si j'achète un nouveau téléphone seulement parce qu'elle a réussi à créer ce besoin en moi, tout ce travail n'aura eu d'autre utilité que d'avoir permis à ces gens de travailler. Les seuls personnes que mon achat aura rendu plus heureux seront ceux qui ont participé à sa production.
 
-NOTES EN VRAC: Fille de Vidéotron- paradoxe que son travail est à la fois purement négatif (création d’un besoin artificiel à combler dans un contexte de crise environnementale) et le plus important dans notre système économique (créer de la consommation qui permet de la production qui donne un emploi aux gens et leur permet de survivre
+Quand on parle de surconsommation, on s'imagine généralement que le problème vient de notre besoin de consommer toujours davantage. Mais en réalité, la surconsommation répond d'abord à un besoin de production. Notre système économique exige que tout le monde produise quelque chose pour avoir le droit de consommer. Et comme on a tous besoin de consommer au moins un minimum, on doit tous produire, peu importe l'utilité de ce qu'on produit.
+
+Dans un monde paradoxal où la surproduction rend tranquillement la planète invivable, mais qu'on peut seulement démontrer qu'on mérite de vivre en produisant, cette employée téléphonique est à la fois notre sauveuse au présent et la fossoyeuse de notre avenir.
+
+
+
+
+Les capitalistes adorent le Bitcoin, qui échappe davantage au pouvoir étatique que l'argent national. Étrangement, son fonctionnement rappelle le paradoxe qu'on vient d'évoquer, avec le même gaspillage et le même dommage environnemental.
+
+Pour simplifier à l'extrême, on mine un Bitcoin en utilisant un processeur pour effectuer une quantité astronomique de calculs mathématiques. Le réseau de crypto-monnayeurs valide qu'on a bien effectué ces calculs, et nous récompense en crypto-monnaie. Le même processus sert à valider les transactions.
+
+Ces calculs utilisent énormément d'électricité pour refroidir les processeurs. Pourtant, ils ne servent pas à résoudre des équations utile. Ils servent simplement à démontrer qu'un travail a été accompli. On utilise d'ailleurs le terme "proof of work", ce qui signifie "preuve du travail accompli". 
+
+Notre système économique comporte des similarités. L'argent est notre "proof-of-work", notre preuve du travail accompli.
+
+Évidemment, on ne travaille pas en pure perte, contrairement à ce qui se passe avec la crypto-monnaie. Mais on doit absolument travailler pour obtenir cette preuve du travail accompli, à moins de dépendre de la charité privée ou étatique.
+
+L'argent ne dépend pas de l'utilité du travail qui l'a mérité. Il sert seulement à prouver qu'un travail a été effectué.
+
+
+
+
 
 
 
@@ -129,6 +150,11 @@ NOTES EN VRAC: Nommer le revenu minimal selon un terme qui fait référence à l
 2e partie - c’est pour ça qu’aucun plan de réduction ne fonctionne- seulement les plans qui impliquent plus de production 
 
 On pourrait faire de l’ingénierie environnementale parce que ça coûterait des milliers de milliards et non pas en dépit de ça 
+
+
+
+
+Pourquoi la société des loisir n'est jamais advenues - travailller 15 heures plutôt que 0 ou 40
 
 
 
