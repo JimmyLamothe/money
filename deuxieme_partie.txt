@@ -59,12 +59,23 @@ C'est la loi de notre système économique. Il ne suffit pas qu'on produise coll
 
 
 
-Société du loisir
+
+Vous rappelez-vous de la société de loisirs? En fait, si on en parle encore aujourd'hui, c'est uniquement pour se demander pourquoi elle est disparue. L'idée qu'on s'en faisait était simple: plus la technologie avance, moins il faudra travailler pour combler nos besoins. Moins on aura à travailler, plus on aura de temps pour le loisir. Ça semblait logique... mais bien sûr, on travaille autant aujourd'hui qu'à l'époque ou le terme est apparu.
+
+Là encore, tout s'explique de la même manière. Si le travail servait simplement à combler des besoins, en effet, le progrès technologique nous permettrait de travailler moins collectivement. Comme on travaille surtout pour prouver qu'on mérite notre place en société, on doit plutôt trouver de nouveaux besoins à combler pour que chacun puisse continuer à produire.
+
+J'insiste autant sur cette équation parce qu'elle est fondamentale. On croit que la production vient d'un besoin de consommation, alors qu'au contraire le besoin de production exige toujours plus de consommation.
 
 
 
 
-Le problème est simple. Les personnes qui tirent un profit de l'IA ne sont pas les mêmes que celles qui pourraient se faire remplacer. 
+Revenons un instant à l'époque Victorienne. Imaginons un instant que les profits générés par les nouvelles machines à tisser étaient versés aux tisserands qui allaient perdre leur travail. Il n'y aurait pas eu d'émeutes. Les tisserands auraient peut-être pris leur retraite, où en auraient profité pour continuer à travailler à temps partiel de manière artisanale pour augmenter leurs revenus.
+
+Mais bien sûr, ils n'ont jamais tiré un sou des nouvelles machines. Celles-ci profitaient uniquement à leurs propriétaires. C'est systématiquement le cas des avancées technologiques. Dans notre système, tous les bénéfices des progrès technologiques vont aux propriétaires d'entreprises. Les travailleurs ne peuvent qu'être perdants sur le plan économique, même s'ils peuvent en profiter comme citoyens si ces technologies améliorent leur vie quotidienne.
+
+Les personnes qui tirent un profit de l'IA ne sont pas les mêmes que celles qui pourraient se faire remplacer. C'est pour cette raison qu'elles génèrent autant de craintes. On a commencé par automatiser le travailler manuel, ce qui a poussé de plus en plus de gens vers le travail intellectuel. Si on réussit à automatiser le travail intellectuel, qu'est-ce qui restera?
+
+Je ne connais pas la réponse. Si notre cerveau cesse d'être monnayable, notre corps le reviendra peut-être? Mais si cette peur se concrétise, ce dont je doute, les gens trouveront le moyen de continuer à travailler. Parce qu'ils n'auront pas le choix. Il faut produire pour avoir le droit d'exister.
 
 
 
@@ -72,16 +83,8 @@ Le problème est simple. Les personnes qui tirent un profit de l'IA ne sont pas 
 
 
 
-DÉBUT ALTERNATIF À DEUXIÈME SECTION: Il faut tout d'abord parler d'IA qui va nous enlever des emplois bla bla... Mais pourquoi ça nous fait peur? Tout simplement parce que le but premier du travail n'est pas de produire quelque chose d'utile. C'est de prouver qu'on mérite sa place dans la société. Si le but était de produire quelque chose d'utile, alors l'IA serait vu comme une merveille plutôt qu'une menace. On a peur qu'elle soit utile, qu'elle produise ce qu'on savait produire à notre place. Les intellectuels sont confrontés à la même menace que les weavers à l'époque du mechanical loom. La seule explication à notre peur que la machine fasse notre travail à notre place, c'est que l'utilité de notre travail est moins importante que l'occasion qu'il nous donne de prouver notre mérite. (à reformuler - expand)
 
 
-NOTES EN VRAC: Texte sur l'IA - On a seulement peur parce qu'on doit travailler pour prouver notre mérite
-
-Si notre cerveau cesse d’être monnayable, notre corps le redeviendra peut-être 
-
-
-
-Si la société était bien faite, l’important serait qu’on produise assez pour tout le monde. Mais comme elle est mal faite l’important c’est que tu aies ta part de ce qui est produit, et la seule manière de prouver que tu mérites ta part est de travailler
 
 Si on produisait moins, on ne serait pas obligés de consommer autant
 
