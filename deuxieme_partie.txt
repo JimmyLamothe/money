@@ -4,20 +4,20 @@ On paye quelqu'un pour convaincre quelqu'un d'autre de dépenser son argent pour
 
 Dans un sens, le travail de cette employée a un impact presque entièrement négatif sur la société. Si elle accomplit ce pour quoi elle est payée, je serai plus pauvre, sans être plus heureux. Et on aura gaspillé les ressources limitées de notre planète pour fabriquer un objet superflu et le transporter jusque chez moi.
 
-Mais dans un autre sens, son travail est le plus important qui soit, parce qu'il permet de donner du travail aux gens. À ceux qui conçoivent le téléphone, à ceux qui en font la mise en marché, à ceux qui participent à sa fabrication... et à la personne qui m'a appelée, bien sûr.
+Mais dans un autre sens, son travail est le plus important qui soit, parce qu'il permet de donner du travail aux gens. À ceux qui conçoivent le téléphone, à ceux qui en font la mise en marché, à ceux qui participent à sa fabrication... et à la personne qui m'a appelé, bien sûr.
 
-Si j'achète un nouveau téléphone seulement parce qu'elle a réussi à créer ce besoin en moi, tout ce travail n'aura eu d'autre utilité que d'avoir permis à ces gens de travailler. Les seuls personnes que mon achat aura rendu plus heureux seront ceux qui ont participé à sa production.
+Si j'achète un nouveau téléphone seulement parce qu'elle a réussi à créer ce besoin en moi, tout ce travail n'aura eu d'autre utilité que d'avoir permis à ces gens de travailler. Les seules personnes dont la vie aura été améliorée par mon achat seront celles qui ont participé à sa production.
 
 Quand on parle de surconsommation, on s'imagine généralement que le problème vient de notre besoin de consommer toujours davantage. Mais en réalité, la surconsommation répond d'abord à un besoin de production. Notre système économique exige que tout le monde produise quelque chose pour avoir le droit de consommer. Et comme on a tous besoin de consommer au moins un minimum, on doit tous produire, peu importe l'utilité de ce qu'on produit.
 
-Dans un monde paradoxal où la surproduction rend tranquillement la planète invivable, mais qu'on peut seulement démontrer qu'on mérite de vivre en produisant, cette employée téléphonique est à la fois notre sauveuse au présent et la fossoyeuse de notre avenir.
+Dans un monde paradoxal où la surproduction rend tranquillement la planète invivable, mais qu'on peut seulement démontrer qu'on mérite de vivre en produisant, cette employée téléphonique est à la fois une héroïne de notre présent et la fossoyeuse de notre avenir.
 
 
 
 
-Les capitalistes adorent le Bitcoin, qui échappe davantage au pouvoir étatique que l'argent national. Étrangement, son fonctionnement rappelle le paradoxe qu'on vient d'évoquer, avec le même gaspillage et le même dommage environnemental.
+Les capitalistes adorent le Bitcoin, qui échappe davantage au pouvoir étatique que l'argent national. Étrangement, son fonctionnement rappelle le paradoxe qu'on vient d'évoquer, avec le même gaspillage et le même coût environnemental.
 
-Pour simplifier à l'extrême, on mine un Bitcoin en utilisant un processeur pour effectuer une quantité astronomique de calculs mathématiques. Le réseau de crypto-monnayeurs valide qu'on a bien effectué ces calculs, et nous récompense en crypto-monnaie. Le même processus sert à valider les transactions.
+Pour simplifier à l'extrême, on mine un Bitcoin en utilisant un processeur pour effectuer une quantité prodigieuse de calculs mathématiques. Le réseau de crypto-monnayeurs valide qu'on a bien effectué ces calculs, et nous récompense en crypto-monnaie. Le même processus sert à valider les transactions.
 
 Ces calculs utilisent énormément d'électricité pour refroidir les processeurs. Pourtant, ils ne servent pas à résoudre des équations utile. Ils servent simplement à démontrer qu'un travail a été accompli. On utilise d'ailleurs le terme "proof of work", ce qui signifie "preuve du travail accompli". 
 
@@ -31,6 +31,42 @@ L'argent ne dépend pas de l'utilité du travail qui l'a mérité. Il sert seule
 
 
 
+Nos peurs face à l'IA illustrent parfaitement cette grande faille de notre système économique. La technologie progresse rapidement et on craint qu'elle soit capable de faire notre travail à notre place. Mais pourquoi est-ce que ça nous fait peur?
+
+Si le but premier d'un travail était de produire quelque chose d'utile, alors ce serait une bonne nouvelle qu'on trouve une manière de le faire sans efforts. L'IA serait vu comme une merveille plutôt qu'une menace. Elle nous libérerait d'une obligation.
+
+Mais au contraire, on a peur qu'elle soit utile, qu'elle soit capable de nous remplacer. Je fais souvent des contrats comme traducteur. Quand ChatGPT est apparu, un de mes premiers réflexes a été de vérifier son aptitude pour la traduction. Je voulais savoir si ce nouvel outil allait être un assistant utile ou un compétiteur gratuit.
+
+Je ne crois pas être le seul à avoir eu ce réflexe. Dans le parcours classique d'une vie productive, on développe des habiletés et des connaissances à l'école qu'on applique et perfectionne au travail. Si ces habiletés ne sont plus requises par la société, on craint de devoir retourner à la case départ.
+
+D'un côté, c'est une technologie presque magique qui me permet de lire les nouvelles de lutte sumo dans les journaux japonais. De l'autre, si elle fonctionne assez bien, je devrai trouver une autre manière de prouver que je mérite ma place en société. 
+
+La seule explication à notre peur que la machine fasse notre travail à notre place, c'est que l'utilité de notre travail est moins importante que l'occasion qu'il nous donne de prouver notre mérite.
+
+
+
+
+Ce n'est pas la première fois que la société est confrontée à cette peur d'une perte d'emplois causée par l'automatisation. L'exemple le plus connu est l'invention du métier à tisser. Les tisserands, qui craignaient de perdre leur emploi, se sont organisés pour s'opposer à la nouvelle technologie. Ils s'introduisaient dans les usines et sabotaient les machines. Le gouvernement a écrasé la contestation et beaucoup ont dû se trouver un travail moins spécialisé et moins bien rémunéré.
+
+Les exemples ne manquant pas, du remplacement des scribes par l'imprimerie aux logiciels comptables qui ont automatisé des opérations faites par des humains. Dans certains cas, comme avec les métiers à tisser, les travailleurs ont perdu leur emploi et ont dû s'en trouver un nouveau. Dans d'autres, comme avec les scribes et les commis comptables, la technologie a permis de produire davantage, ou de nouvelles choses, sans remplacer entièrement le travail humain.
+
+Mais dans tous les cas, l'automatisation augmente la production de deux manières. Comme elle permet de produire à moindre coût, on peut produire davantage de ce qui était déjà produit, ou même créer de nouveaux produits. C'est une conséquence évidente, et c'est la seule à laquelle on réfléchit habituellement.
+
+Mais l'autre conséquence, c'est que les travailleurs qui ont été remplacés par la technologie doivent continuer à travailler. Ils vont donc devoir trouver autre chose à produire pour prouver qu'ils méritent encore leur place en société.
+
+C'est la loi de notre système économique. Il ne suffit pas qu'on produise collectivement assez pour satisfaire les besoins de tous. Il faut que chacun prouve son mérite en produisant quelque chose. Cet engrenage fait que la production ne peut qu'augmenter inéluctablement. La technologie ne peut pas nous libérer de notre obligation de produire. Elle ne fait qu'emballer la machine davantage.
+
+
+
+
+Société du loisir
+
+
+
+
+Le problème est simple. Les personnes qui tirent un profit de l'IA ne sont pas les mêmes que celles qui pourraient se faire remplacer. 
+
+
 
 
 
@@ -41,7 +77,8 @@ DÉBUT ALTERNATIF À DEUXIÈME SECTION: Il faut tout d'abord parler d'IA qui va 
 
 NOTES EN VRAC: Texte sur l'IA - On a seulement peur parce qu'on doit travailler pour prouver notre mérite
 
-NOTES EN VRAC: Juste après texte IA - Comparaison bitcoin - concept du proof of work - toute l’énergie gaspillée en pure perte pour prouver le mérite qui donne droit à la récompense
+Si notre cerveau cesse d’être monnayable, notre corps le redeviendra peut-être 
+
 
 
 Si la société était bien faite, l’important serait qu’on produise assez pour tout le monde. Mais comme elle est mal faite l’important c’est que tu aies ta part de ce qui est produit, et la seule manière de prouver que tu mérites ta part est de travailler
@@ -86,6 +123,8 @@ Essentiel vs important - Paradoxalement un travail non-essentiel pourrait tout d
 On est passé d’un product economy à un service economy à mesure qu’on est passé d’une production essentielle à une production non essentielle 
 
 En lien avec retour à économie de services - on a des serviteurs, mais ils sont ubérises et door dashés en quelque sorte - plus le temps passe, plus on sera tous les serviteurs des grands riches, surtout si travail remplacé par IA (ce dont je doute)
+
+Si on est tous des serviteurs, est-ce que ça va sauver la planète? Si seuls les riches ont la capacité de consommer à grande échelle?
 
 Si on part de l’idée qu’on comble les besoins essentiels en premier, le fait qu’on passe d’une économie de production a une économie de service indique que les services sont moins essentiels en général, même si bien sûr les services d’un docteur sont plus essentiels que bien des breloques qu’on achète 
 
