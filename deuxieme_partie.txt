@@ -17,15 +17,13 @@ Dans un monde paradoxal où la surproduction rend tranquillement la planète inv
 
 Les capitalistes adorent le Bitcoin, qui échappe davantage au pouvoir étatique que l'argent national. Étrangement, son fonctionnement rappelle le paradoxe qu'on vient d'évoquer, avec le même gaspillage et le même coût environnemental.
 
-Pour simplifier à l'extrême, on mine un Bitcoin en utilisant un processeur pour effectuer une quantité prodigieuse de calculs mathématiques. Le réseau de crypto-monnayeurs valide qu'on a bien effectué ces calculs, et nous récompense en crypto-monnaie. Le même processus sert à valider les transactions.
+Pour simplifier à l'extrême, on mine un Bitcoin en utilisant des processeurs pour effectuer une quantité prodigieuse de calculs mathématiques. Le réseau valide qu'on a bien effectué ces calculs, et nous récompense en crypto-monnaie. Le même processus sert à valider les transactions.
 
-Ces calculs utilisent énormément d'électricité pour refroidir les processeurs. Pourtant, ils ne servent pas à résoudre des équations utile. Ils servent simplement à démontrer qu'un travail a été accompli. On utilise d'ailleurs le terme "proof of work", ce qui signifie "preuve du travail accompli". 
+Ces calculs utilisent énormément d'électricité pour refroidir les processeurs. Pourtant, ils ne servent pas à résoudre des équations utile. Ils servent simplement à démontrer qu'un travail a été accompli. On utilise d'ailleurs le terme anglais "proof of work", ce qui signifie "preuve du travail accompli". 
 
 Notre système économique comporte des similarités. L'argent est notre "proof-of-work", notre preuve du travail accompli.
 
-Évidemment, on ne travaille pas en pure perte, contrairement à ce qui se passe avec la crypto-monnaie. Mais on doit absolument travailler pour obtenir cette preuve du travail accompli, à moins de dépendre de la charité privée ou étatique.
-
-L'argent ne témoigne pas de l'utilité du travail qui l'a mérité. Il sert seulement à prouver qu'un travail a été effectué.
+Évidemment, on ne travaille pas en pure perte, contrairement à ce qu'on vient de décrire pour la crypto-monnaie. Mais l'argent ne témoigne pas de l'utilité du travail qui l'a mérité. Il sert seulement de preuve qu'un travail a bien été effectué.
 
 
 
@@ -33,7 +31,7 @@ L'argent ne témoigne pas de l'utilité du travail qui l'a mérité. Il sert seu
 
 Nos peurs face à l'IA illustrent parfaitement cette grande faille de notre système économique. La technologie progresse rapidement et on craint qu'elle soit capable de faire notre travail à notre place. Mais pourquoi est-ce que ça nous fait peur?
 
-Si le but premier d'un travail était de produire quelque chose d'utile, alors ce serait une bonne nouvelle qu'on trouve une manière de le faire sans efforts. L'IA serait vu comme une merveille plutôt qu'une menace. Elle nous libérerait d'une obligation.
+Si le but premier d'un travail était de produire quelque chose d'utile, alors ce serait une bonne nouvelle qu'on trouve une manière de faire ce travail sans effort. L'IA serait vu comme une merveille plutôt qu'une menace. Elle nous libérerait d'une obligation.
 
 Mais au contraire, on a peur qu'elle soit utile, qu'elle soit capable de nous remplacer. Je travaille souvent comme traducteur. Quand ChatGPT est apparu, un de mes premiers réflexes a été de vérifier son aptitude pour la traduction. Je voulais savoir si ce nouvel outil allait être un assistant utile ou un compétiteur gratuit.
 
@@ -48,42 +46,25 @@ La seule explication à notre peur que la machine fasse notre travail à notre p
 
 Ce n'est pas la première fois que la société est confrontée à cette peur d'une perte d'emplois causée par l'automatisation. L'exemple le plus connu est l'invention du métier à tisser. Les tisserands se sont organisés pour s'opposer à la nouvelle technologie. Ils s'introduisaient dans les usines et sabotaient les machines. Le gouvernement a écrasé la contestation et beaucoup ont dû se trouver un travail moins spécialisé et moins bien rémunéré.
 
-Les exemples ne manquant pas, du remplacement des scribes par l'imprimerie aux logiciels comptables qui ont automatisé des opérations faites par des humains. Dans certains cas, comme avec les métiers à tisser, les travailleurs ont perdu leur emploi et ont dû s'en trouver un nouveau. Dans d'autres, comme avec les scribes et les commis comptables, la technologie a permis de produire davantage, ou de nouvelles choses, sans rendre immédiatement superflu le travail humain.
+Les exemples ne manquent pas, du remplacement des scribes par l'imprimerie aux logiciels comptables qui ont automatisé des opérations faites par des humains. Dans tous les cas, l'automatisation augmente la production de deux manières. Comme elle permet de produire à moindre coût, on peut produire davantage de ce qui était déjà produit, ou même créer de nouveaux produits. C'est une conséquence évidente, et c'est la seule à laquelle on réfléchit habituellement.
 
-Mais dans tous les cas, l'automatisation augmente la production de deux manières. Comme elle permet de produire à moindre coût, on peut produire davantage de ce qui était déjà produit, ou même créer de nouveaux produits. C'est une conséquence évidente, et c'est la seule à laquelle on réfléchit habituellement.
+Mais l'autre conséquence, c'est que les travailleurs qui ont été remplacés par la technologie doivent continuer à travailler. Qu'ils trouvent un nouveau rôle dans la même industrie ou qu'ils se recyclent dans un nouveau domaine, ils doivent absolument continuer à produire quelque chose pour prouver qu'ils méritent encore leur place en société.
 
-Mais l'autre conséquence, c'est que les travailleurs qui ont été remplacés par la technologie doivent continuer à travailler. Ils vont donc devoir trouver autre chose à produire pour prouver qu'ils méritent encore leur place en société.
+L'automatisation libère ces travailleurs en faisant leur production à leur place. Mais le besoin d'argent les contraint aussitôt à produire quelque chose de nouveau. Cette nouvelle production ne répond pas à une demande de consommation de la société, mais au besoin de production de ceux qui ont perdu leur emploi.
 
-C'est la loi de notre système économique. Il ne suffit pas qu'on produise collectivement assez pour satisfaire les besoins de tous. Il faut que chacun prouve son mérite en produisant quelque chose. Cet engrenage fait que la production ne peut qu'augmenter inéluctablement. La technologie ne peut pas nous libérer de notre obligation de produire. Elle ne peut qu'emballer la machine toujours davantage.
-
-
-
-
-
-Vous rappelez-vous de la société de loisirs? En fait, si on en parle encore aujourd'hui, c'est uniquement pour se demander où elle est passée. L'idée qu'on s'en faisait était simple: plus la technologie avance, moins il faudra travailler pour combler nos besoins. Moins on aura à travailler, plus on aura de temps pour le loisir. Ça semblait logique... mais bien sûr, on travaille autant aujourd'hui qu'à l'époque ou le terme est apparu.
-
-Là encore, tout s'explique de la même manière. Si le travail servait simplement à combler des besoins, en effet, le progrès technologique nous permettrait de travailler moins collectivement. Comme on travaille surtout pour prouver qu'on mérite notre place en société, on doit plutôt trouver de nouveaux besoins à combler pour que chacun puisse continuer à produire.
-
-Le loisir, c'est ce qui nous reste après avoir prouvé qu'on méritait de survivre. Et la preuve exige une quantité de travail socialement déterminée qui est totalement indépendante des besoins réels de la société.
-
-J'insiste autant sur cette équation parce qu'elle est fondamentale. On croit que la production vient d'un besoin de consommation, alors qu'au contraire c'est le besoin de production qui exige toujours plus de consommation. Si on pouvait se permettre de moins produire, on ne serait pas contraints à doper sans cesse la consommation.
+C'est la loi de notre système économique. Il ne suffit pas qu'on produise collectivement assez pour satisfaire les besoins de tous. Il faut que chacun prouve son mérite en produisant quelque chose. Cet engrenage fait que la production ne peut qu'augmenter inéluctablement. La technologie ne peut pas nous libérer de notre obligation de produire. Elle ne peut qu'emballer la machine davantage.
 
 
 
 
 
-J'aimerais vous décrire une journée de loisir qui pourrait me rendre heureux. J'ai congé, il fait beau. Je déjeune tranquillement, je pars me promener en vélo. Je m'installe dans un parc au soleil avec un livre. J'observe les gens autour de moi, les amis, les amoureux. Je regarde des gens jouer au foot ou au basket. Je vais rejoindre des amis qui habitent à côté, on dîne ensemble et on discute sur la terrasse tout l'après-midi. Je vais rejoindre mon amoureuse chez elle pour souper, on se colle et on se raconte notre journée.
+Vous rappelez-vous de la société de loisirs? En fait, si on en parle encore aujourd'hui, c'est seulement pour se demander pourquoi elle n'est jamais apparue. L'idée qu'on s'en faisait était simple: plus la technologie avance, moins il faudra travailler pour combler nos besoins. Moins on aura à travailler, plus on aura de temps pour le loisir. Ça semblait logique... mais bien sûr, on travaille autant aujourd'hui qu'à l'époque ou le terme est apparu.
 
-Sur le plan personnel, c'est une journée parfaite. Sur le plan environnemental, c'est génial. Sur le plan économique, c'est le désastre le plus total.
+Là encore, tout s'explique de la même manière. Si le travail servait simplement à combler des besoins, en effet, le progrès technologique nous permettrait de travailler moins collectivement. Mais comme on travaille pour prouver qu'on mérite notre place en société, on doit plutôt trouver de nouveaux besoins à combler pour que chacun puisse continuer à produire.
 
-Je n'ai consommé que l'essentiel: la nourriture que j'ai mangée, un peu d'usure sur mon vélo. Je n'ai pas stimulé la production. Je n'ai rien fait qui pourrait permettre à mes concitoyens de travailler. Si tout le monde faisait la même chose, la société s'effondrerait. Tout le monde perdrait son emploi à part les travailleurs essentiels, moi y compris.
+Le loisir, c'est ce qui nous reste après avoir prouvé qu'on méritait de survivre. Et cette preuve exige une quantité de travail socialement déterminée qui est indépendante des besoins réels de la société.
 
-Bien sûr, dans la version plus réaliste de l'histoire, j'ai quand même consommé du surperflu. J'ai lu le journal en déjeunant, j'ai été sur les réseaux sociaux, j'ai joué à un jeu sur mon téléphone. Quand j'ai texté mes amis avant d'aller dîner, mon téléphone a capté mon attention pendant un quart d'heure. J'ai acheté de l'alcool pour l'apéro. J'ai regardé une série avec ma copine le soir avant de dormir. Ça sauve un peu la mise.
-
-Heureusement pour l'économie, je ne peux pas me permettre beaucoup de journées comme celles-là. D'abord, je dois travailler. Et l'énergie que je dépense au travail me laisse parfois seulement ce qu'il faut pour consommer passivement du contenu générateur de besoins dans les heures qui me restent.
-
-Je ne porte pas de jugement de valeur ici. Je peux aussi trouver du plaisir dans la consommation: voyages, restaurants, beaux vêtements. Je veux seulement souligner à quel point notre système 
-économique est incompatible avec le plaisir gratuit, celui qui ne consomme pas de ressources et n'exige pas de production.
+J'insiste autant sur cette équation parce qu'elle est fondamentale. On croit que la production vient d'un besoin de consommation, alors qu'au contraire c'est le besoin de production qui exige toujours plus de consommation. Si on pouvait se permettre de moins produire, on ne serait pas contraints à stimuler sans cesse la consommation.
 
 
 
@@ -103,6 +84,27 @@ Je ne connais pas la réponse. Si notre cerveau cesse d'être monnayable, notre 
 
 
 
+J'aimerais vous décrire une journée de loisir qui pourrait me rendre heureux. J'ai congé, il fait beau. Je déjeune tranquillement, je pars me promener en vélo. Je m'installe dans un parc au soleil avec un livre. J'observe les gens autour de moi, les amis, les amoureux. Je regarde des gens jouer au foot ou au basket. Je vais rejoindre des amis qui habitent à côté, on dîne ensemble et on discute sur la terrasse tout l'après-midi. Je vais rejoindre mon amoureuse chez elle pour souper, on se colle et on se raconte notre journée.
+
+Sur le plan personnel, c'est une journée parfaite. Sur le plan environnemental, c'est génial. Sur le plan économique, c'est le désastre le plus total.
+
+Je n'ai consommé que l'essentiel: de la nourriture, un peu d'usure sur mon vélo. Je n'ai pas stimulé la production. Je n'ai rien fait qui pourrait permettre à mes concitoyens de travailler. Si tout le monde faisait la même chose, la société s'effondrerait. Tout le monde perdrait son emploi, à part les travailleurs essentiels, moi y compris.
+
+Bien sûr, dans la version plus réaliste de l'histoire, j'ai quand même consommé du surperflu. J'ai lu le journal en déjeunant, j'ai été sur les réseaux sociaux, j'ai joué à un jeu sur mon téléphone. Quand j'ai texté mes amis avant d'aller dîner, mon téléphone a capté mon attention pendant un quart d'heure. J'ai acheté de l'alcool pour l'apéro. J'ai regardé une série avec ma copine le soir avant de dormir. Ça sauve un peu la mise.
+
+Heureusement pour l'économie, je ne peux pas me permettre beaucoup de journées comme celles-là. D'abord, je dois travailler. Et l'énergie que je dépense au travail me laisse parfois seulement ce qu'il faut pour consommer passivement du contenu générateur de besoins dans les heures qui me restent.
+
+Je ne porte pas de jugement de valeur ici. Je trouve aussi du plaisir dans la consommation: voyages, restaurants, vêtements neufs. Je veux seulement souligner à quel point notre système 
+économique est incompatible avec le plaisir gratuit, celui qui ne consomme pas de ressources et n'exige pas de production.
+
+Si on veut préserver l'environnement, il faudra nécessairement réformer le système économique pour que cette journée de loisir soit possible à large échelle sans empêcher les gens de gagner leur vie.
+
+
+
+
+
+
+La pandémie a mis à l'avant-plan le concept de travail essentiel.
 
 
 
