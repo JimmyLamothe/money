@@ -10,7 +10,7 @@ Si j'achète un nouveau téléphone seulement parce qu'elle a réussi à créer 
 
 Quand on parle de surconsommation, on s'imagine généralement que le problème vient de notre besoin de consommer toujours davantage. Mais en réalité, la surconsommation répond d'abord à un besoin de production. Notre système économique exige que tout le monde produise quelque chose pour avoir le droit de consommer. Et comme on a tous besoin de consommer au moins un minimum, on doit tous produire, peu importe l'utilité de ce qu'on produit.
 
-Dans un monde paradoxal où la surproduction rend tranquillement la planète invivable, mais qu'on peut seulement démontrer qu'on mérite de vivre en produisant, cette employée téléphonique est à la fois une héroïne de notre présent et la fossoyeuse de notre avenir.
+Dans un monde paradoxal où la surproduction rend tranquillement la planète invivable, mais qu'on peut seulement démontrer qu'on mérite de vivre en produisant, cette employée téléphonique est à la fois la sauveuse de notre présent et la fossoyeuse de notre avenir.
 
 
 
@@ -23,7 +23,7 @@ Ces calculs utilisent énormément d'électricité pour refroidir les processeur
 
 Notre système économique comporte des similarités. L'argent est notre "proof-of-work", notre preuve du travail accompli.
 
-Évidemment, on ne travaille pas en pure perte, contrairement à ce qu'on vient de décrire pour la crypto-monnaie. Mais l'argent ne témoigne pas de l'utilité du travail qui l'a mérité. Il sert seulement de preuve qu'un travail a bien été effectué.
+Évidemment, on ne travaille pas en pure perte, contrairement à ce qu'on vient de décrire pour la crypto-monnaie. L'argent vise à récompenser le travail utile. Mais en pratique, il sert seulement de preuve qu'un travail a bien été effectué.
 
 
 
@@ -31,24 +31,24 @@ Notre système économique comporte des similarités. L'argent est notre "proof-
 
 Nos peurs face à l'IA illustrent parfaitement cette grande faille de notre système économique. La technologie progresse rapidement et on craint qu'elle soit capable de faire notre travail à notre place. Mais pourquoi est-ce que ça nous fait peur?
 
-Si le but premier d'un travail était de produire quelque chose d'utile, alors ce serait une bonne nouvelle qu'on trouve une manière de faire ce travail sans effort. L'IA serait vu comme une merveille plutôt qu'une menace. Elle nous libérerait d'une obligation.
+Si le but premier d'un travail était de produire quelque chose d'utile, alors ce serait une bonne nouvelle qu'on trouve une manière de faire ce travail sans effort. L'IA serait vue comme une merveille plutôt qu'une menace. Elle viendrait nous libérer d'une obligation.
 
 Mais au contraire, on a peur qu'elle soit utile, qu'elle soit capable de nous remplacer. Je travaille souvent comme traducteur. Quand ChatGPT est apparu, un de mes premiers réflexes a été de vérifier son aptitude pour la traduction. Je voulais savoir si ce nouvel outil allait être un assistant utile ou un compétiteur gratuit.
 
 Je ne crois pas être le seul à avoir eu ce réflexe. Dans le parcours classique d'une vie productive, on développe des habiletés et des connaissances à l'école qu'on applique et perfectionne au travail. Si ces habiletés ne sont plus requises par la société, on craint de devoir retourner à la case départ.
 
-D'un côté, c'est une technologie presque magique qui me permet de lire les nouvelles de lutte sumo dans les journaux japonais. De l'autre, si elle fonctionne assez bien, je devrai trouver une autre manière de prouver que je mérite ma place en société. 
+D'un côté, c'est une technologie presque magique qui me permet de lire un article sur la lutte sumo dans un journal japonais. De l'autre, si elle fonctionne assez bien, je devrai trouver une autre manière de prouver que je mérite ma place en société. 
 
-La seule explication à notre peur que la machine fasse notre travail à notre place, c'est que l'utilité de notre travail est moins importante que l'occasion qu'il nous donne de prouver notre mérite.
+La seule explication à notre peur collective que la machine fasse notre travail à notre place, c'est que le produit du travail est secondaire. Son utilité première est de nous donner l'occasion de prouver notre mérite.
 
 
 
 
 Ce n'est pas la première fois que la société est confrontée à cette peur d'une perte d'emplois causée par l'automatisation. L'exemple le plus connu est l'invention du métier à tisser. Les tisserands se sont organisés pour s'opposer à la nouvelle technologie. Ils s'introduisaient dans les usines et sabotaient les machines. Le gouvernement a écrasé la contestation et beaucoup ont dû se trouver un travail moins spécialisé et moins bien rémunéré.
 
-Les exemples ne manquent pas, du remplacement des scribes par l'imprimerie aux logiciels comptables qui ont automatisé des opérations faites par des humains. Dans tous les cas, l'automatisation augmente la production de deux manières. Comme elle permet de produire à moindre coût, on peut produire davantage de ce qui était déjà produit, ou même créer de nouveaux produits. C'est une conséquence évidente, et c'est la seule à laquelle on réfléchit habituellement.
+Les exemples ne manquent pas, du remplacement des scribes par l'imprimerie aux logiciels comptables qui ont automatisé des opérations faites par des humains. Dans tous les cas, la nouvelle technologie augmente la production de deux manières. Comme elle permet de produire à moindre coût, on peut produire davantage de ce qui se faisait déjà, ou même créer de nouveaux produits. C'est une conséquence évidente, et c'est la seule à laquelle on réfléchit habituellement.
 
-Mais l'autre conséquence, c'est que les travailleurs qui ont été remplacés par la technologie doivent continuer à travailler. Qu'ils trouvent un nouveau rôle dans la même industrie ou qu'ils se recyclent dans un nouveau domaine, ils doivent absolument continuer à produire quelque chose pour prouver qu'ils méritent encore leur place en société.
+Mais l'autre conséquence, c'est que les travailleurs qui ont été remplacés par l'automatisation doivent continuer à travailler. Qu'ils trouvent un nouveau rôle dans la même industrie ou qu'ils se recyclent dans un nouveau domaine, ils doivent absolument continuer à produire quelque chose pour prouver qu'ils méritent encore leur place en société.
 
 L'automatisation libère ces travailleurs en faisant leur production à leur place. Mais le besoin d'argent les contraint aussitôt à produire quelque chose de nouveau. Cette nouvelle production ne répond pas à une demande de consommation de la société, mais au besoin de production de ceux qui ont perdu leur emploi.
 
@@ -84,7 +84,7 @@ Je ne connais pas la réponse. Si notre cerveau cesse d'être monnayable, notre 
 
 
 
-J'aimerais vous décrire une journée de loisir qui pourrait me rendre heureux. J'ai congé, il fait beau. Je déjeune tranquillement, je pars me promener en vélo. Je m'installe dans un parc au soleil avec un livre. J'observe les gens autour de moi, les amis, les amoureux. Je regarde des gens jouer au foot ou au basket. Je vais rejoindre des amis qui habitent à côté, on dîne ensemble et on discute sur la terrasse tout l'après-midi. Je vais rejoindre mon amoureuse chez elle pour souper, on se colle et on se raconte notre journée.
+J'aimerais vous décrire une journée de loisir qui pourrait me rendre heureux. J'ai congé, il fait beau. Je déjeune tranquillement, je pars me promener en vélo. Je m'installe dans un parc au soleil avec un livre. J'observe des pic-niqueurs, des promeneurs des amoureux. Je regarde des gens jouer au foot ou au basket. Je vais rejoindre des amis qui habitent à côté, on dîne et on discute sur la terrasse tout l'après-midi. Je vais rejoindre mon amoureuse pour souper, on se colle et on se raconte notre journée.
 
 Sur le plan personnel, c'est une journée parfaite. Sur le plan environnemental, c'est génial. Sur le plan économique, c'est le désastre le plus total.
 
@@ -98,6 +98,39 @@ Je ne porte pas de jugement de valeur ici. Je trouve aussi du plaisir dans la co
 économique est incompatible avec le plaisir gratuit, celui qui ne consomme pas de ressources et n'exige pas de production.
 
 Si on veut préserver l'environnement, il faudra nécessairement réformer le système économique pour que cette journée de loisir soit possible à large échelle sans empêcher les gens de gagner leur vie.
+
+
+
+
+
+
+Pour consommer, il faut travailler. Pour travailler, il faut produire. Pour produire, quelqu'un doit consommer.
+
+Cette chaîne décrit notre système économique. C'est un cercle qui pourrait être viable si la consommation restait stable.
+
+Mais cette chaîne exige une consommation égale à notre capacité de production. Comme la technologie augmente sans cesse notre capacité de production, notre consommation doit suivre. Et plus la consommation augmente, plus la planète souffre.
+
+Si on veut sauver la planète, il faut briser cette chaîne. Et je crois qu'elle a un maillon faible.
+
+On ne peut pas produire sans consommer. Produire, c'est vendre, consommer, c'est acheter. Il n'y a pas de vendeur sans acheteur. Ce maillon de la chaîne est incassable.
+
+Est-ce qu'on peut travailler sans produire? Peut-être, si un travail rémunéré ne contribue absolument en rien à la production, comme les calculs des Bitcoins. Mais ce serait une bien étrange façon de sauver l'environnement que de payer les gens à compter des moutons dans leur tête.
+
+Mais est-ce qu'on doit absolument travailler pour consommer? Clairement, non, puisque notre société regorge d'exceptions. Que ce soit les pauvres qui dépendent de l'aide de l'état ou les riches qui vivent des revenus de leur fortune, on voit que ce n'est pas une règle absolue.
+
+Bien sûr, ce maillon de la chaîne joue un rôle clé dans notre système économique. Parce que pour consommer, il faut produire. Et la production exige généralement du travail. S'il faut travailler pour consommer, on motive les gens à produire ce qui est nécessaire.
+
+Mais on produit trop parce que l'incitatif au travail est trop grand. La solution la plus évidente serait donc de réduire l'incitatif au travail, sans l'éliminer. Il doit avoir la force exacte pour permettre une consommation durable.
+
+
+
+
+
+
+NOTES EN VRAC: Société d’abondance - on est passé sans s’en rendre compte d’un monde où on produisait pour consommer à un monde où on consommait pour produire - lien obésité - Parallèle surconsommation / obésité- ça répond d’abord à un besoin fondamental mais si la pulsion ne connaît pas de limite de satiété ça mène à la destruction de l’organisme
+
+Tous les efforts et le discours porte sur la consommation alors que le problème est au niveau de la production 
+
 
 
 
@@ -118,9 +151,6 @@ Si on produisait moins, on ne serait pas obligés de consommer autant
 
 
 
-NOTES EN VRAC: Société d’abondance - on est passé sans s’en rendre compte d’un monde où on produisait pour consommer à un monde où on consommait pour produire - lien obésité - Parallèle surconsommation / obésité- ça répond d’abord à un besoin fondamental mais si la pulsion ne connaît pas de limite de satiété ça mène à la destruction de l’organisme
-
-Tous les efforts et le discours porte sur la consommation alors que le problème est au niveau de la production 
 
 
 
