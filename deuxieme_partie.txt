@@ -17,7 +17,7 @@ Dans un monde paradoxal où la surproduction rend tranquillement la planète inv
 
 
 
-Les capitalistes adorent le Bitcoin, qui échappe davantage au pouvoir étatique que l'argent national. Étrangement, son fonctionnement rappelle le paradoxe qu'on vient d'évoquer, avec le même gaspillage et le même coût environnemental.
+Les libertariens  adorent le Bitcoin, qui échappe davantage au pouvoir étatique que l'argent national. Étrangement, son fonctionnement rappelle le paradoxe qu'on vient d'évoquer, avec le même gaspillage et le même coût environnemental.
 
 Pour simplifier à l'extrême, on mine un Bitcoin en utilisant des processeurs pour effectuer une quantité prodigieuse de calculs mathématiques. Le réseau valide qu'on a bien effectué ces calculs, et nous récompense en crypto-monnaie. Le même processus sert à valider les transactions.
 
@@ -66,7 +66,7 @@ Là encore, tout s'explique de la même manière. Si le travail servait simpleme
 
 Le loisir, c'est ce qui nous reste après avoir prouvé qu'on méritait de survivre. Et cette preuve exige une quantité de travail socialement déterminée qui est indépendante des besoins réels de la société.
 
-J'insiste autant sur cette équation parce qu'elle est fondamentale. On croit que la production vient d'un besoin de consommation, alors qu'au contraire c'est le besoin de production qui exige toujours plus de consommation. Si on pouvait se permettre de moins produire, on ne serait pas contraints de stimuler sans cesse la consommation.
+J'insiste autant sur cette équation parce qu'elle est fondamentale. On croit que la production vient d'un besoin de consommation, alors qu'au contraire c'est le besoin de production qui exige toujours plus de consommation. Si on pouvait se permettre de moins produire, on ne serait pas contraints de stimuler sans cesse la consommation [est-ce qu'on stimulerait moins la consommation? Ou est-ce qu'on serait plutôt moins enclins à répondre à ce stimuli?].
 
 
 
@@ -79,8 +79,7 @@ Mais bien sûr, ils n'ont jamais tiré un sou des nouvelles machines. Celles-ci 
 
 Les personnes qui tirent un profit de l'IA ne sont pas les mêmes que celles qui pourraient se faire remplacer. C'est pour cette raison qu'elles génèrent autant de craintes. On a commencé par automatiser le travail manuel, ce qui a poussé de plus en plus de gens vers le travail intellectuel. Si on réussit à automatiser le travail intellectuel, qu'est-ce qui restera?
 
-Je ne connais pas la réponse. Si notre cerveau cesse d'être monnayable, notre corps le reviendra peut-être? Mais si cette peur se concrétise, ce dont je doute, les gens trouveront le moyen de continuer à travailler. Parce qu'ils n'auront pas le choix. Il faut produire pour avoir le droit d'exister.
-
+Je ne connais pas la réponse. Si notre cerveau cesse d'être monnayable, notre corps le reviendra peut-être? Mais si cette peur se concrétise, ce dont je doute, les gens devront trouver le moyen de continuer à travailler. Parce qu'ils n'auront pas le choix. Il faut produire pour avoir le droit d'exister.
 
 
 
@@ -180,15 +179,15 @@ Les vraies solutions exigeraient qu'on réduise la consommation. Mais ce sont ju
 
 En fait, le coût énorme de ces solutions technologiques est dans un sens un avantage plutôt qu'un inconvénient, parce qu'il implique une production faramineuse qui pourrait donner à des millions de personnes l'occasion de prouver qu'ils méritent une place dans la société.
 
-Pour réduire notre consommation de manière globale, il faut simplement réduire notre besoin de production. Aujourd'hui, on doit travailler beaucoup. Et on trouve des besoins à combler avec l'argent qu'on gagne. Si on pouvait travailler moins, certains choisiraient de combler moins de besoins pour avoir plus de loisirs. Lorsqu'on comble moins de besoins, on consomme moins. Ça me semble la seule issue viable pour sauver la planète.
+Pour réduire notre consommation de manière globale, il faut réduire notre besoin de production. Aujourd'hui, on doit travailler beaucoup. Et on trouve des besoins à combler avec l'argent qu'on gagne. Si on pouvait travailler moins, certains choisiraient de combler moins de besoins pour avoir plus de loisirs. Lorsqu'on comble moins de besoins, on consomme moins. Ça me semble la seule issue viable pour sauver la planète.
 
 
 
 
 
-Bien sûr, si on produit moins, qu'est-ce qu'on doit produire? Je crois encore qu'il ne faut pas approcher la question du point de vue de la morale. Si on réussit à sauver la démocratie, j'espère que ce ne sera pas pour créer un nouveau régime qui dicte à la population ce qu'on peut consommer. J'aimerais plutôt explorer rapidement dans les prochains textes les conséquences possibles d'une réduction de l'incitatif au travail.
+Bien sûr, si on produit moins, qu'est-ce qu'on doit produire? Je crois encore qu'il ne faut pas approcher la question du point de vue de la morale. Si on réussit à sauver la démocratie, j'espère que ce ne sera pas pour créer un nouveau régime qui dicte ce qu'on peut consommer. J'aimerais plutôt explorer rapidement dans les prochains textes les conséquences possibles d'une réduction de l'incitatif au travail.
 
-C'est un simple portrait prospectif basé sur l'intuition et la réflexion. Il est certainement incomplet, et sans doute même erronné par endroits. Je vois toute cette deuxième partie comme un appel à la discussion et à la réflexion. Je lance des pistes, et j'ai confiance qu'on trouvera lesquelles méritent d'être suivies, lesquelles sont à écarter, et quelles questions importantes m'ont complètement échappé.
+C'est un simple portrait prospectif basé sur l'intuition et la réflexion. Il est certainement incomplet, et sans doute même erronné par endroits. Je vois toute cette deuxième partie comme un appel à la discussion et à la réflexion. Je lance des pistes, et j'ai confiance qu'on trouvera lesquelles méritent d'être suivies, lesquelles sont à écarter, et quelles questions importantes m'ont échappé.
 
 Dans tous les cas, si certains d'entre vous s'imaginent des scénarios catastrophes, il faut simplement se rappeler qu'on veut changer le moins possible, mais le minimum nécessaire.
 
