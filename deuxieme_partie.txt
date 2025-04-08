@@ -1,4 +1,4 @@
-J'aimerais commencer la deuxième section de ce livre par une anecdote qui peut sembler banale. J'ai reçu un appel de mon fournisseur téléphonique pour m'avertir que j'avais terminé de payer mon vieux téléphone et que je pouvais en obtenir un nouveau. J'ai refusé. Rien de plus normal à notre époque. Mais en y réfléchissant, j'ai senti que ce moment banal encapsulait tout l'engrenage économique qui met à mal la planète. 
+J'aimerais commencer cette deuxième section par une anecdote qui peut sembler banale. J'ai reçu un appel de mon fournisseur téléphonique pour m'avertir que j'avais terminé de payer mon vieil appareil et que je pouvais en obtenir un nouveau. J'ai refusé. Rien de plus normal à notre époque. Mais en y réfléchissant, j'ai senti que ce moment banal encapsulait tout l'engrenage économique qui met à mal la planète. 
 
 On paye quelqu'un pour convaincre quelqu'un d'autre de dépenser son argent pour un objet dont il n'a pas besoin.
 
@@ -31,7 +31,7 @@ Notre système économique comporte des similarités. L'argent est notre "proof-
 
 
 
-Nos peurs face à l'IA illustrent parfaitement cette grande faille de notre système économique. La technologie progresse rapidement et on craint qu'elle soit capable de faire notre travail à notre place. Mais pourquoi est-ce que ça nous fait peur?
+Nos peurs face à l'IA illustrent parfaitement cette faille de notre système économique. La technologie progresse rapidement et on craint qu'elle soit capable de faire notre travail à notre place. Mais pourquoi est-ce que ça nous fait peur?
 
 Si le but premier d'un travail était de produire quelque chose d'utile, alors ce serait une bonne nouvelle qu'on trouve une manière de faire ce travail sans effort. L'IA serait vue comme une merveille plutôt qu'une menace. Elle viendrait nous libérer d'une obligation.
 
@@ -48,7 +48,7 @@ La seule explication à notre peur collective que la machine fasse notre travail
 
 Ce n'est pas la première fois que la société est confrontée à cette peur d'une perte d'emplois causée par l'automatisation. L'exemple le plus connu est l'invention du métier à tisser. Les tisserands se sont organisés pour s'opposer à la nouvelle technologie. Ils s'introduisaient dans les usines et sabotaient les machines. Le gouvernement a écrasé la contestation et beaucoup ont dû se trouver un travail moins spécialisé et moins bien rémunéré.
 
-Les exemples ne manquent pas, du remplacement des scribes par l'imprimerie aux chaînes de montage. Dans tous les cas, la nouvelle technologie augmente la production de deux manières. Comme elle permet de produire à moindre coût, on peut produire davantage de ce qui se faisait déjà, ou développer de nouveaux produits. C'est une conséquence évidente, et c'est la seule à laquelle on réfléchit habituellement.
+Les exemples ne manquent pas, du remplacement des scribes par l'imprimerie aux chaînes de montage. Dans tous les cas, la nouvelle technologie augmente la production de deux manières. Comme elle permet de produire plus à moindre coût, on peut faire plus de ce qu'on faisait déjà, ou développer de nouveaux produits. C'est une conséquence évidente, et c'est la seule à laquelle on réfléchit habituellement.
 
 Mais l'autre conséquence, c'est que les travailleurs qui ont été remplacés par l'automatisation doivent continuer à travailler. Qu'ils trouvent un nouveau rôle dans la même industrie ou qu'ils se recyclent dans un nouveau domaine, ils doivent absolument continuer à produire quelque chose pour prouver qu'ils méritent encore leur place en société.
 
@@ -62,11 +62,11 @@ C'est la loi de notre système économique. Il ne suffit pas qu'on produise coll
 
 Qui se rappelle de la société de loisirs? En fait, si on en parle encore aujourd'hui, c'est seulement pour se demander pourquoi elle n'est jamais apparue. L'idée qu'on s'en faisait était simple: plus la technologie avance, moins il faudra travailler pour combler nos besoins. Moins on aura à travailler, plus on aura de temps pour le loisir. Ça semblait logique... mais bien sûr, on travaille autant aujourd'hui qu'à l'époque ou le terme est apparu.
 
-Là encore, tout s'explique de la même manière. Si le travail servait simplement à combler des besoins, en effet, le progrès technologique nous permettrait de travailler moins collectivement. Mais comme on travaille pour prouver qu'on mérite notre place en société, on doit plutôt trouver de nouveaux besoins à combler pour que chacun puisse continuer à produire.
+Là encore, tout s'explique de la même manière. Si le travail servait simplement à combler des besoins, en effet, le progrès technologique nous permettrait de travailler moins collectivement. Mais comme on travaille d'abord pour prouver qu'on mérite notre place en société, on doit plutôt trouver de nouveaux besoins à combler, afin que chacun puisse continuer à produire.
 
 Le loisir, c'est ce qui nous reste après avoir prouvé qu'on méritait de survivre. Et cette preuve exige une quantité de travail socialement déterminée qui est indépendante des besoins réels de la société.
 
-J'insiste autant sur cette équation parce qu'elle est fondamentale. On croit que la production vient d'un besoin de consommation, alors qu'au contraire c'est le besoin de production qui exige toujours plus de consommation. Si on pouvait se permettre de moins produire, on ne serait pas contraints de stimuler sans cesse la consommation [est-ce qu'on stimulerait moins la consommation? Ou est-ce qu'on serait plutôt moins enclins à répondre à ce stimuli?].
+J'insiste autant sur cette équation parce qu'elle est fondamentale. On croit que la production vient d'un besoin de consommation, alors qu'au contraire c'est le besoin de production qui exige toujours plus de consommation. Si on pouvait se permettre de moins produire, on ne serait pas contraints de stimuler sans cesse la consommation et les gens seraient libres de prioriser le loisir sur une consommation accrue.
 
 
 
@@ -75,7 +75,7 @@ J'insiste autant sur cette équation parce qu'elle est fondamentale. On croit qu
 
 Revenons un instant à l'époque Victorienne. Imaginons un instant que les profits générés par les nouvelles machines à tisser avaient été versés aux tisserands qui perdaient leur travail. Il n'y aurait pas eu d'émeutes. Les tisserands auraient peut-être pris leur retraite, où auraient continué à travailler à temps partiel de manière artisanale pour augmenter leurs revenus.
 
-Mais bien sûr, ils n'ont jamais tiré un sou des nouvelles machines. Celles-ci profitaient uniquement à leurs propriétaires. C'est systématiquement le cas des avancées technologiques. Dans notre système, tous les bénéfices des progrès technologiques vont aux propriétaires d'entreprises. Les travailleurs ne peuvent qu'être perdants sur le plan économique, même s'ils peuvent en profiter comme citoyens si ces technologies améliorent leur quotidien.
+Mais bien sûr, ils n'ont jamais tiré un sou des nouvelles machines. Celles-ci profitaient uniquement à leurs propriétaires. C'est systématiquement le cas des avancées technologiques. Dans notre système, tous les bénéfices des progrès technologiques vont aux propriétaires d'entreprises. Les travailleurs ne sont jamais gagnants sur le plan économique, même s'ils peuvent en profiter comme citoyens si ces technologies améliorent leur quotidien.
 
 Les personnes qui tirent un profit de l'IA ne sont pas les mêmes que celles qui pourraient se faire remplacer. C'est pour cette raison qu'elles génèrent autant de craintes. On a commencé par automatiser le travail manuel, ce qui a poussé de plus en plus de gens vers le travail intellectuel. Si on réussit à automatiser le travail intellectuel, qu'est-ce qui restera?
 
@@ -87,7 +87,7 @@ Je ne connais pas la réponse. Si notre cerveau cesse d'être monnayable, notre 
 
 J'aimerais vous décrire une journée de loisir qui pourrait me rendre heureux. J'ai congé, il fait beau. Je déjeune tranquillement, je pars me promener en vélo. Je m'installe dans un parc au soleil avec un livre. Je lève les yeux pour observer des pic-niqueurs, des promeneurs, des amoureux. Je regarde des gens jouer au foot ou au basket. Je vais rejoindre des amis, on dîne et on discute sur la terrasse. Je vais rejoindre mon amoureuse pour souper, on se colle et on se raconte notre journée.
 
-Sur le plan personnel, c'est une journée parfaite. Sur le plan environnemental, c'est génial. Sur le plan économique, c'est le désastre le plus total.
+Sur le plan personnel, c'est une journée parfaite. Sur le plan environnemental, c'est idéal. Sur le plan économique, c'est le désastre le plus total.
 
 Je n'ai consommé que l'essentiel: de la nourriture, un peu d'usure sur mon vélo. Je n'ai pas stimulé la production. Je n'ai rien fait qui pourrait permettre à mes concitoyens de travailler. Si chacun faisait de même, la société s'écroulerait. Tout le monde perdrait son emploi, à part les travailleurs essentiels, moi y compris.
 
@@ -109,7 +109,7 @@ Pour consommer, il faut travailler. Pour travailler, il faut produire. Pour prod
 
 Cette chaîne décrit notre système économique. C'est un cercle qui pourrait être viable si la consommation restait stable.
 
-Mais cette chaîne nécessite une consommation égale à notre capacité de production. Comme la technologie augmente sans cesse cette capacité, notre consommation doit suivre. Et plus la consommation augmente, plus la planète souffre.
+Mais cette chaîne exige une consommation égale à notre capacité de production. Comme la technologie augmente sans cesse cette capacité, notre consommation doit suivre. Et plus la consommation augmente, plus la planète souffre.
 
 Si on veut sauver la planète, il faut briser cette chaîne. Et je crois qu'elle a un maillon faible.
 
@@ -129,12 +129,37 @@ Le revenu minimum est justement un outil économique qui peut être ajusté fine
 
 
 
+Avant d'aller plus loin, il faut se poser une question cruciale. Est-ce qu'on a besoin de tout ce qu'on produit? Si c'est le cas, ça change tout. On ne réduit pas l'incitatif au travail si la société peine à produire le nécessaire.
 
-Les sociétés riches sont des sociétés d'abondance. On est passé sans s'en apercevoir d'un monde où on produisait pour pouvoir consommer à un monde où on consomme pour pouvoir produire. L'exemple le plus frappant est sans doute dans notre rapport à la nourriture.
+Les besoins sont une question de valeurs, alors à chacun de trouver sa réponse. Mais la pandémie offre une matière à réflexion qui peut nourrir nos conclusions. Personne ne veut retourner à l'époque des confinements, mais ils ont été le théâtre d'une expérience économique à grande échelle dont on peut tirer des leçons.
+
+Dans les sociétés où on a imposé le confinement, il y a eu une étrange inversion: plutôt que de prouver leur mérite social en travaillant, on demandait à beaucoup de gens de prouver leur mérite en ne travaillant pas. Leur incitatif au travail était à zéro. Et le gouvernement, pour les récompenser, leur offrait un revenu minimum pour leur permettre de survivre.
+
+Ces gens vivaient en quelque sorte une version extrême du scénario qu'on explore: aucune production, un minimum de consommation, trop de loisir, mais la survie assurée.
+
+Les travailleurs essentiels devaient prouver leur mérite en restant à l'ouvrage. Ce n'était pas les plus riches d'entre nous. Bien sûr, il y avait parmi eux des docteurs, mais aussi beaucoup de travailleurs agricoles, des employés de supermarché, des livreurs. Quant à moi, je faisais partie de l'autre groupe, dont le travail était jugé superflu en temps de crise. J'ai donc été un des cobayes de l'expérience.
+
+J'ai trouvé cette période très pénible, mais pas pour des raisons matérielles. J'avais tout ce qu'il me fallait pour survivre. C'est le contact social qui me manquait. Je m'ennuyais d'aller au restaurant avec les amis, mais j'étais content d'avoir le temps de cuisiner davantage. J'aurais payé cher pour voir ma famille, mais je n'avais rien besoin de consommer.
+
+Lorsque j'entendais les gens rêver à des achats, c'était généralement ce qui rendait le loisir plus agréable ou compensait le manque de contact humain. Les célibataires voulaient s'acheter un chien ou un chat, les familles rêvaient d'un chalet à la campagne où être bien, même isolés des autres.
+
+Je n'ai entendu personne se plaindre de ne pas pouvoir consommer autant qu'avant. Clairement, on pouvait se passer d'une grande partie de ce qu'on produisait. La souffrance venait des restrictions sur nos libertés et nos contacts humains, pas sur notre consommation.
+
+Pendant cette période, tous les indicateur environnementaux étaient au vert, à un niveau qui suffirait à sauver la planète. Soyons clairs: on étudie seulement ce scénario extrême pour en tirer des leçons, par pour le reproduire. Je crois qu'un gouvernement sage devrait faire des changements doux et graduels et respecter les libertés individuelles, tout le contraire de ce qui s'est fait pour répondre à la crise pendant les confinements.
+
+Mais je crois que cette période nous montre tout de même que la capacité de production dans les sociétés riches dépasse largement le besoin de consommation nécessaire au bonheur.
+
+
+
+
+
+
+
+Pour moi, les sociétés riches sont des sociétés d'abondance. On est passé sans s'en apercevoir d'un monde où on produisait pour pouvoir consommer à un monde où on consomme pour pouvoir produire. L'exemple le plus frappant est sans doute dans notre rapport à la nourriture.
 
 L'être humain a évolué dans un contexte de disettes. Lorsqu'il y avait de la nourriture, il fallait en consommer un maximum, pour avoir des réserves de gras lors des périodes où on ne trouvait rien à manger.
 
-Ça reste à prouver, mais il est très possible que les adaptations qui nous aidaient à survivre dans un contexte de manque nuisent maintenant à notre santé dans un contexte d'abondance. Le goût pour le sucre et le gras qui nous faisait rechercher des aliments riches en énergie nous pousse maintenant vers la friture et le soda.
+Il est très possible que les adaptations qui nous aidaient à survivre dans un contexte de manque nuisent maintenant à notre santé dans un contexte d'abondance. Le goût pour le sucre et le gras qui nous faisait rechercher des aliments riches en énergie nous pousse maintenant vers la friture et le soda.
 
 Là encore, je ne porte pas de jugement. J'aime les chips, même si mon ventre se plaint quand je termine le sac. Parfois on veut du plaisir sur le moment, quitte à en subir les conséquences plus tard.
 
