@@ -17,7 +17,7 @@ Dans un monde paradoxal où la surproduction rend tranquillement la planète inv
 
 
 
-Les libertariens  adorent le Bitcoin, qui échappe davantage au pouvoir étatique que l'argent national. Étrangement, son fonctionnement rappelle le paradoxe qu'on vient d'évoquer, avec le même gaspillage et le même coût environnemental.
+Les libertariens adorent le Bitcoin, qui échappe davantage au pouvoir étatique que l'argent national. Étrangement, son fonctionnement rappelle le paradoxe qu'on vient d'évoquer, avec le même gaspillage et le même coût environnemental.
 
 Pour simplifier à l'extrême, on mine un Bitcoin en utilisant des processeurs pour effectuer une quantité prodigieuse de calculs mathématiques. Le réseau valide qu'on a bien effectué ces calculs, et nous récompense en crypto-monnaie. Le même processus sert à valider les transactions.
 
@@ -103,25 +103,42 @@ Si on veut préserver l'environnement, il faudra nécessairement réformer le sy
 
 
 
+Les sociétés riches sont des sociétés d'abondance. On est passé sans s'en apercevoir d'un monde où on produisait pour pouvoir consommer à un monde où on consomme pour pouvoir produire. L'exemple le plus frappant est sans doute dans notre rapport à la nourriture.
+
+L'être humain a évolué dans un contexte de disettes. Lorsqu'il y avait de la nourriture, il fallait en consommer un maximum, pour avoir des réserves de gras lors des périodes où on ne trouvait rien à manger.
+
+Il est très possible que les adaptations qui nous aidaient à survivre dans un contexte de manque nuisent maintenant à notre santé dans un contexte d'abondance. Le goût pour le sucre et le gras qui nous faisait rechercher des aliments riches en énergie nous pousse maintenant vers la friture et le soda.
+
+Là encore, je ne porte pas de jugement. J'aime les chips, même si mon ventre se plaint quand je termine le sac. Parfois on veut du plaisir sur le moment, quitte à en subir les conséquences plus tard.
+
+Ce qui est certain, par contre, c'est que notre appétit dépasse nos besoins. On serait probablement plus heureux si nos envies alimentaires correspondaient à nos besoins réels, et certainement en meilleure santé.
+
+Pourtant, tout le contexte commercial nous encourage à manger et boire davantage. Les efforts pour encourager une consommation modérée sont une goutte d'eau dans l'océan publicitaire.
+
+Je ne veux pas m'y attarder, parce qu'on pourrait remplir une bibliothèque avec ce qui s'est déjà écrit sur le sujet, mais on stimule ainsi la consommation pour répondre au besoin de production. L'industrie publicitaire, au sens le plus large du terme, sert à générer une envie de consommation au-delà des besoins naturels.
+
+
+
+
 
 
 Pour consommer, il faut travailler. Pour travailler, il faut produire. Pour produire, quelqu'un doit consommer.
 
 Cette chaîne décrit notre système économique. C'est un cercle qui pourrait être viable si la consommation restait stable.
 
-Mais cette chaîne exige une consommation égale à notre capacité de production. Comme la technologie augmente sans cesse cette capacité, notre consommation doit suivre. Et plus la consommation augmente, plus la planète souffre.
+Mais cette chaîne exige une consommation égale à notre capacité de production. Comme la technologie augmente continuellement cette capacité, notre consommation doit suivre. Et plus la consommation augmente, plus la planète souffre.
 
 Si on veut sauver la planète, il faut briser cette chaîne. Et je crois qu'elle a un maillon faible.
 
-On ne peut pas produire sans consommer. Produire, c'est vendre, consommer, c'est acheter. Il n'y a pas de vendeur sans acheteur. Ce maillon de la chaîne est trop solide.
+On ne peut pas produire sans consommer. Produire, c'est vendre, consommer, c'est acheter. Il n'y a pas de vendeur sans acheteur. Ce maillon de la chaîne est incassable.
 
 Est-ce qu'on peut travailler sans produire? Peut-être, mais ce serait une drôle de stratégie commerciale que de payer des travailleurs qui ne contribuent pas à la production.
 
-Mais est-ce qu'on doit absolument travailler pour consommer? Clairement, non, puisqu'on voit déjà des exceptions. Certains vivent de l'aide de l'état ou des revenus de leur fortune. Ce n'est pas une règle absolue, et je crois donc que c'est le maillon faible de la chaîne.
+Mais est-ce qu'on doit absolument travailler pour consommer? Non, puisqu'on voit déjà des exceptions. Certains vivent de l'aide de l'état ou des revenus de leur fortune. Ce n'est pas une règle absolue, et je crois donc que c'est le maillon faible de la chaîne.
 
 Bien sûr, ce maillon joue un rôle clé dans notre système économique. Pour consommer même l'essentiel, il faut d'abord le produire. Et la production exige du travail. S'il faut travailler pour consommer, les gens sont motivés à produire ce qui est nécessaire.
 
-Mais dans les sociétés riches, on produit bien plus que ce qui est nécessaire, parce que l'incitatif au travail est trop puissant. La solution évidente serait donc de réduire cet incitatif, sans l'éliminer. Pour éviter d'étouffer la planète par la surconsommation, l'incitatif au travail devrait avoir la force exacte pour stimuler une production suffisante, mais durable.
+Mais dans les sociétés riches, on produit bien plus que ce qui est strictement nécessaire, parce que l'incitatif au travail est trop puissant. La solution évidente serait donc de réduire cet incitatif, sans l'éliminer. Pour éviter d'étouffer la planète par la surconsommation, l'incitatif au travail aurait la force exacte pour stimuler une production suffisante, mais durable.
 
 Le revenu minimum est justement un outil économique qui peut être ajusté finement pour réguler l'incitatif au travail. Il existe même déjà, sous la forme d'aide de dernier recours, mais il n'est pas encore bien adapté. Il faudrait l'ajuster à la fois dans son esprit et dans sa mécanique. On y reviendra dans la proposition finale.
 
@@ -129,9 +146,50 @@ Le revenu minimum est justement un outil économique qui peut être ajusté fine
 
 
 
+
+
+
+
+
 Avant d'aller plus loin, il faut se poser une question cruciale. Est-ce qu'on a besoin de tout ce qu'on produit? Si c'est le cas, ça change tout. On ne réduit pas l'incitatif au travail si la société peine à produire le nécessaire.
 
-Les besoins sont une question de valeurs, alors à chacun de trouver sa réponse. Mais la pandémie offre une matière à réflexion qui peut nourrir nos conclusions. Personne ne veut retourner à l'époque des confinements, mais ils ont été le théâtre d'une expérience économique à grande échelle dont on peut tirer des leçons.
+Les besoins sont une question de valeurs, alors à chacun sa réponse. J'aimerais seulement profiter des prochains textes pour nourrir votre réflexion, sans imposer de conclusion. Je vous propose de les lire l'esprit ouvert, pour élargir votre compréhension, sans chercher à poser un jugement immédiat.
+
+
+
+
+
+Je fumais un paquet de cigarettes par jour pendant ma vingtaine. Comme beaucoup d'anciens fumeurs, ça m'a donné une conscience physique de la différence entre un besoin réel et un besoin artificiel. Avant ma première cigarette, je n'avais pas besoin de fumer. Un an après ma dernière, je n'avais plus besoin de fumer. Mais entre ces deux moments, chaque cigarette répondait à un besoin et m'apportait du plaisir.
+
+Pendant que j'étais encore fumeur, je croyais que fumer rajoutait à mon bonheur. Un café sans cigarette était une hérésie. Mon moment préféré au restaurant était la cigarette qui suivait le repas. Quand j'ai arrêté de fumer, j'étais convaincu que j'allais devoir sacrifier ces plaisirs pour ma santé.
+
+J'ai plutôt été fâché de constater qu'après le sevrage, le café était tout aussi bon. Le repas était même meilleur une fois retrouvé un peu d'odorat. J'ai saisi que le seul plaisir que m'apportait la cigarette était de combler le manque qu'elle avait créé en moi.
+
+Je ne prétends pas que c'est une expérience universelle. Chaque fumeur a son propre rapport à la cigarette, et certains y rêvent encore des décennies après avoir arrêté. Pour moi, la cigarette servait de béquille sociale, et comme je pouvais me passer de béquille à l'aube de la trentaine, il ne me restait que l'addiction.
+
+En pratique, il n'y a pas de distinction nette entre un besoin naturel et un besoin artificiel. Les deux sont toujours imbriqués. J'ai pris la cigarette comme exemple parce qu'on voit bien son côté artificiel. Notre corps découvre la nicotine et en demande d'autre, alors qu'avant il s'en passait parfaitement.
+
+Pour la plupart de nos besoins, c'est impossible de savoir quelle part est innée et quelle part vient de l'extérieur. Certains se croient immunisés contre le marketing, la publicité et autres mécanismes addictifs, et c'est tant mieux pour eux. Moi, je me sais vulnérable, et je crois que dans leur absence, je consommerais moins sans perdre la moindre parcelle de bonheur.
+
+S'il y a une différence à faire entre les besoins naturels et les besoins artificiels, ce serait peut-être justement que les besoins naturels ont un lien plus direct avec notre bonheur. Je suis plus heureux comme non-fumeur. Le manque n'existe plus. Et le plaisir que je prenais à le combler s'est reporté ailleurs.
+
+
+
+
+Suire avec les types de besoin que nos emplois comblent - besoin naturel - artificiel (déjà fait cigarette?)
+
+
+
+
+Ensuite parler des types de travail (essentiel - horizontal - générateur de besoin - combleur de besoins générés).
+
+Conclure avec la pandémie - snapshot du future
+
+
+
+
+
+La pandémie nous a offert beaucoup de matière à réflexion sur le travail et les besoins. Personne ne veut retourner à l'époque des confinements, mais ils ont été le théâtre d'une expérience économique à grande échelle dont on peut tirer des leçons.
 
 Dans les sociétés où on a imposé le confinement, il y a eu une étrange inversion: plutôt que de prouver leur mérite social en travaillant, on demandait à beaucoup de gens de prouver leur mérite en ne travaillant pas. Leur incitatif au travail était à zéro. Et le gouvernement, pour les récompenser, leur offrait un revenu minimum pour leur permettre de survivre.
 
@@ -155,40 +213,6 @@ Mais je crois que cette période nous montre tout de même que la capacité de p
 
 
 
-Pour moi, les sociétés riches sont des sociétés d'abondance. On est passé sans s'en apercevoir d'un monde où on produisait pour pouvoir consommer à un monde où on consomme pour pouvoir produire. L'exemple le plus frappant est sans doute dans notre rapport à la nourriture.
-
-L'être humain a évolué dans un contexte de disettes. Lorsqu'il y avait de la nourriture, il fallait en consommer un maximum, pour avoir des réserves de gras lors des périodes où on ne trouvait rien à manger.
-
-Il est très possible que les adaptations qui nous aidaient à survivre dans un contexte de manque nuisent maintenant à notre santé dans un contexte d'abondance. Le goût pour le sucre et le gras qui nous faisait rechercher des aliments riches en énergie nous pousse maintenant vers la friture et le soda.
-
-Là encore, je ne porte pas de jugement. J'aime les chips, même si mon ventre se plaint quand je termine le sac. Parfois on veut du plaisir sur le moment, quitte à en subir les conséquences plus tard.
-
-Ce qui est certain, par contre, c'est que notre appétit dépasse nos besoins. On serait probablement plus heureux si nos envies alimentaires correspondaient à nos besoins réels, et certainement en meilleure santé.
-
-Pourtant, tout le contexte commercial nous encourage à manger et boire davantage. Les efforts pour encourager une consommation modérée sont une goutte d'eau dans l'océan publicitaire.
-
-Je ne veux pas m'y attarder, parce qu'on pourrait remplir une bibliothèque avec ce qui s'est déjà écrit sur le sujet, mais c'est toujours ainsi qu'on stimule la consommation pour répondre au besoin de production. L'industrie publicitaire, au sens le plus large du terme, permet de générer une envie de consommation au-delà des besoins naturels.
-
-Mais justement, comment distinguer le besoin naturel des autres? Et est-ce une distinction importante? C'est ce qu'on va explorer dans les prochains textes.
-
-
-
-
-
-
-Je fumais un paquet de cigarettes par jour pendant ma vingtaine. Comme beaucoup d'anciens fumeurs, ça m'a donné une conscience physique de la différence entre un besoin réel et un besoin artificiel. Avant ma première cigarette, je n'avais pas besoin de fumer. Un an après ma dernière, je n'avais plus besoin de fumer. Mais entre ces deux moments, chaque cigarette répondait à un besoin et m'apportait du plaisir.
-
-Pendant que j'étais encore fumeur, je croyais que fumer rajoutait à mon bonheur. Un café sans cigarette était une hérésie. Mon moment préféré au restaurant était la cigarette qui suivait le repas. Quand j'ai arrêté de fumer, j'étais convaincu que j'allais devoir sacrifier ces plaisirs pour ma santé.
-
-J'ai plutôt été fâché de constater qu'après le sevrage, le café était tout aussi bon. Le repas était même meilleur une fois retrouvé un peu d'odorat. J'ai saisi que le seul plaisir que m'apportait la cigarette était de combler le manque qu'elle avait créé en moi.
-
-Je ne prétends pas que c'est une expérience universelle. Chaque fumeur a son propre rapport à la cigarette, et certains y rêvent encore des décennies après avoir arrêté. Pour moi, la cigarette servait de béquille sociale, et comme je pouvais me passer de béquille à l'aube de la trentaine, il ne me restait que l'addiction.
-
-En pratique, il n'y a pas de distinction nette entre un besoin naturel et un besoin artificiel. Les deux sont toujours imbriqués. J'ai pris la cigarette comme exemple parce qu'on voit bien son côté artificiel. Notre corps découvre la nicotine et en demande d'autre, alors qu'avant il s'en passait parfaitement.
-
-Pour la plupart de nos besoins, c'est impossible de savoir quelle part est innée et quelle part vient de l'extérieur. Certains se croient immunisés contre le marketing, la publicité et autres mécanismes addictifs, et c'est tant mieux pour eux. Moi, je me sais vulnérable, et je crois que dans leur absence, je consommerais moins sans perdre la moindre parcelle de bonheur.
-
-S'il y a une différence à faire entre les besoins naturels et les besoins artificiels, ce serait peut-être justement que les besoins naturels ont un lien plus direct avec notre bonheur. Je suis plus heureux comme non-fumeur. Le manque n'existe plus. Et le plaisir que je prenais à le combler s'est reporté ailleurs.
 
 
 
@@ -217,6 +241,38 @@ C'est un simple portrait prospectif basé sur l'intuition et la réflexion. Il e
 Dans tous les cas, si certains d'entre vous s'imaginent des scénarios catastrophes, il faut simplement se rappeler qu'on veut changer le moins possible, mais le minimum nécessaire.
 
 Une forme de revenu minimum existe déjà dans toutes les démocraties. Je vois cet outil comme un thermostat qui permet de régler l'incitatif au travail de manière extrêmement précise. Si on l'augmente, les gens produiront plus. Si on le réduit, ils produiront moins. Il faut trouver le bon niveau, qui permet d'avoir une économie fonctionnelle où nos besoins importants sont satisfaits, sans générer une production excessive qui étouffe la planète.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Je vois deux autres manières de sauver la planète malgré la chaîne qu'on a décrite plus haut, mais chacune relève du cauchemar plutôt que du rêve.
+
+Si on accepte que la production et la consommation continuent à croître à l'infini, on pourrait technologiser à outrance la planète, dans une course sans fin entre consommation galopante et nouvelles innovations vertes. Je laisse ce scénario aux écrivains de science-fiction, qui sont plus aptes à imaginer des boucliers anti-réchauffement climatique et des expéditions dans le système solaire à la recherche de nouveaux minéraux.
+
+L'autre issue, dans un monde ou l'IA aurait réussi à rendre notre travail superflu, verrait la population réduite à l'esclavage économique au service des milliardaires qui la contrôlent, seuls humains ayant le droit de consommer plus que le minimum. La technologie serait venu à bout de la chaine travail-production-consommation, au prix d'une grande misère. 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
