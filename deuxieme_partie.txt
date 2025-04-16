@@ -46,7 +46,7 @@ La seule explication à notre peur collective que la machine fasse notre travail
 
 
 
-Ce n'est pas la première fois que la société est confrontée à cette peur d'une perte d'emplois causée par l'automatisation. L'exemple le plus connu est l'invention du métier à tisser. Les tisserands se sont organisés pour s'opposer à la nouvelle technologie. Ils s'introduisaient dans les usines et sabotaient les machines. Le gouvernement anglais a écrasé la contestation et beaucoup ont dû se trouver un travail moins spécialisé et moins bien rémunéré.
+Ce n'est pas la première fois que la société est confrontée à cette peur d'une perte d'emplois causée par l'automatisation. L'exemple le plus connu est l'invention du métier à tisser. Les tisserands anglais se sont organisés pour s'opposer à la nouvelle technologie. Ils s'introduisaient dans les usines et sabotaient les machines. Le gouvernement a écrasé la contestation et beaucoup ont dû se trouver un travail moins spécialisé et moins bien rémunéré.
 
 Les exemples ne manquent pas, du remplacement des scribes par l'imprimerie à l'arrivée des chaînes de montage. Dans tous les cas, la nouvelle technologie augmente la production de deux manières. Comme elle permet de produire plus à moindre coût, on peut faire plus de ce qu'on faisait déjà, ou développer de nouveaux produits. C'est une conséquence évidente, et c'est la seule à laquelle on réfléchit habituellement.
 
@@ -66,7 +66,8 @@ Là encore, tout s'explique de la même manière. Si le travail servait simpleme
 
 Le loisir, c'est ce qui nous reste après avoir prouvé qu'on méritait de survivre. Et cette preuve exige une quantité de travail socialement déterminée qui est indépendante des besoins réels de la société.
 
-J'insiste autant sur cette équation parce qu'elle est fondamentale. On croit que la production vient d'un besoin de consommation, alors qu'au contraire c'est le besoin de production qui exige toujours plus de consommation. Si on pouvait se permettre de moins produire, on ne serait pas contraints de stimuler sans cesse la consommation et les gens seraient libres de prioriser le loisir sur une consommation accrue.
+J'insiste autant sur cette équation parce qu'elle est fondamentale. On croit que la production vient d'un besoin de consommation, alors qu'au contraire c'est le besoin de production qui exige toujours plus de consommation. Si on pouvait se permettre de moins produire, les gens seraient libres de prioriser le loisir sur une consommation accrue.
+
 
 
 
@@ -117,6 +118,22 @@ Ce qui est certain, par contre, c'est que notre appétit dépasse nos besoins. O
 Pourtant, tout le contexte commercial nous encourage à manger et boire davantage. Les efforts pour encourager une consommation modérée sont une goutte d'eau dans l'océan publicitaire. Je ne veux pas m'y attarder, parce qu'on pourrait remplir une bibliothèque avec ce qui s'est déjà écrit sur le sujet, mais c'est ainsi qu'on stimule la consommation pour répondre au besoin de production.
 
 L'industrie publicitaire, au sens le plus large du terme, sert à générer une envie de consommation au-delà des besoins naturels.
+
+
+
+
+
+Même si le besoin de production des travailleurs est pour moi la cause fondamentale de la surconsommation, ce n'est pas la plus évidente à comprendre. Ce sont les entreprises qui dépensent des fortunes en publicité pour mousser le désir de consommer, pas les travailleurs.
+
+La consommation stimulée par la publicité génère des revenus qui profitent au propriétaire. On pourrait donc penser que la recherche de profits est la cause première de la surconsommation. Mais c'est uniquement parce que cette recherche de profits mène à la création d'emplois qu'elle est non seulement acceptée socialement, mais qu'on lui accorde une valeur morale importante.
+
+Si la recherche de profits ne bénéficiait qu'aux riches qui les encaissent, ceux-ci seraient perçus plus négativement. Mais comme il faut des travailleurs pour générer des revenus, et que ces revenus sont nécessaires pour les embaucher, on voit plutôt les entrepreneurs comme des créateurs d'emplois.
+
+C'est dans cet esprit qu'il faut comprendre que nos sociétés modernes s'organisent inévitablement autour de la consommation. Les gens qui se préoccupent de l'environnement ou qui pronent des valeurs plus spirituelles n'y peuvent rien. Les gens doivent travailler pour avoir le droit de survivre, et on doit consommer pour que les gens puissent travailler. C'est quelque chose qu'on sait intuitivement, sans avoir besoin d'y réfléchir, et qui explique la domination des valeurs commerciales sur toutes les autres.
+
+Dans nos sociétés, le droit au travail est le droit à la survie. Ce qui permet de générer des emplois sera toujours populaire, et ce qui nuit à la création d'emplois toujours impopulaire. Si on croit que la surconsommation et la recherche infinie de profits ont des effets négatifs sur la société et sur la planète, on peut seulement s'y attaquer en réduisant la force de couplage entre travail et survie.
+
+
 
 
 
