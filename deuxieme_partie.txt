@@ -2,9 +2,9 @@ J'aimerais commencer cette deuxième section par une anecdote qui peut sembler b
 
 On paye quelqu'un pour convaincre quelqu'un d'autre de dépenser son argent pour un objet dont il n'a pas besoin.
 
-Dans un sens, le travail de cette employée a un impact presque entièrement négatif sur la société. Si elle accomplit ce pour quoi elle est payée, je serai plus pauvre, sans être plus heureux. Et on aura gaspillé les ressources limitées de notre planète pour fabriquer un objet superflu et le transporter jusque chez moi.
+Dans un sens, le travail de cette employée a un impact presque entièrement négatif sur la société. Si elle accomplit ce pour quoi elle est payée, je serai plus pauvre, sans être plus heureux. Et on aura gaspillé les ressources limitées de notre planète pour fabriquer un objet superflu et le transporter jusqu'à moi.
 
-Mais dans un autre sens, son travail est le plus important qui soit, parce qu'il permet de donner du travail aux gens. À ceux qui conçoivent le téléphone, à ceux qui en font la mise en marché, à ceux qui participent à sa fabrication... et à la personne qui m'a appelé, bien sûr.
+Mais dans un autre sens, son travail est le plus important qui soit, parce qu'il permet de donner du travail aux gens. À ceux qui conçoivent le téléphone, à ceux qui en font la mise en marché, à ceux qui le fabriquent... et à celle qui m'a appelé, bien sûr.
 
 Si j'achète un nouveau téléphone seulement parce qu'elle a réussi à créer ce besoin en moi, tout ce travail n'aura eu d'autre utilité que d'avoir permis à ces gens de travailler. Les seules personnes dont la vie aura été améliorée par mon achat seront celles qui ont participé à sa production.
 
@@ -31,13 +31,13 @@ Notre système économique comporte des similarités. L'argent est notre "proof-
 
 
 
-Nos peurs face à l'IA illustrent parfaitement cette faille de notre système économique. La technologie progresse rapidement et on craint qu'elle soit capable de faire notre travail à notre place. Mais pourquoi est-ce que ça nous fait peur?
+Nos peurs face à l'IA illustrent parfaitement cette faille de notre système économique. La technologie progresse rapidement et on craint qu'elle soit capable de faire notre travail à notre place. Mais pourquoi cette peur?
 
 Si le but premier d'un travail était de produire quelque chose d'utile, alors ce serait une bonne nouvelle qu'on trouve une manière de faire ce travail sans effort. L'IA serait vue comme une merveille plutôt qu'une menace. Elle viendrait nous libérer d'une obligation.
 
 Mais au contraire, on a peur qu'elle soit utile, qu'elle soit capable de nous remplacer. Je travaille souvent comme traducteur. Quand ChatGPT est apparu, un de mes premiers réflexes a été de vérifier son aptitude pour la traduction. Je voulais savoir si ce nouvel outil allait être un assistant utile ou un compétiteur gratuit.
 
-Je ne crois pas être le seul à avoir eu ce réflexe. Dans le parcours classique d'une vie productive, on développe des habiletés et des connaissances à l'école qu'on applique et perfectionne au travail. Si ces habiletés ne sont plus requises par la société, on craint de devoir retourner à la case départ.
+Je ne crois pas être le seul à avoir eu ce réflexe. Dans le parcours classique d'une vie productive, on développe des habiletés et des connaissances à l'école qu'on applique et perfectionne au travail. Si ces habiletés ne sont plus requises par la société, on craint de retourner à la case départ.
 
 D'un côté, c'est une technologie presque magique qui me permet de lire un article sur la lutte sumo dans un journal japonais. De l'autre, si elle fonctionne assez bien, je devrai trouver une autre manière de prouver que je mérite ma place en société. 
 
@@ -46,7 +46,7 @@ La seule explication à notre peur collective que la machine fasse notre travail
 
 
 
-Ce n'est pas la première fois que la société est confrontée à cette peur d'une perte d'emplois causée par l'automatisation. L'exemple le plus connu est l'invention du métier à tisser. Les tisserands anglais se sont organisés pour s'opposer à la nouvelle technologie. Ils s'introduisaient dans les usines et sabotaient les machines. Le gouvernement a écrasé la contestation et beaucoup ont dû se trouver un travail moins spécialisé et moins bien rémunéré.
+Ce n'est bien sûr pas la première fois que la société est confrontée à cette peur d'une perte d'emplois causée par l'automatisation. L'exemple le plus connu est l'invention du métier à tisser. Les tisserands anglais se sont organisés pour s'opposer à la nouvelle technologie. Ils s'introduisaient dans les usines et sabotaient les machines. Le gouvernement a écrasé la contestation et beaucoup ont dû se trouver un travail moins spécialisé et moins bien rémunéré.
 
 Les exemples ne manquent pas, du remplacement des scribes par l'imprimerie à l'arrivée des chaînes de montage. Dans tous les cas, la nouvelle technologie augmente la production de deux manières. Comme elle permet de produire plus à moindre coût, on peut faire plus de ce qu'on faisait déjà, ou développer de nouveaux produits. C'est une conséquence évidente, et c'est la seule à laquelle on réfléchit habituellement.
 
@@ -60,7 +60,7 @@ C'est la loi de notre système économique. Il ne suffit pas qu'on produise coll
 
 
 
-Qui se rappelle de la société de loisirs? En fait, si on en parle encore aujourd'hui, c'est seulement pour se demander pourquoi elle n'est jamais apparue. L'idée qu'on s'en faisait était simple: plus la technologie avance, moins il faudra travailler pour combler nos besoins. Moins on aura à travailler, plus on aura de temps pour le loisir. Ça semblait logique... mais bien sûr, on travaille autant aujourd'hui qu'à l'époque ou le terme est apparu.
+Qui se rappelle de la société de loisirs? En fait, si on en parle encore aujourd'hui, c'est seulement pour se demander pourquoi elle n'est jamais advenue. L'idée qu'on s'en faisait était simple: plus la technologie avance, moins il faudra travailler pour combler nos besoins. Moins on aura à travailler, plus on aura de temps pour le loisir. Ça semblait logique... mais bien sûr, on travaille autant aujourd'hui qu'à l'époque ou le terme est apparu.
 
 Là encore, tout s'explique de la même manière. Si le travail servait simplement à combler des besoins, en effet, le progrès technologique nous permettrait de travailler moins collectivement. Mais comme on travaille d'abord pour prouver qu'on mérite notre place en société, on doit plutôt trouver de nouveaux besoins à combler, afin que chacun puisse continuer à produire.
 
@@ -72,13 +72,11 @@ J'insiste autant sur cette équation parce qu'elle est fondamentale. On croit qu
 
 
 
-
-
 Revenons un instant à l'époque Victorienne. Imaginons un instant que les profits générés par les nouvelles machines à tisser avaient été versés aux tisserands qui perdaient leur travail. Il n'y aurait pas eu d'émeutes. Les tisserands auraient peut-être pris leur retraite, où auraient continué à travailler à temps partiel de manière artisanale pour augmenter leurs revenus.
 
 Mais bien sûr, ils n'ont jamais tiré un sou des nouvelles machines. Celles-ci profitaient uniquement à leurs propriétaires. C'est systématiquement le cas des avancées technologiques. Dans notre système, tous les bénéfices des progrès technologiques vont aux propriétaires d'entreprises. Les travailleurs ne sont jamais gagnants sur le plan économique, même s'ils peuvent en profiter comme citoyens si ces technologies améliorent leur quotidien.
 
-Les personnes qui tirent un profit de l'IA ne sont pas les mêmes que celles qui pourraient se faire remplacer. C'est pour cette raison qu'elles génèrent autant de craintes. On a commencé par automatiser le travail manuel, ce qui a poussé de plus en plus de gens vers le travail intellectuel. Si on réussit à automatiser le travail intellectuel, qu'est-ce qui restera?
+Les personnes qui tirent un profit de l'IA ne sont pas les mêmes que celles qui pourraient se faire remplacer. C'est pour cette raison que cette technologie génère autant de craintes. On a commencé par automatiser le travail manuel, ce qui a poussé de plus en plus de gens vers le travail intellectuel. Si on réussit à automatiser le travail intellectuel, qu'est-ce qui restera?
 
 Je ne connais pas la réponse. Si notre cerveau cesse d'être monnayable, notre corps le reviendra peut-être? Mais si cette peur se concrétise, ce dont je doute, les gens devront trouver le moyen de continuer à travailler. Parce qu'ils n'auront pas le choix. Il faut produire pour avoir le droit d'exister.
 
@@ -105,11 +103,11 @@ Si on veut préserver l'environnement, il faudra que cette journée de loisir so
 
 
 
-Les sociétés riches sont des sociétés d'abondance. On est passé sans s'en apercevoir d'un monde où on produisait pour pouvoir consommer à un monde où on consomme pour pouvoir produire. L'exemple le plus frappant est sans doute dans notre rapport à la nourriture.
+Les sociétés riches sont des sociétés d'abondance. On est passé sans s'en apercevoir d'un monde où on produisait pour pouvoir consommer à un monde où on consomme pour pouvoir produire. Notre rapport à la nourriture en est un bon exemple.
 
-L'être humain a évolué dans un contexte de disettes. Lorsqu'il y avait de la nourriture, il fallait en consommer un maximum, pour avoir des réserves de gras lors des périodes où on ne trouvait rien à manger.
+L'être humain a évolué dans un contexte de disettes. Lorsqu'on trouvait de la nourriture, il fallait en consommer un maximum, pour avoir des réserves de gras lors des périodes où on ne trouvait rien à manger.
 
-Il est très possible que les adaptations qui nous aidaient à survivre dans un contexte de manque nuisent maintenant à notre santé dans un contexte d'abondance. Le goût pour le sucre et le gras qui nous faisait rechercher des aliments riches en énergie nous pousse vers la friture et le soda.
+Il est très possible que les adaptations qui nous aidaient à survivre dans un contexte de manque nuisent maintenant à notre santé dans un contexte d'abondance. Le goût pour le sucre et le gras qui nous portait vers les aliments riches en énergie nous pousse maintenant vers la friture et le soda.
 
 Là encore, je ne porte pas de jugement. J'aime les chips, même si mon ventre se plaint quand je termine le sac. Parfois on veut du plaisir sur le moment, quitte à en subir les conséquences plus tard.
 
@@ -122,17 +120,20 @@ L'industrie publicitaire, au sens le plus large du terme, sert à générer une 
 
 
 
-J'ai fumé un paquet de cigarettes par jour pendant ma vingtaine. Comme beaucoup d'anciens fumeurs, ça m'a donné une conscience physique de la différence entre un besoin naturel et un besoin artificiel. Avant ma première cigarette, je n'avais pas besoin de fumer. Un an après ma dernière, je n'avais plus besoin de fumer. Mais entre ces deux moments, chaque cigarette répondait à un besoin et m'apportait du plaisir.
 
-Pendant que j'étais encore fumeur, je croyais que fumer rajoutait à mon bonheur. Un café sans cigarette était une hérésie. Mon moment préféré au restaurant était la cigarette qui suivait le repas. Quand j'ai arrêté de fumer, j'étais convaincu que j'allais devoir sacrifier ces plaisirs pour ma santé.
+Le travail est la valeur de référence dans nos sociétés. L'économie va bien quand le chômage est bas. Les partis politiques promettent des emplois pour se faire élire. Un projet est bon s'il génère des emplois. Il est encore meilleur s'il génère de bons emplois. Un bon emploi est celui qui donne un bon salaire et permet de consommer beaucoup.
 
-J'ai plutôt été contrarié de constater qu'après le sevrage, le café était tout aussi bon. Le repas était même meilleur une fois retrouvé un peu d'odorat. J'ai compris que le seul plaisir que m'apportait la cigarette était de combler le manque qu'elle avait créé en moi.
+Toute mesure qui pourrait nuire à l'emploi est impopulaire. On peut seulement protéger l'environnement à condition de ne pas mettre d'emplois en péril. On défend la culture en parlant de création d'emplois et de retombées économiques. Les retombées économiques, c'est de la consommation, et la consommation génère des emplois.
 
-Je ne prétends pas que c'est une expérience universelle. Chaque fumeur a son propre rapport à la cigarette, et certains y rêvent encore des décennies après avoir arrêté. Pour moi, la cigarette servait de béquille sociale, et comme je pouvais me passer de béquille à l'aube de la trentaine, il ne me restait que l'addiction.
+Lorsqu'on parle de création d'emplois, on se préoccupe peu de ce que ces emplois permetteront de produire. On parle rarement des besoins que cette production permettra de combler. L'important, c'est que des citoyens pourront travailler et mériter un salaire.
 
-Est-ce qu'il existe en nous d'autres besoins dont on se passerait avec plus de bonheur qu'on en tire en les comblant? Combien de nos plaisirs dépendent d'une pseudo-addiction à notre dopamine naturelle?
+Dans notre système économique, bien sûr, c'est parfaitement logique. Si la survie des gens dépend de leur capacité à trouver un emploi, ça devient notre priorité absolue. C'est ce qui rend les valeurs commerciales dominantes dans nos sociétés. Toute valeur alternative pourrait nuire à l'emploi, et l'emploi, c'est la survie.
 
-Je crois qu'il faut éviter de tomber dans la moralité. On doit rester libre de combler tous les besoins qu'on veut combler, peu importe leur nature. Mais on peut certainement se demander à quel point chaque besoin qu'on comble rajoute ou non à notre bonheur.
+
+
+
+Le besoin de travailler donne un terrain d'entente aux riches et aux pauvres. Le pauvre a besoin d'un emploi pour survivre. Le riche veut accroître sa richesse. Que le riche soit un entrepreneur ou que son argent soit simplement investi plus ou moins directement dans les entreprises des autres, il tire son profit d'une production quelconque, consommée par quiconque.
+
 
 
 
@@ -160,7 +161,7 @@ Les efforts pour modérer la consommation seront toujours vains. Ils peuvent ré
 
 Ça ne veut pas dire que ces efforts ne sont pas importants. La surconsommation est un vrai problème et il faut en prendre conscience. Et certains besoins entraînent plus de pollution que d'autres. Mais comme c'est le besoin de production qui entraîne la surconsommation, on ne réussira jamais à réduire la consommation de manière globale sans s'attaquer à l'impératif de production.
 
-On le voit très bien dans l'histoire de la lutte environnementale. Les gouvernements s'imposent des cibles qu'ils ratent systématiquement. Les seuls succès possibles sont des succès technologiques. On remplace les CFC par d'autres produits pour protéger la couche d'ozone. Les moteurs à essence deviennent électriques.
+On le voit dans l'histoire de la lutte environnementale. Les gouvernements s'imposent des cibles qu'ils ratent systématiquement. Les seuls succès possibles sont des succès technologiques. On remplace les CFC par d'autres produits pour protéger la couche d'ozone. Les moteurs à essence deviennent électriques.
 
 Les vraies solutions exigeraient qu'on réduise la consommation. Mais ce sont justement ces solutions qui sont impossibles dans notre système économique, parce que le besoin de production est trop grand. Dans le système actuel, il est beaucoup plus réaliste de s'attaquer au réchauffement climatique par des solutions d'ingénierie planétaire qui coûteraient des billions que par une réduction de la consommation.
 
@@ -194,6 +195,28 @@ Le revenu minimum est justement un outil économique qui peut être ajusté fine
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+J'ai fumé un paquet de cigarettes par jour pendant ma vingtaine. Comme beaucoup d'anciens fumeurs, ça m'a donné une conscience physique de la différence entre un besoin naturel et un besoin artificiel. Avant ma première cigarette, je n'avais pas besoin de fumer. Un an après ma dernière, je n'avais plus besoin de fumer. Mais entre ces deux moments, chaque cigarette répondait à un besoin et m'apportait du plaisir.
+
+Pendant que j'étais encore fumeur, je croyais que fumer rajoutait à mon bonheur. Un café sans cigarette était une hérésie. Mon moment préféré au restaurant était la cigarette qui suivait le repas. Quand j'ai arrêté de fumer, j'étais convaincu que j'allais devoir sacrifier ces plaisirs pour ma santé.
+
+J'ai plutôt été contrarié de constater qu'après le sevrage, le café était tout aussi bon. Le repas était même meilleur une fois retrouvé un peu d'odorat. J'ai compris que le seul plaisir que m'apportait la cigarette était de combler le manque qu'elle avait créé en moi.
+
+Je ne prétends pas que c'est une expérience universelle. Chaque fumeur a son propre rapport à la cigarette, et certains y rêvent encore des décennies après avoir arrêté. Pour moi, la cigarette servait de béquille sociale, et comme je pouvais me passer de béquille à l'aube de la trentaine, il ne me restait que l'addiction.
+
+Est-ce qu'il existe en nous d'autres besoins dont on se passerait avec plus de bonheur qu'en les comblant? Combien de nos plaisirs dépendent d'une pseudo-addiction à notre dopamine naturelle?
+
+Je crois qu'il faut éviter de tomber dans la moralité. On doit rester libre de combler tous les besoins qu'on veut combler, peu importe leur nature. Mais on peut certainement se demander à quel point chaque besoin qu'on comble rajoute ou non à notre bonheur.
 
 
 
