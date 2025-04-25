@@ -236,9 +236,9 @@ Je crois qu'il faut éviter de tomber dans la moralité. On doit rester libre de
 
 
 
-J'aimerais définir différentes catégories de travail. Beaucoup l'ont fait avant moi et on trouvera bien des similarités avec celles proposées par d'autres auteurs. Sans prétendre que les miennes sont meilleures, je me suis permis de définir les catégories de la manière qui me semblait la plus pertinente pour cet ouvrage.
+J'aimerais définir différentes catégories de travail selon le besoin comblé. D'autres ont catégorisé le travail avant moi et on trouvera bien des similarités avec les propositions d'autres auteurs. Sans prétendre que les miennes sont meilleures, je me suis permis de définir les catégories de la manière qui me semblait la plus pertinente pour cet ouvrage.
 
-Comme lorsqu'on a redéfini les riches et les pauvres dans la première partie, il ne s'agit pas de catégories exclusives. Un emploi réel va presque toujours appartenir à plusieurs catégories. C'est un outil de réflexion, pas une grille permettant de juger les emplois de chacun et de leur accorder une valeur supérieure ou inférieure.
+Comme lorsqu'on a redéfini les riches et les pauvres dans la première partie, il ne s'agit pas de catégories exclusives. Un emploi réel va toujours appartenir à plusieurs catégories. C'est un outil de réflexion, pas une grille pour juger les emplois de chacun et leur accorder une valeur morale plus ou moins grande.
 
 La première catégorie de travail comble un besoin fondamental.
 
@@ -253,7 +253,9 @@ La troisième catégorie de travail comble ces besoins générés.
 On se rappelle que ce ne sont pas des catégories exclusives. Prenons par exemple un fabricant automobile. La compagnie fabrique un produit utile qui comble un besoin fondamental. Mais elle dépense aussi des milliards en publicité pour convaincre les gens de se procurer une nouvelle auto qu'ils n'auraient pas 
 acheté autrement.
 
-Chaque automobile que la compagnie vend comble donc à la fois un besoin naturel et un besoin généré. L'employé sur la ligne de montage appartient ainsi à la fois à la première catégorie et à la troisième.
+Chaque automobile que la compagnie vend comble donc à la fois un besoin naturel et un besoin généré. L'employé sur la ligne de montage appartient ainsi à la fois à la première catégorie et à la troisième. Même l'employé du département de marketing ne fait pas uniquement que créer de nouveaux besoins. Il aide peut-être le client à trouver l'automobile qui comble le mieux ses besoins.
+
+Dans un sens, seul le travail de la première catégorie est vraiment utile, parce que le travail de la troisième catégorie sert uniquement à combler des besoins qui n'existeraient pas sans le travail de la deuxième. D'un point de vue théorique, ce travail se fait en pure perte, même si en pratique, presque tous les emplois comblent aussi des besoins réels.
 
 Dans un monde idéal, en réduisant l'incitatif au travail, on préserverait entièrement la production qui comble des besoins naturels, et on réduirait uniquement celle qui génère des besoins et celle qui comble les besoins générés. Mais en réalité, comme le désir de profit restera aussi fort, je ne vois pas de raison pour que ce soit le cas.
 
@@ -265,7 +267,7 @@ Lorsque le temps viendra de mettre en place un revenu minimal, ce serait une pis
 
 
 Il existe aussi une quatrième catégorie de travail, qui tranfère la richesse de manière horizontale.
-
+Nommer aussi travail inutile dans cette catégorie - makework - exemple de ma mère sur la tablette
 
 
 
