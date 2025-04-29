@@ -103,6 +103,13 @@ Si on veut préserver l'environnement, il faudra que cette journée de loisir n'
 
 
 
+Consommer moins, c’est aider l’environnement. Mais consommer moins, c’est nuire à l’économie. Il faut changer une de ces deux réalités si on veut sauver la planète. Je propose de changer la deuxième. 
+
+
+
+
+
+
 Les sociétés riches sont des sociétés d'abondance. On est passé sans s'en apercevoir d'un monde où on produisait pour pouvoir consommer à un monde où on consomme pour pouvoir produire. Notre rapport à la nourriture en est un bon exemple.
 
 L'être humain a évolué dans un contexte de disettes. Lorsqu'on trouvait de la nourriture, il fallait en consommer un maximum, pour avoir des réserves de gras lors des périodes où on ne trouvait rien à manger.
@@ -151,7 +158,7 @@ Lorsqu'il y a une telle concordance d'intérêts, on ne se surprendra pas que pe
 
 Les efforts pour modérer la consommation seront toujours vains. Ils peuvent réussir dans un domaine précis, mais le besoin de production sera simplement redirigé pour augmenter la consommation ailleurs.
 
-Ça ne veut pas dire que ces efforts n'ont pas d'importance. La surconsommation est un vrai problème et il faut en prendre conscience. Et certains achats entraînent plus de pollution que d'autres. Mais comme c'est le besoin de production qui entraîne la surconsommation, on ne réussira jamais à réduire la consommation de manière globale sans s'attaquer à l'impératif de production.
+Ça ne veut pas dire que ces efforts n'ont pas d'importance. La surconsommation est un vrai problème et il faut en prendre conscience. Et certains achats entraînent plus de pollution que d'autres. On ne peut pas produire trop de santé mentale, par exemple. Mais comme c'est le besoin de production qui entraîne la surconsommation, on ne réussira jamais à réduire la consommation de manière globale sans s'attaquer à l'impératif de production.
 
 On le voit dans l'histoire de la lutte environnementale. Les gouvernements s'imposent des cibles qu'ils ratent systématiquement. Les seuls succès possibles sont des succès technologiques. On remplace les CFC par d'autres produits pour protéger la couche d'ozone. Les moteurs à essence deviennent électriques.
 
@@ -181,7 +188,7 @@ Mais est-ce qu'on doit absolument travailler pour consommer? Non, puisqu'on voit
 
 Bien sûr, ce maillon joue un rôle clé dans notre système économique. Pour consommer même l'essentiel, il faut d'abord le produire. Et la production exige du travail. S'il faut travailler pour consommer, les gens sont motivés à produire ce qui est nécessaire.
 
-Mais dans les sociétés riches, on produit bien plus que ce qui est strictement nécessaire, parce que l'incitatif au travail est trop puissant. La solution évidente serait donc de réduire cet incitatif, sans l'éliminer. Pour éviter d'étouffer la planète par la surconsommation, l'incitatif au travail aurait la force exacte pour stimuler une production suffisante, mais durable.
+Mais dans les sociétés riches, on produit bien plus que ce qui est nécessaire, parce que l'incitatif au travail est trop puissant. La solution évidente serait donc de réduire cet incitatif, sans l'éliminer. Pour éviter d'étouffer la planète par la surconsommation, l'incitatif au travail aurait la force exacte pour stimuler une production suffisante, mais durable.
 
 Le revenu minimum est justement un outil économique qui peut être ajusté finement pour réguler l'incitatif au travail. Il existe même déjà, sous la forme d'aide de dernier recours, mais il n'est pas encore bien adapté. Il faudrait l'ajuster à la fois dans son esprit et dans sa mécanique. On y reviendra dans la proposition finale.
 
@@ -236,7 +243,7 @@ Mais je crois que cette période nous montre tout de même que la capacité de p
 
 Si on produit plus que ce qui est nécessaire à notre bonheur, qu'est-ce qu'on produit de superflu?
 
-Pour s'aider à réfléchir à cette question, on pourrait classer le travail selon le type de besoin qu'il comble.
+Pour s'aider à y réfléchir, on pourrait classer le travail selon le type de besoin qu'il comble.
 
 Un travail peut combler un besoin naturel.
 
@@ -246,19 +253,19 @@ Un travail peut combler les besoins qu'on a crées ou stimulés.
 
 Comme lorsqu'on a redéfini les riches et les pauvres dans la première partie, il ne s'agit pas de catégories exclusives. Un travail réel appartient toujours à plusieurs catégories. Ce classement est un outil de réflexion, pas une grille pour juger les emplois de chacun et leur accorder une valeur morale plus ou moins grande.
 
-Lorsque je parle de besoin naturel, je ne fais pas de distinction selon l'importance du besoin. On va à l'èpicerie parce qu'on a faim. On va au spa pour se détendre. Ce sont des besoins naturels, même si un seul des deux est eseentiel.
+Lorsque je parle de besoin naturel, je ne fais pas de distinction selon l'importance du besoin. On va à l'èpicerie parce qu'on a faim. On va au spa pour se détendre. Ce sont des besoins naturels, même si un seul des deux est essentiel.
 
-Mais même avec une définition aussi large, nos besoins naturels ne réussissent pas à nourrir toute notre capacité de production. C'est le rôle du travail des deux dernières catégories. Un crée et stimule des besoins, l'autre les comble. De cette manière, on réussit à occuper la grande majorité des citoyens en âge de travailler.
+Mais même avec une définition aussi large, nos besoins naturels ne suffisent pas à engager toute notre capacité de production. C'est le rôle du travail des deux dernières catégories. Un crée et stimule des besoins, l'autre les comble. De cette manière, on réussit à occuper la grande majorité des citoyens en âge de travailler.
 
-On pense à l'industrie publicitaire, mais aussi à tous les gens dont le travail est de rendre un produit plus séduisant. Par exemple, un jeu vidéo sert un besoin naturel de divertissement. Mais on ne se contente plus de le vendre. On rajoute des mécanismes addictifs pour que le joueur joue le plus souvent possible et fasse régulièrement des achats virtuels.
+On pense à l'industrie publicitaire, mais aussi à tous les gens dont le travail est de rendre un produit plus séduisant. Par exemple, un jeu vidéo sert un besoin naturel de divertissement. Mais on ne se contente pas de le vendre. On rajoute des mécanismes addictifs pour que le joueur joue le plus souvent possible et fasse régulièrement des achats virtuels.
 
-L'épicerie est un tourbillon de couleurs où les panneaux-réclame concurrencent l'emballage des produits sur les étagères. Le spa interdit d'apporter de la nourriture pour obliger les clients à fréquenter son restaurant.
+L'épicerie est un tourbillon de couleurs où les panneaux-réclame concurrencent l'emballage des produits sur les étagères. Le spa interdit d'apporter de la nourriture pour obliger les clients à fréquenter son restaurant. Il ne suffit pas de combler nos besoins naturels. Il faut aussi stimuler nos besoins pour qu'on consomme davantage.
 
 Dans un sens, tout le travail des deux dernières catégories est inutile. On comble des besoins qu'on vient de créer. Mais c'est parfaitement impossible de les éliminer dans une société libre. Le profit est le même peu importe le type de besoin qu'on comble. Et comme on vient de le voir, en pratique, les trois types de travail sont indénouables.
 
 Si les gens travaillaient moins et consommaient moins, on peut s'imaginer qu'ils couperaient d'abord dans ces besoins artificiels, mais rien n'est moins sûr. On a tous connu ou été le fumeur qui préfère sauter un repas qu'une cigarette.
 
-Bien sûr, lorsque je dis que nos besoins naturels ne suffisent pas à notre capacité de production, je ne prétends pas que tous nos besoins naturels sont comblés. On ne vit pas dans des sociétés égalitaires où chacun a le même droit sur les ressources. Ce serait plus juste dire que les besoins naturels de ceux qui ont droit aux ressources ne suffisent pas à notre capacité de production.
+Bien sûr, lorsque je dis que nos besoins naturels ne suffisent pas à notre capacité de production, je ne prétends pas que tous nos besoins naturels sont comblés. On ne vit pas dans des sociétés égalitaires où chacun a le même droit sur les ressources. Ce serait plus juste dire que les besoins naturels de ceux qui ont droit aux ressources ne suffisent pas à occuper toute notre capacité de production.
 
 J'aimerais vivre dans une société où on satisfait les besoins de tous avant de satisfaire les désirs de certains, mais ce souhait restera sans doute vain tant qu'il y aura des milliardaires.
 
@@ -267,7 +274,7 @@ J'aimerais vivre dans une société où on satisfait les besoins de tous avant d
 
 Il existe aussi du travail qui ne comble aucun besoin. Là encore, ce ne sont pas des catégories exclusives. Même les médecins doivent se sentir inutiles au moment de faire leurs tâches bureaucratiques.
 
-Un premier type de travail permet de transférer la richesse existante sans rien produire d'utile. L'exemple le plus évident serait les "Patent Trolls", les chasseurs de brevets. Ces compagnies basées sur la propriété intellectuelle ne comptent pas d'inventeurs, que des avocats. Elles achètent des brevets très larges et poursuivent les compagnies qui utilisent des technologies analogues. Si je nommais une firme précise, elle me poursuivrait sans doute pour défamation.
+Un premier type permet de transférer la richesse existante sans rien produire d'utile. L'exemple le plus évident serait les "Patent Trolls", les chasseurs de brevets. Ces compagnies basées sur la propriété intellectuelle ne comptent pas d'inventeurs, que des avocats. Elles achètent des brevets très larges et poursuivent les compagnies qui utilisent des technologies analogues. Elles ne produisent rien, mais détournent des profits qui seraient allés à d'autres.
 
 Comme la société s'apparente à un organisme vivant, il est normal qu'elle ait aussi des parasites. Il faut peut-être simplement les endurer, comme les moustiques au chalet.
 
@@ -278,123 +285,33 @@ Il faut donc sans doute simplement s'y résigner, comme pour les moustiques.
 
 
 
-On parle toujours de temps plein. Travailler à temps plein. Ou travailler à temps partiel, c'est à dire ne pas travailler à temps plein. Mais qu'est-ce que c'est, le temps plein? Qui a décidé combien d'heures par semaine on devait faire pour travailler à temps plein?
+On parle souvent de temps plein, sans se poser de questions. Travailler à temps plein, ou à temps partiel, c'est à dire ne pas travailler à temps plein. Mais qu'est-ce que c'est, le temps plein? Qui a décidé combien d'heures par semaine on devait travailler pour être à temps plein? Si ce qu'on a affirmé jusqu'à présent est vrai, ça dépend sans doute beaucoup moins des besoins de la société que du rapport de force entre les riches et pauvres.
 
-Qu'est-ce qui détermine combien de temps on doit dévouer au travail? Si ce qu'on a affirmé jusqu'à présent est vrai, ça dépend beaucoup moins des besoins de la société que du rapport de force entre les riches et pauvres.
+J'aimerais d'abord qu'on s'imagine une famille d'agriculteurs sur une terre fraîchement défrichée, à l'époque de la colonisation. Ils travaillent exactement le temps nécessaire pour combler leurs besoins. Au temps des récoltes, ils se lèvent avant l'aube et travaillent jusqu'en soirée. L'hiver, ils font de l'entretien, mais ils ont droit à plus de repos. Ils ne s'inventent pas de travail pour continuer à faire autant d'heures qu'à l'automne.
 
-J'aimerais d'abord qu'on s'imagine la situation d'une famille d'agriculteurs sur une terre à défricher à l'époque de la colonisation. Ils travaillaient exactement le temps nécessaire pour combler leurs besoins. Au temps des récoltes, il fallait se lever avant l'aube et travailler tard dans la soirée. L'hiver, s'il restait du travail d'entretien à faire, on avait tout de même droit à plus de repos.
+Mais aujourd'hui, on a perdu ce lien direct individuel entre les besoins et le travail. C'est généralement notre patron qui décide combien d'heures on travaille. Et souvent, il veut des employés à temps plein. À notre époque, ça se traduit souvent par sept ou huit heures par jour, cinq jours par semaine.
 
-Mais à l'époque moderne, 
+Lorsqu'un seul travail à temps plein ne suffit pas à combler nos besoins, on doit s'en trouver un deuxième. Mais lorsqu'il comble plus que nos besoins, on ne travaille généralement pas moins. On trouve plutôt de nouveaux besoins à combler.
 
+Les riches ont toujour intérêt à ce que les gens travaillent plus. Plus les gens travaillent, plus ils produisent, plus ils consomment, plus les profits augmentent.
 
+Lorsqu'on parle d'augmenter l'âge de la retraite, on le présente généralement comme si la société avait besoin que les gens travaillent plus. Mais comme on l'a vu, on produit déjà largement plus que nos besoins. On manque peut-être d'infirmières ou de médecins, mais la planète ne s'en portera que mieux si les aînés consomment moins et arrêtent de produire davantage.
 
+En réalité, lorsqu'on parle d'augmenter l'âge de la retraite, ou de faire travailler les plus jeunes, c'est simplement un signe que les riches sont en position de force et peuvent exiger des changements qui les avantagent. C'est la même chose lorsqu'on parle d'augmenter le nombre d'heures du travail à temps plein pour favoriser la productivité.
 
+Bien sûr, si les riches sont vraiment en position de force, on peut se retrouver réellement obligés de leur faire des concessions. C'est pour cette raison qu'il faudra sans doute d'abord oser utiliser le pouvoir étatique pour s'opposer à leur puissance avant de prendre des mesures qui avantagent vraiment la collectivité.
 
 
 
 
-Ce serait peine perdue d'essayer de distinguer les besoins naturels des besoins artificiels. Les deux sont toujours imbriqués. J'ai pris la cigarette comme exemple parce qu'on voit bien son côté artificiel. Notre corps découvre la nicotine et en demande d'autre, alors qu'avant, il s'en passait parfaitement. Mais même la cigarette répondait d'abord à un réel besoin en moi. Quand je vivais un malaise social, je prenais une bouffée de cigarette et je me sentais mieux.
 
 
+On passe une partie de notre temps à faire des choses pour notre propre plaisir (le loisir), une autre à faire des choses pour les gens qu'on connaît (le travail invisible), et le reste à faire des choses pour des gens qu'on ne connaît pas nécessairement (le travail). Quand on parle de l'économie, on parle de cette dernière partie.
 
+Ça pourrait même être une définition simplifiée de l'économie: c'est la somme du temps consacré à des gens qu'on ne connaît pas. Quand on offre notre temps aux gens qu'on connaît, on demande rarement de l'argent en retour. On appelle souvent ça le travail invisible, parce qu'il ne se reflète pas dans le portrait économique.
 
 
 
-
-
-
-Pour la plupart de nos besoins, c'est impossible de savoir quelle part est innée et quelle part vient de l'extérieur. Certains se croient immunisés contre le marketing, la publicité et autres mécanismes addictifs, et c'est tant mieux pour eux. Moi, je me sais vulnérable, et je crois que dans leur absence, je consommerais moins sans perte de bonheur.
-
-S'il y a une différence à faire entre les besoins naturels et les besoins artificiels, ce serait peut-être justement que les besoins naturels ont un lien plus direct avec notre bonheur. Je suis plus heureux comme non-fumeur. Le manque n'existe plus. Et le plaisir que je prenais à le combler s'est reporté ailleurs.
-
-
-
-
-
-
-
-
-
-
-
-
-
-Suire avec les types de besoin que nos emplois comblent - besoin naturel - artificiel (déjà fait cigarette?)
-
-
-
-
-Ensuite parler des types de travail (essentiel - horizontal - générateur de besoin - combleur de besoins générés).
-
-Conclure avec la pandémie - snapshot du future
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Je vois deux autres manières de sauver la planète malgré la chaîne qu'on a décrite plus haut, mais chacune relève du cauchemar plutôt que du rêve.
-
-Si on accepte que la production et la consommation continuent à croître à l'infini, on pourrait technologiser à outrance la planète, dans une course sans fin entre consommation galopante et nouvelles innovations vertes. Je laisse ce scénario aux écrivains de science-fiction, qui sont plus aptes à imaginer des boucliers anti-réchauffement climatique et des expéditions dans le système solaire à la recherche de nouveaux minéraux.
-
-L'autre issue, dans un monde ou l'IA aurait réussi à rendre notre travail superflu, verrait la population réduite à l'esclavage économique au service des milliardaires qui la contrôlent, seuls humains ayant le droit de consommer plus que le minimum. La technologie serait venu à bout de la chaine travail-production-consommation, au prix d'une grande misère. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-La pandémie nous a divisés en deux groupes: les travailleurs essentiels... et les autres. La majorité des gens ont appris que la société pouvait se passer du produit de leur travail. Je n'ai pas étonné d'apprendre que mon travail n'est pas jugé essentiel. Ça venait simplement confirmer ce que j'ai toujours su. 
-
-Pourtant, je suis mieux payé que beaucoup de travailleurs essentiels. Une bonne partie d'entre eux gagnent le salaire minimum.
-
-
-
-
-
-
-
-Essentiel vs important - Paradoxalement un travail non-essentiel pourrait tout de même être plus important, avoir plus d'impact - Psys - Impact sur personne qui la consulte / impact sur les gens qui entourent la personne qui en aurait besoin mais ne consulte pas - Religion - semble fou de se regrouper à l'église en pleine pandémie pour un athée - mais pour le croyant c'est aussi essentiel que la nourriture (mauvais exemple mais en trouver un équivalent) - Ce qui nourrit l'âme vs ce qui nourrit le corps - Tout le domaine culturel - mon envie d'écrire ce livre pour changer le monde même s'il n'a clairement rien d'essentiel
 
 
 2e partie: salaire dépend de pouvoir, pas utilité - pas clair que l’accaparement du pouvoir par la classe intellectuelle à mesure que la société évolue vers l’abondance correspond à une plus grande utilité de leur production 
@@ -410,46 +327,6 @@ Si on part de l’idée qu’on comble les besoins essentiels en premier, le fai
 
 
 
-Texte suivant: travail utile - inutile - spectre
-
-
-NOTES EN VRAC: Chapitre publicité - valeur négative - Transfert horizontal de valeur - Publicité comparé à la cigarette- besoin qu’on n’avait pas et qu’on doit maintenant combler - Il y a quatre types de travail:
-
-Travail qui crée des besoins = négatif
-Mtravail qui transfère la richesse de manière horizontale = inutile
-
-Travail qui comble des besoins créés par le travail qui crée des besoins = inutile
-
-Faire comprendre que comme pour riche / pauvre, la dichotomie utile / inutile est un spectre et on est rarement complètement seulement un ou l'autre
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -458,33 +335,67 @@ NOTES EN VRAC: Travails mal payés comme travailleur agricole, dépanneur, prép
 
 
 
+Alimentation - Prix de la nourriture = incompressible passé un certain point parce que tout le monde doit manger - Profits des compagnies de distribution = incompressibles parce qu'ils font uniquement ça pour le profit - Profits des fermiers = compressibles parce qu'ils sont endettés et font ça par mode de vie - Salaires des travailleurs = compressibles parce qu'on peut les faire venir de l'étranger
 
 
 
 
-NOTES EN VRAC: Travail non-rémunéré - femmes - recompense que j’ai quand je travaille gratis pour des amis plus grand que s’ils me payaient - s’ils me payaient ils seraient moins reconnaissants plus exigeants - je n’aurais pas la même chose plus l’argent j’aurais l’argent et moins du reste - On passe une partie de notre temps à faire des choses pour notre propre plaisir (le loisir), une autre à faire des choses pour les gens qu'on connaît (le travail invisible), et le reste à faire des choses pour des gens qu'on ne connaît pas nécessairement (le travail). Quand on parle de l'économie, on parle de cette dernière partie. - Ce travail invisible se fait généralement en famille ou en petits groupes, quand on se retrouve dans la même situation que les premiers peuples, qui n'avaient pas besoin d'argent pour que chacun contribue au bien commun. Mais pour faire fonctionner des groupes sociaux plus grands, il faut une courroie de transmission qui élargit le lien de confiance aux gens qu'on ne connaît pas. L'argent est cette courroie. - Une personne qui ne travaille pas peut contribuer plus à la société qu'une personne qui travaille (travail invisible).
-
-Ça pourrait même être une définition simplifiée de l'économie: c'est la somme du temps consacré à des gens qu'on ne connaît pas. Quand on offre notre temps aux gens qu'on connaît, on demande rarement de l'argent en retour. On appelle souvent ça le travail invisible, parce qu'il ne se reflète pas dans le portrait économique.
 
 
 
 
-Parler des efforts pour rendre les écrans addictifs par rapport au besoin de consommation pour justifier la production
+
+
+
+
+
+
+
+
+
 
 
 
 NOTES EN VRAC: Nommer le revenu minimal selon un terme qui fait référence à l’environnement (objecteur de conscience) - Définir RM en fonction de logé-nourri minimal, pas montant précis - Section sur le revenu minimum - on devrait avoir plus de respect pour quelqu’un qui ne travaille pas mais ne consomme que le minimum vital que pour quelqu’un qui ne travaille pas mais produit autant de gaz à effet de serre avec son jet privé que 20000 snowbirds - À base ce qu’il nous faut pour être heureux c’est un endroit où dormir de la nourriture à notre faim et des gens qu’on aime et qui nous aiment
 
-
-
-2e partie - c’est pour ça qu’aucun plan de réduction ne fonctionne- seulement les plans qui impliquent plus de production 
-
-On pourrait faire de l’ingénierie environnementale parce que ça coûterait des milliers de milliards et non pas en dépit de ça 
-
-
-
-
 Travailller 15 heures plutôt que 0 ou 40
+
+On veut une récession qui ne fait pas souffrir les gens
+
+Les idées qui naissent à gauche se réaliseront peut-être au centre.
+
+
+
+
+
+Mécanisme est simple: si les gens peuvent survivre en travaillant moins qu'à temps plein, ils le feront peut-être. Ils consommeront moins. La consommation réduite sera nécessairement la consommation qui comble des besoins non-essentiels, et probablement des besoins non-naturels.
+
+qu’est-ce qu’on produit? - exemple pandémie - imposé du haut - avec revenu minimal ça émerge naturellement du bas
+
+Comme la demande pour les besoins essentiels ne descendra pas, probablement que les salaires pour ces emplois vont augmenter (mécanisme exact? seulementi intuition pour l'instant)
+
+On pourra continuer à exploiter une main d'oeuvre étrangère qui n'a pas droit au revenu minimum pour les combler (comparaison Grecs (romains?) / métèques) ou trouver une autre système (service agricole?)
+
+Pas pour ce livre: Borders create arbitrage opportunities - and being on the right side of the border puts you on the winning side of all those deals - Ou plutôt l'évoquer dans le contexte des travailleurs agricoles temporaires? Créer une frontière virtuelle à l'intérieur du pays?
+
+
+
+
+Je vois deux autres manières de sauver la planète malgré la chaîne qu'on a décrite plus haut, mais chacune relève du cauchemar plutôt que du rêve.
+
+Si on accepte que la production et la consommation continuent à croître à l'infini, on pourrait technologiser à outrance la planète, dans une course sans fin entre consommation galopante et nouvelles innovations vertes. Je laisse ce scénario aux écrivains de science-fiction, qui sont plus aptes à imaginer des boucliers anti-réchauffement climatique et des expéditions dans le système solaire à la recherche de nouveaux minéraux.
+
+L'autre issue, dans un monde ou l'IA aurait réussi à rendre notre travail superflu, verrait la population réduite à l'esclavage économique au service des milliardaires qui la contrôlent, seuls humains ayant le droit de consommer plus que le minimum. La technologie serait venu à bout de la chaine travail-production-consommation, au prix d'une grande misère. 
+
+
+
+
+
+
+Dans l’intro de la 2e partie (ou conclusion?) on ne réussira pas à régler nos problèmes environnementaux dans le contexte politique actuel 
+
+Si t’as mal à la tête à cause d’un virus, tu peux prendre des advil en attendant que ça passe. Mais si c’est à cause d’une tumeur au cerveau, il faut opérer (traiter cause = surproduction vs symptôme = surconsommation)
+
 
 
 
@@ -507,9 +418,33 @@ Si on enlève l’argent, ces sentiments existeront encore mais ils ne prendront
 
 
 
-Dans l’intro de la 2e partie (ou conclusion?) on ne réussira pas à régler nos problèmes environnementaux dans le contexte politique actuel 
+Texte sur impératif de la production par rapport aux médias 
 
-Si t’as mal à la tête à cause d’un virus, tu peux prendre des advil en attendant que ça passe. Mais si c’est à cause d’une tumeur au cerveau, il faut opérer (traiter cause = surproduction vs symptôme = surconsommation)
+
+
+on aura le temps d'en discuter parce que je ne crois pas qu'on pourra réussir à amener le revenu minimum avant d'avoir réussi à imposer la fortune maximale, ce qui sera déjà un long combat - le temps presse, mais on peut seulement aller à la vitesse du changement d'esprit.
+
+Parler des riches qui s'opposeront nécessairement à la réduction de l'incitatif au travail puisqu'ils tirent leur pouvoir de notre consommation - Revenu minimum impossible dans un contexte où les riches sont trop puissants - riches sont riches en prenant une cut de notre travail - moins on travaille, moins ils sont riches
+
+
+
+
+
+Revenir à l’incitatif au travail trop grand aussi pour les milliardaires à qui on accorde un pouvoir inutilement - boucler la boucle
+
+
+
+
+Il faut comprendre que les grands riches sont moins intéressés aux choses matérielles que leur richesse leur apporte qu’au sentiment de supériorité qu’elle leur procure. Sinon, ils cesseraient de vouloir l’accroître sans cesse à partir du moment qu’elle dépasse leurs besoins les plus grands. Dans ce sens, les grands riches sont moins matérialistes que les petits riches qui en sont encore à profiter de leur capacité à dépenser.
+
+C’est un manquement moral d’être milliardaire dans notre société, ce qui ne veut pas dire que ce sont des moins bonnes personnes que les autres. On a failli à notre devoir moral comme société d’établir des attentes claires à respecter. La majorité d’entre nous agirions de la même façon, exemple du portefeuille trouvé dans la rue
+
+Contexte parental - on doit être de bons parents - ensuite à chacun ses responsabilités et sans blâme - de très bons parents peuvent avoir un enfant qui agit mal et un saint peut naître dans une famille misérable. Notre devoir est accompli dès qu’on donne le bon exemple et qu’on a des attentes claires
+
+Le prestige social doit être plus fort à donner son argent qu’à le garder (suite milliardaires moins matérialistes) c’est donc notre devoir à tous de créer une société avec des valeurs différentes par un processus où les changements concrets mènent à des changements spirituels et émotifs qui permettent de nouveaux changements matériels 
+
+
+
 
 
 Les mesures que je propose dans ce livre pourraient difficilement être plus minimes. La fortune maximale ne touchera directement que quelques milliers de personnes à travers la planète. Pour les autres huit milliards, non seulement ils n'auront rien à verser, mais ils hériteront du pouvoir qu'on retire aux milliardaires.
