@@ -274,7 +274,7 @@ J'aimerais vivre dans une société où on satisfait les besoins de tous avant d
 
 Il existe aussi du travail qui ne comble aucun besoin. Là encore, ce ne sont pas des catégories exclusives. Même les médecins doivent se sentir inutiles au moment de faire leurs tâches bureaucratiques.
 
-Un premier type permet de transférer la richesse existante sans rien produire de nouveau. L'exemple le plus évident serait les "Patent Trolls", les chasseurs de brevets. Ces compagnies basées sur la propriété intellectuelle ne comptent pas d'inventeurs, que des avocats. Elles achètent des brevets très larges et poursuivent les compagnies qui utilisent des technologies analogues. Elles ne produisent rien, mais détournent des profits qui seraient allés à d'autres.
+Un premier type permet de s'accaparer la richesse existante sans rien produire de nouveau. L'exemple le plus évident serait les "Patent Trolls", les chasseurs de brevets. Ces compagnies basées sur la propriété intellectuelle ne comptent pas d'inventeurs, que des avocats. Elles achètent des brevets très larges et poursuivent les compagnies qui utilisent des technologies analogues. Elles ne produisent rien, mais détournent des profits qui seraient allés à d'autres.
 
 Comme la société s'apparente à un organisme vivant, il est normal qu'elle ait aussi des parasites. Il faut peut-être simplement les endurer, comme les moustiques au chalet.
 
@@ -289,13 +289,13 @@ On parle souvent de temps plein, sans se poser de questions. Travailler à temps
 
 J'aimerais d'abord qu'on s'imagine une famille d'agriculteurs sur une terre fraîchement défrichée, à l'époque de la colonisation. Ils travaillent exactement le temps nécessaire pour combler leurs besoins. Au temps des récoltes, ils se lèvent avant l'aube et travaillent jusqu'en soirée. L'hiver, ils font de l'entretien, mais ils ont droit à plus de repos. Ils ne s'inventent pas de travail pour continuer à faire autant d'heures qu'à l'automne.
 
-Mais aujourd'hui, on a perdu ce lien direct individuel entre les besoins et le travail. C'est généralement notre patron qui décide combien d'heures on travaille. Et souvent, il veut des employés à temps plein. À notre époque, ça se traduit souvent par sept ou huit heures par jour, cinq jours par semaine.
+Mais aujourd'hui, on a perdu ce lien direct entre les besoins et le travail. C'est généralement notre patron qui décide combien d'heures on travaille. Et souvent, il veut des employés à temps plein. À notre époque, ça se traduit souvent par sept ou huit heures par jour, cinq jours par semaine.
 
-Lorsqu'un seul travail à temps plein ne suffit pas à combler nos besoins, on doit s'en trouver un deuxième. Mais lorsqu'il comble plus que nos besoins, on ne travaille généralement pas moins. On trouve plutôt de nouveaux besoins à combler. On fait des voyages, on achète une nouvelle auto.
+Lorsqu'un seul travail à temps plein ne suffit pas à combler nos besoins, on doit s'en trouver un deuxième. Mais lorsqu'il comble plus que nos besoins, on ne travaille généralement pas moins. On trouve plutôt de nouveaux besoins à combler. On fait des voyages, on achète une nouvelle auto. Et ce nouveaux besoins nous obligent à continuer à travailler autant, voire plus.
 
-Notre capacité de production ne dépend pas seulement de la technologie. Elle dépend aussi de combien de gens travaillent et combien de temps ils dévouent à leur emploi. Les riches ont toujour intérêt à ce que les gens travaillent plus. Plus les gens travaillent, plus ils produisent, plus ils consomment, plus les profits augmentent.
+Notre capacité de production ne dépend donc pas seulement de la technologie. Elle dépend aussi de combien de gens travaillent et combien de temps ils dévouent à leur emploi. Les riches ont toujour intérêt à ce que les gens travaillent plus. Plus les gens travaillent, plus ils produisent, plus ils consomment, plus les profits augmentent.
 
-Lorsqu'on parle d'augmenter l'âge de la retraite, on le présente généralement comme si la société avait besoin que les gens travaillent plus. Mais comme on l'a vu, on produit déjà largement plus que nos besoins. On manque peut-être d'infirmières ou de médecins, mais la planète va mieux quand les aînés peuvent avoir du temps libre et consommer moins.
+Lorsqu'on parle d'augmenter l'âge de la retraite, on le présente généralement comme si la société avait besoin que les gens travaillent plus. Mais comme on l'a vu, on produit déjà largement plus que nos besoins. On manque peut-être d'infirmières ou de médecins, mais la planète va mieux quand les aînés ont beaucoup de temps libre et consomment un peu moins.
 
 En réalité, lorsqu'on parle d'augmenter l'âge de la retraite, ou de faire travailler les plus jeunes, c'est simplement un signe que les riches sont en position de force et peuvent exiger des changements qui les avantagent. C'est la même chose lorsqu'on parle d'augmenter le nombre d'heures du travail à temps plein pour favoriser la productivité.
 
@@ -308,7 +308,7 @@ Lorsque les gens arrêtent de travailler à leur retraite, ils n'arrêtent pas p
 
 Un grand-parent qui ne travaille plus, c'est souvent un grand-parent qui peut s'occuper des petits-enfants et donner un répit à ses enfants. C'est peut-être quelqu'un de plus détendu, qui a le temps pour du bénévolat, ou est simplement plus agréable à cotoyer que lorsqu'il courait d'une obligation à l'autre.
 
-On passe une partie de notre temps à faire des choses pour notre propre plaisir (le loisir), une autre à faire des choses pour les gens qu'on connaît (le travail invisible), et le reste à faire des choses pour des gens qu'on ne connaît généralement pas (le travail). Quand on parle de l'économie, on parle seulement de cette dernière partie. 
+On passe une partie de notre temps à faire des choses pour notre propre plaisir, une autre à faire des choses pour les gens qu'on connaît, et le reste au travail à faire des choses pour des gens qu'on ne connaît généralement pas. Quand on parle de l'économie, on parle seulement de cette dernière partie. 
 
 Ça pourrait même être une définition simplifiée de l'économie: c'est la somme du temps consacré à des gens qu'on ne connaît pas. Quand on offre notre temps aux gens qu'on connaît, on demande rarement de l'argent en retour. On appelle souvent ça le travail invisible, parce qu'il ne se reflète pas dans le portrait économique.
 
@@ -318,8 +318,15 @@ Mais le temps qu'on donne à l'économie n'est pas le seul qui comble des besoin
 
 
 
+Les prochains textes sont encore au stade d'intuitions. Il faut les voir de simples hypothèses qu'un scientifique poserait avant de se lancer dans un travail de recherche. Je les lance en sachant très bien que j'ai peut-être tout faux. Je les partage non pas comme point d'arrivée, mais pour qu'elles servent de point de départ pour vos propres réflexions.
 
-2e partie: salaire dépend de pouvoir, pas utilité - pas clair que l’accaparement du pouvoir par la classe intellectuelle à mesure que la société évolue vers l’abondance correspond à une plus grande utilité de leur production 
+C'est vrai pour tout ce livre, d'ailleurs, mais la méthode philosophique a des limites claires et les questions suivantes exigeraient des travaux de recherche complexes  menés par des économistes qualifiés pour vérifier le bien-fondé de ces hypothèses.
+
+
+
+
+
+2e partie: salaire dépend de pouvoir, pas utilité - Donner l'exemple du golf - golfeur a du pouvoir même si le golf n'a rien à voir avec son travail - pas clair que l’accaparement du pouvoir par la classe intellectuelle à mesure que la société évolue vers l’abondance correspond à une plus grande utilité de leur production - ça a clairement mené à une opposition politique
 
 On est passé d’un product economy à un service economy à mesure qu’on est passé d’une production essentielle à une production non essentielle 
 
