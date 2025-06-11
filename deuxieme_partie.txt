@@ -94,8 +94,7 @@ Heureusement pour l'économie, je ne peux pas me permettre beaucoup de journées
 
 Bien sûr, dans la version plus réaliste de l'histoire, j'ai quand même consommé du surperflu. J'ai lu le journal sur mon ordinateur en déjeunant, j'ai consulté les réseaux sociaux. Quand j'ai texté mes amis avant le dîner, mon téléphone a capté mon attention une demi-heure. J'ai acheté de l'alcool pour l'apéro. J'ai regardé une série avec ma copine le soir avant de dormir. Ça sauve un peu la mise.
 
-Je ne porte pas de jugement de valeur ici. Je trouve aussi du plaisir dans la consommation: voyages, restaurants, vêtements neufs. Je veux seulement souligner à quel point notre système 
-économique est incompatible avec le plaisir gratuit, celui qui ne consomme pas de ressources et n'exige pas de production.
+Je ne porte pas de jugement de valeur ici. Je trouve aussi du plaisir dans la consommation: voyages, restaurants, vêtements neufs. Je veux seulement souligner à quel point notre système économique est incompatible avec le plaisir gratuit, celui qui ne consomme pas de ressources et n'exige pas de production.
 
 Si on veut sauver la planète, il faudra que cette journée de loisir n'empêche pas les gens de mériter leur existence.
 
@@ -156,7 +155,7 @@ Le travail est la valeur de référence dans nos sociétés. L'économie va bien
 
 La création d'emplois est une valeur en soi. La société a besoin d'emplois, peu importe ce que ces emplois produisent et l'importance des besoins que cette production comble.
 
-Quand la société a des besoins majeurs, on n'a pas besoin de créer les emplois. Ils se manifestent d'eux-mêmes en réponse à la demande, ou alors on peine à y répondre et on parle d'une pénurie d'infirmières ou d'enseignantes. On ne se vante pas d'avoir créé des emplois si on forme plus de médecins, on se félicite d'avoir aidé le système de santé.
+Quand la société a des besoins majeurs, on n'a pas besoin de créer les emplois. Ils se manifestent d'eux-mêmes en réponse à la demande, ou alors on peine à y répondre et on parle d'une pénurie d'infirmières ou d'enseignantes. On ne se vante pas d'avoir créé des emplois si on forme plus de médecins, on se félicite d'avoir sauvé le système de santé.
 
 Toute mesure qui pourrait nuire à l'emploi est impopulaire. On peut seulement protéger l'environnement à condition de ne pas mettre d'emplois en péril. On défend la culture en parlant de création d'emplois et de retombées économiques. Les retombées économiques, c'est de la consommation, et la consommation génère des emplois.
 
@@ -184,7 +183,7 @@ Lorsqu'il y a une telle concordance d'intérêts, on ne se surprendra pas que pe
 
 Les efforts pour modérer la consommation seront toujours vains. Ils peuvent réussir dans un domaine précis, mais le besoin de production sera simplement redirigé pour augmenter la consommation ailleurs.
 
-Ça ne veut pas dire que ces efforts n'ont pas d'importance. La surconsommation est un vrai problème et il faut en prendre conscience. Et certains achats entraînent plus de pollution que d'autres. On ne peut pas produire trop de santé mentale, par exemple.
+Ça ne veut pas dire que ces efforts n'ont pas d'importance. La surconsommation est un vrai problème et il faut en prendre conscience. Et certains achats entraînent plus de pollution que d'autres. On ne peut pas produire trop de santé mentale.
 
 Mais comme c'est le besoin de production qui entraîne la surconsommation, on ne réussira jamais à réduire la consommation de manière globale sans s'attaquer à l'impératif de production.
 
@@ -199,8 +198,6 @@ Pour réduire notre consommation de manière globale, il faut réduire notre bes
 
 
 
-
-Paragraphe de plus ou mini-texte: c'est cette dynamique qui explique l'opposition entre environnement et travailleurs - c'est quelque chose de réel - par définition les meilleures actions environnementales devraient nuire à la production, donc au travail
 
 
 
@@ -260,8 +257,24 @@ Mais je crois que cette période nous montre tout de même que la capacité de p
 
 
 
-Après société d’abondance - On s’habitue à une certaine façon de vivre et à un niveau de vie
-Mini-texte sur les besoins - peut être difficile de s’imaginer quon est en abondance quand notre expérience personnelle c’est d’être toujours à la limite - production augmente sans cesse mais il ne vient jamais un point où on sent que ce sera assez - on n’a pas l’impression que les gens d’aujourd’hui sont plus satisfaits de leur consommation ou on plus de lousse que ceux des années 1960
+
+Même s'il me semble clair qu'on produit collectivement plus que ce qui est essentiel à notre bonheur, ça ne correspond pas nécessairement à notre expérience vécue. Peu importe leur revenu, la plupart des gens que je connais ont l'impression de gagner juste assez pour subvenir à leurs besoins.
+
+Comment peut-on affirmer que la société produit plus que nécessaire si chacun a à peine ce qu'il faut? L'explication est bien sûr en partie reliée à la redistribution de la richesse, mais ce n'est pas le sujet de ce livre, donc je me contente de le mentionner. Je veux plutôt m'attarder à un autre aspect bien réel, mais plus difficile à cerner.
+
+Peu de gens se considèrent riches. Si on demande aux gens leur classe sociale, la classe moyenne regroupera des gens dont le salaire peut être quatre fois plus grand que d'autres. Ça peut sembler absurbe, mais leur expérience subjective sera en effet similaire.
+
+On peut s'imaginer deux familles avec le même nombre d'enfants, dont les parents travaillent fort pour payer le logement, la nourriture, le transport, les frais scolaires, les activités des enfants. Et au bout du compte, il ne leur reste presque rien, même si une de ces deux familles a un revenu quatre fois plus grand.
+
+La différence, bien sûr, c'est que cette famille a une jolie maison dans un beau quartier plutôt qu'un appartement dans un milieu moins favorisé. Ils mangent sans doute mieux. Les enfants vont à l'école privée. On hésite moins à remplacer l'auto qui se fait vieille. On prend l'avion plus souvent. Ils sont peut-être aussi plus heureux que la famille moins aisée, mais pas nécessairement.
+
+Maintenant, imaginons deux familles équivalentes en 1950. De manière objective, leur niveau de vie matériel serait plus bas que pour la famille équivalente moderne, parce que la production et la technologie ont progressé énormément depuis soixante-quinze ans. Si le gâteau est plus grand, leur part du gâteau l'est aussi.
+
+Mais si on les questionnait sur leur bonheur ou leur satisfaction financière, on constaterait sans doute que les familles équivalentes donnent des réponses similaires, peu importe l'époque, même si la famille moderne est objectivement plus riche que leurs prédecesseurs. Comme nous, ils devaient sentir qu'ils avaient à pein ce qu'il leur fallait.
+
+En fait, à n'importe quelle époque, ce qui compte le plus est en quantité limitée, peu importe la production globale. Il y aura toujours de meilleurs quartiers et de meilleures écoles. Les familles vont toujours être en compétition pour y habiter et y envoyer leurs enfants. Et on peut seulement envier nos voisins, pas les gens de l'avenir qui auront accès à des choses qu'on ne peut pas encore s'imaginer.
+
+
 
 
 
