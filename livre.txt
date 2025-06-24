@@ -351,7 +351,7 @@ Lorsqu'on parle d'impôts sur la succession, on pense à nos enfants. On les ima
 
 Pourtant, ce grand riche a peut-être déjà offert dix propriétés de son vivant à son enfant. Cet enfant pourrait même être le propriétaire qui a évincé le vôtre de son logement pour des rénovations prétextes à une augmentation monstre de loyer. Ou, pour éviter les caricatures sombres, c'est peut-être un gentil milliardaire qui donne à la charité et finance écoles et musées.
 
-Dans les deux cas, son désir d'éviter les impôts sur la succession n'a rien à voir avec le vôtre. Le pouvoir qu'il veut transmettre est un pouvoir qui permet de dominer, alors que le pouvoir que vous voulez transmettre à vos enfants est le pouvoir de se protéger. Une limite imposable suffisamment élevée sur l'héritage permettrait aisément de différencier les deux situations. Si le riche ne peut pas transmettre intact son pouvoir de domination, le besoin de protection du moins riche devient d'autant moins grand.
+Dans les deux cas, son désir d'éviter les impôts sur la succession n'a rien à voir avec le vôtre. Le pouvoir qu'il veut transmettre est un pouvoir qui permet de dominer, alors que le pouvoir que vous voulez transmettre à vos enfants est le pouvoir de se protéger. Une limite imposable suffisamment élevée sur l'héritage permettrait aisément de différencier les deux situations. Si le grand riche ne peut pas transmettre intact son pouvoir de domination, le besoin de protection du petit riche devient d'autant moins grand.
 
 Mais l'émotion est la même. Et cette émotion commune fait que nous défendons souvent des intérêts contraires aux nôtres. 
 
@@ -395,6 +395,7 @@ Bien sûr, j'écris ce livre parce que je ressens plus fortement le besoin de ju
 J'aurais pu simplement décrire les injustices de notre monde et en imaginer un plus juste, comme si c'était convaincant en soi. Beaucoup l'ont fait avant moi. Mais ce serait une erreur de faire abstraction de ce besoin de pouvoir.
 
 Est-ce que les gens veulent vivre dans une société égalitaire, ou dans une société où ils peuvent s'élever et exercer leur volonté de pouvoir? Je crois que le désir de justice et le désir d'améliorer son sort sont deux besoins fondamentaux auxquels la société doit donner une place importante.
+
 
 
 
@@ -483,8 +484,7 @@ Pour donner un exemple facile à comprendre, on pourrait penser à une ruée ver
 
 Quand les prospecteurs se déplacent, leurs besoins les suivent. Et l'or leur permet de payer ceux qui peuvent les combler. Un menuisier en manque de travail ira construire des maisons. Sa fille va enseigner aux enfants. Un médecin fraîchement diplomé y trouvera sa première clientèle. Le gouvernement n'a pas besoin de leur ordonner d'aller travailler là-bas. Les gens suivent naturellement la trace des besoins non comblés.
 
-J'ai choisi l'exemple de la ruée vers l'or parce qu'il est frappant, mais pas besoin de boomtown.
-Toute la société s'organise autour de milliards de petites interactions humaines. Nos actions influencent les autres, parfois de manière évidente, parfois de manière à peine perceptible.
+J'ai choisi l'exemple de la ruée vers l'or parce qu'il est frappant, mais pas besoin de boomtown. Toute la société s'organise autour de milliards de petites interactions humaines. Nos actions influencent les autres, parfois de manière évidente, parfois de manière à peine perceptible.
 
 On déménage. On essaie un nouveau magasin. On découvre un nouveau passe-temps. On change d'horaire. On passe au télétravail. On se met au jogging. Tous ces changements ont des répercussions. Un commerce perd ou gagne un client. Il y a un siège vide dans l'autobus. Un médecin a une consultation de moins, une physiothérapeute une de plus.
 
@@ -505,7 +505,7 @@ Je viens de décrire de manière très simplifiée l'apparition et l'évolution 
 
 Heureusement, le corps a des défenses pour se protéger. Lorsque des cellules défectueuses refusent de se saborder, d'autres cellules spécialisées tentent de les éliminer avant qu'une tumeur se forme. C'est seulement quand les défenses de l'organisme échouent pour différentes raisons qu'il faut recourir à la médecine moderne.
 
-Imaginez maintenant un organisme composé uniquement de ce type de cellules. On se figure mal comment un tel organisme pourrait survivre, pourtant c’est une métaphore de la société humaine. C'est presque miraculeux que nos sociétés fonctionnent aussi bien, malgré leurs défauts, sans que les être humains se soumettent au bien collectif, comme les cellules d'un organisme.
+Imaginez maintenant un organisme composé uniquement de ce type de cellules. On se figure mal comment un tel organisme pourrait survivre. Pourtant c’est une métaphore de la société humaine. C'est presque miraculeux que nos sociétés fonctionnent aussi bien, malgré leurs défauts, sans que les être humains se soumettent au bien collectif, comme les cellules d'un organisme.
 
 Bien sûr, un monde où les humains acceptaient volontiers de mettre fin à leur vie pour le bien du groupe serait une dystopie digne d'un film de science-fiction. Les cultures individualistes accordent plus d’importance au bonheur personnel, les plus collectivistes priorisent le bien-être commun, mais il n’existe pas de société humaine qui ressemble à une ruche d’abeilles. Je suis reconnaissant de vivre dans une culture qui admet que j'accorde de l'importance à mon bonheur.
 
@@ -516,6 +516,22 @@ Selon la même métaphore, un milliardaire n'a rien d'une cellule typique. Il co
 Comme les organismes, nos sociétés ont besoin de défenses puissantes afin de se protéger d'individus qui amassent un pouvoir énorme et détournent toujours plus de ressources à accroître ce pouvoir. La démocratie est justement un système de défense efficace sur le plan du pouvoir politique. Mais nos défenses font encore défaut sur le plan économique. L'idée d'une fortune maximale vise à les renforcer, sans créer un nouveau levier de pouvoir qui pourrait être détourné à son tour.
 
 Une fortune maximale d'un milliard, c'est assez pour faire rêver n'importe qui et motiver ceux qui ont soif de pouvoir à développer des projets qu'on espère utiles à la société. Mais c'est une limite. Et le simple fait qu'il y ait une limite peut freiner la volonté de croissance infinie qui pousse certains milliardaires à tenter d'y asservir la société.
+
+
+
+
+Le système capitaliste est fondé sur l'idée de l'offre et la demande. Un produit vaut ce que les gens sont prêts à payer pour l'obtenir. Un emploi vaut ce que les gens sont prêts à accepter pour le faire. Rares sont les employeurs qui donnent des augmentations par pure bonté de coeur.
+
+D'ailleurs, dans une société en bourse, les dirigeants ont une obligation fiduciaire de maximiser les profits des actionnaires. Légalement, ils doivent limiter la rémunération de leurs employés au minimum sans nuire au bon fonctionnement de l'organisation.
+
+Nos dirigeants politiques ont aussi une obligation fiduciaire envers leurs électeurs et le bien commun. Les entrepreneurs jouent un rôle essentiel dans la société. Il est donc normal qu'ils soient récompensés en conséquence.
+
+Mais comme eux-mêmes paient leurs employés aussi peu que possible sans nuire au bon fonctionnement de leur entreprise, la société peut passer des lois pour qu'ils soient rémunérés aussi peu que possible sans nuire au bon fonctionnement de l'économie. Ce serait parfaitement conforme à la logique capitaliste.
+
+Le système présent fonctionne très bien à petite échelle pour encourager petits, moyens et grands entrepreneurs à faire leur travail. Mais à très grande échelle, il déraille. Une fortune maximale d'un milliard laisserait le système de base intact en limitant uniquement les pires excès.
+
+
+
 
 
 
@@ -960,3 +976,513 @@ Si en finir avec les milliardaires est une bonne idée, elle fera naturellement 
 En fait, si cette idée est assez puissante pour avoir une chance de se matérialiser, elle passera inévitablement par toutes ces étapes. Sinon, elle mourra de sa mort naturelle. Je suis assez modeste pour accepter que c'est l'issue la plus probable, mais assez rêveur pour croire à son potentiel.
 
 Même si je lance l'idée, je ne la contrôle pas. Peut-être que sa forme finale me surprendra. Dans tous les cas, j'ai confiance en la sagesse populaire. Si cette idée a des ailes, qu'elle s'envole librement. Sinon, j'espère pouvoir me rallier à une autre idée, plus apte à porter l'espoir.
+
+
+
+
+
+
+
+SAUVER LA PLANÈTE
+
+
+
+J'aimerais commencer cette deuxième section par une anecdote qui peut sembler banale. J'ai reçu un appel de mon fournisseur téléphonique pour m'avertir que j'avais terminé de payer mon vieil appareil et que je pouvais en obtenir un nouveau. J'ai refusé. Rien de plus normal à notre époque. Mais en y réfléchissant, j'ai senti que ce moment banal encapsulait tout l'engrenage économique qui met à mal la planète. 
+
+On paye quelqu'un pour convaincre quelqu'un d'autre de dépenser son argent pour un objet dont il n'a pas besoin.
+
+Dans un sens, le travail de cette employée a un impact presque entièrement négatif sur la société. Si elle accomplit ce pour quoi elle est payée, je serai plus pauvre, sans être plus heureux. Et on aura gaspillé les ressources limitées de notre planète pour fabriquer un objet superflu et le transporter jusqu'à moi.
+
+Mais dans un autre sens, son travail est le plus important qui soit, parce qu'il permet de donner du travail aux gens. À ceux qui conçoivent le téléphone, à ceux qui en font la mise en marché, à ceux qui le fabriquent... et à celle qui m'a appelé, bien sûr.
+
+Si j'achète un nouveau téléphone seulement parce qu'elle a réussi à créer ce besoin en moi, tout ce travail n'aura eu d'autre utilité que d'avoir permis à ces gens de travailler. Les seules personnes dont la vie aura été améliorée par mon achat seront celles qui ont participé à sa production.
+
+Quand on parle de surconsommation, on s'imagine généralement que le problème vient de notre besoin de consommer toujours davantage. Mais en réalité, la surconsommation répond d'abord à un besoin de production. Notre système économique exige que tout le monde produise quelque chose pour avoir le droit de consommer. Et comme on a tous besoin de consommer au moins un minimum, on doit tous produire, peu importe l'utilité de ce qu'on produit.
+
+Dans un monde paradoxal où la surproduction rend tranquillement la planète invivable, mais qu'on peut seulement démontrer qu'on mérite de vivre en produisant, cette employée téléphonique est à la fois une héroïne de notre présent et la fossoyeuse de notre avenir.
+
+
+
+
+
+
+Les libertariens adorent le Bitcoin, qui échappe davantage au pouvoir étatique que l'argent national. Étrangement, son fonctionnement rappelle le paradoxe qu'on vient d'évoquer, avec le même gaspillage et le même coût environnemental.
+
+Pour simplifier à l'extrême, on mine un Bitcoin en utilisant des processeurs pour effectuer une quantité prodigieuse de calculs mathématiques. Le réseau valide qu'on a bien effectué ces calculs, et nous récompense en crypto-monnaie. Le même processus sert à valider les transactions.
+
+Ces calculs utilisent énormément d'électricité pour refroidir les processeurs. Pourtant, ils ne servent pas à résoudre des équations utile. Ils servent simplement à démontrer qu'un travail a été accompli. On utilise d'ailleurs le terme anglais "proof of work", ce qui signifie "preuve du travail accompli". 
+
+Notre système économique comporte des similarités. L'argent est notre "proof-of-work", notre preuve du travail accompli.
+
+Évidemment, on ne travaille pas en pure perte, contrairement à ce qu'on vient de décrire pour la crypto-monnaie. L'argent vise à récompenser le travail utile. Mais en pratique, il sert seulement de preuve qu'un travail a bien été effectué.
+
+
+
+
+
+Nos peurs face à l'IA illustrent parfaitement cette faille de notre système économique. La technologie progresse rapidement et on craint qu'elle soit capable de faire notre travail à notre place. Mais pourquoi cette peur?
+
+Si le but premier d'un travail était de produire quelque chose d'utile, alors ce serait une bonne nouvelle qu'on trouve une manière de faire ce travail sans effort. L'IA serait vue comme une merveille plutôt qu'une menace. Elle viendrait nous libérer d'une obligation.
+
+Mais au contraire, on a peur qu'elle soit utile, qu'elle soit capable de nous remplacer. Je travaille souvent comme traducteur. Quand ChatGPT est apparu, un de mes premiers réflexes a été de vérifier son aptitude pour la traduction. Je voulais savoir si ce nouvel outil allait être un assistant utile ou un compétiteur gratuit.
+
+Je ne crois pas être le seul à avoir eu ce réflexe. Dans le parcours classique d'une vie productive, on développe des habiletés et des connaissances à l'école qu'on applique et perfectionne au travail. Si ces habiletés ne sont plus requises par la société, on craint de retourner à la case départ.
+
+D'un côté, c'est une technologie presque magique qui me permet de lire un article sur la lutte sumo dans un journal japonais. De l'autre, si elle fonctionne assez bien, je devrai trouver une autre manière de prouver que je mérite ma place en société. 
+
+La seule explication à notre peur collective que la machine fasse notre travail à notre place, c'est que le produit de ce travail est secondaire. Son utilité première est de nous donner l'occasion de prouver notre mérite.
+
+
+
+
+Ce n'est bien sûr pas la première fois que la société est confrontée à cette peur d'une perte d'emplois causée par l'automatisation. L'exemple le plus connu est l'invention du métier à tisser. Les tisserands anglais se sont organisés pour s'opposer à la nouvelle technologie. Ils s'introduisaient dans les usines et sabotaient les machines. Le gouvernement a écrasé la contestation et beaucoup ont dû se trouver un travail moins spécialisé et moins bien rémunéré.
+
+Les exemples ne manquent pas, du remplacement des scribes par l'imprimerie à l'arrivée des chaînes de montage. Dans tous les cas, la nouvelle technologie augmente la production de deux manières. Comme elle permet de produire plus à moindre coût, on peut faire plus de ce qu'on faisait déjà, ou développer de nouveaux produits. C'est une conséquence évidente, et c'est la seule à laquelle on réfléchit habituellement.
+
+Mais l'autre conséquence, c'est que les travailleurs qui ont été remplacés par l'automatisation doivent continuer à travailler. Qu'ils trouvent un nouveau rôle dans la même industrie ou qu'ils se recyclent dans un nouveau domaine, ils doivent absolument continuer à produire quelque chose pour prouver qu'ils méritent encore leur place en société.
+
+L'automatisation libère ces travailleurs en faisant leur production à leur place. Mais le besoin d'argent les contraint aussitôt à produire quelque chose de nouveau. Cette nouvelle production ne répond pas à une demande de consommation accrue de la société, mais au besoin de production de ceux qui ont perdu leur emploi.
+
+C'est la loi de notre système économique. Il ne suffit pas qu'on produise collectivement assez pour satisfaire les besoins de tous. Il faut que chacun prouve son mérite en produisant quelque chose. Cet engrenage fait que la production ne peut qu'augmenter. La technologie ne peut pas nous libérer de notre obligation de produire. Elle ne peut qu'emballer la machine davantage.
+
+
+
+
+
+Qui se rappelle de la société de loisirs? En fait, si on en parle encore aujourd'hui, c'est seulement pour se demander pourquoi elle n'est jamais advenue. L'idée qu'on s'en faisait était simple: plus la technologie avance, moins il faudra travailler pour combler nos besoins. Moins on aura à travailler, plus on aura de temps pour le loisir. Ça semble logique... mais bien sûr, on travaille autant aujourd'hui qu'à l'époque où le terme est apparu.
+
+Là encore, tout s'explique de la même manière. Si le travail servait simplement à combler des besoins, en effet, le progrès technologique nous permettrait de travailler moins collectivement. Mais comme on travaille d'abord pour prouver qu'on mérite notre place en société, on doit plutôt trouver de nouveaux besoins à combler, afin que chacun puisse continuer à produire.
+
+Le loisir, c'est ce qui nous reste après avoir prouvé qu'on méritait de survivre. Et cette preuve exige une quantité de travail socialement déterminée qui est indépendante des besoins réels de la société.
+
+J'insiste autant sur cette équation parce qu'elle est fondamentale. On croit que la production répond à un besoin de consommation, alors qu'au contraire c'est le besoin de production qui exige toujours plus de consommation. Si on pouvait se permettre de moins produire, les gens seraient libres de prioriser le loisir sur une consommation accrue.
+
+
+
+
+
+Revenons un instant à l'époque Victorienne. Imaginons un instant que les profits générés par les nouvelles machines à tisser avaient été versés aux tisserands qui perdaient leur travail. Il n'y aurait pas eu d'émeutes. Les tisserands auraient peut-être pris leur retraite, où auraient continué à travailler à temps partiel de manière artisanale pour augmenter leurs revenus.
+
+Mais bien sûr, ils n'ont jamais tiré un sou des nouvelles machines. Celles-ci profitaient uniquement à leurs propriétaires. C'est systématiquement le cas des avancées technologiques. Dans notre système, tous les bénéfices des progrès technologiques vont aux propriétaires d'entreprises. Les travailleurs ne sont jamais gagnants sur le plan économique, même s'ils peuvent en profiter comme citoyens si ces technologies améliorent leur quotidien.
+
+Les personnes qui tirent un profit de l'IA ne sont pas les mêmes que celles qui pourraient se faire remplacer. C'est pour cette raison que cette technologie génère autant de craintes. On a commencé par automatiser le travail manuel, ce qui a poussé de plus en plus de gens vers le travail intellectuel. Si on réussit à automatiser le travail intellectuel, qu'est-ce qui restera?
+
+Je ne connais pas la réponse. Si notre cerveau cesse d'être monnayable, notre corps le redeviendra peut-être? Il me vient parfois l'image d'un avenir où les riches ont tant de serviteurs qu'ils ont un préposé à chaque frigo. Mais si cette peur se concrétise, ce dont je doute, les gens devront trouver le moyen de continuer à travailler. Parce qu'ils n'auront pas le choix. Il faut produire pour avoir le droit d'exister.
+
+
+
+
+
+J'aimerais vous décrire une journée de loisir qui pourrait me rendre heureux. J'ai congé, il fait beau. Je déjeune tranquillement, je pars me promener en vélo. Je m'installe dans un parc au soleil avec un livre de bibliothèque. Je lève les yeux pour observer des pic-niqueurs, des promeneurs, des amoureux. Je regarde des gens jouer au foot ou au basket. Je vais rejoindre des amis, on dîne et on discute sur la terrasse. Je retrouve mon amoureuse pour souper, on s'embrasse et on se raconte notre journée.
+
+Sur le plan personnel, c'est une journée parfaite. Sur le plan environnemental, c'est idéal. Sur le plan économique, c'est le désastre le plus total.
+
+Je n'ai consommé que l'essentiel: de la nourriture, un peu d'usure sur mon vélo. Je n'ai pas stimulé la production. Je n'ai rien fait qui pourrait permettre à mes concitoyens de travailler. Si chacun faisait de même, la société s'écroulerait. Tout le monde perdrait son emploi, à part les travailleurs essentiels, moi y compris.
+
+Heureusement pour l'économie, je ne peux pas me permettre beaucoup de journées comme celles-là. D'abord, je dois travailler. Et l'énergie que je dépense au travail me laisse parfois seulement ce qu'il faut pour consommer passivement du contenu générateur de besoins dans les heures qui me restent.
+
+Bien sûr, dans la version plus réaliste de l'histoire, j'ai quand même consommé du surperflu. J'ai lu le journal sur mon ordinateur en déjeunant, j'ai consulté les réseaux sociaux. Quand j'ai texté mes amis avant le dîner, mon téléphone a capté mon attention une demi-heure. J'ai acheté de l'alcool pour l'apéro. J'ai regardé une série avec ma copine le soir avant de dormir. Ça sauve un peu la mise.
+
+Je ne porte pas de jugement de valeur ici. Je trouve aussi du plaisir dans la consommation: voyages, restaurants, vêtements neufs. Je veux seulement souligner à quel point notre système économique est incompatible avec le plaisir gratuit, celui qui ne consomme pas de ressources et n'exige pas de production.
+
+Si on veut sauver la planète, il faudra que cette journée de loisir n'empêche pas les gens de mériter leur existence.
+
+
+
+
+Nos sociétés riches sont des sociétés d'abondance. On est passé sans s'en apercevoir d'un monde où on produisait pour pouvoir consommer à un monde où on consomme pour pouvoir produire. Notre rapport à la nourriture en est un bon exemple.
+
+L'être humain a évolué dans un contexte de disettes. Lorsqu'on trouvait de la nourriture, il fallait en consommer un maximum, pour avoir des réserves de gras lors des périodes où on ne trouvait rien à manger.
+
+Il est très possible que les adaptations génétiques qui nous aidaient à survivre dans un contexte de manque nuisent maintenant à notre santé dans un contexte d'abondance. Le goût pour le sucre et le gras qui nous portait vers les aliments riches en énergie nous pousse maintenant vers la friture et le soda.
+
+Là encore, je ne porte pas de jugement. J'aime les chips, même si mon ventre se plaint quand je termine le sac. Parfois on veut du plaisir sur le moment, quitte à en subir les conséquences plus tard.
+
+Ce qui est certain, par contre, c'est que notre appétit dépasse nos besoins. On serait probablement plus heureux si nos envies alimentaires correspondaient à nos besoins réels, et certainement en meilleure santé.
+
+Pourtant, tout le contexte commercial nous encourage à manger et boire davantage. Les efforts pour encourager une consommation modérée sont une goutte d'eau dans l'océan publicitaire. Je ne veux pas m'y attarder, parce qu'on pourrait remplir une bibliothèque avec ce qui s'est déjà écrit sur le sujet, mais c'est ainsi qu'on stimule la consommation pour répondre au besoin de production.
+
+L'industrie publicitaire, au sens le plus large du terme, sert à générer une envie de consommation au-delà des besoins naturels pour satisfaire le désir de profit des riches et l'impératif de production des pauvres.
+
+
+
+
+
+On parle de travailler à temps plein, sans se poser de questions. Mais qu'est-ce que c'est, le temps plein? Qui a décidé combien d'heures par semaine on devait travailler? Si ce qu'on a affirmé jusqu'à présent est vrai, ça dépend sans doute beaucoup moins des besoins de la société que du rapport de force entre les riches et pauvres.
+
+J'aimerais qu'on s'imagine une famille d'agriculteurs sur une terre fraîchement défrichée, à l'époque de la colonisation. Ils travaillent exactement le temps nécessaire pour combler leurs besoins. Au temps des récoltes, ils se lèvent avant l'aube et travaillent jusqu'en soirée. L'hiver, ils font de l'entretien, mais ils ont droit à plus de repos. Ils ne s'inventent pas de travail pour continuer à faire autant d'heures qu'à l'automne.
+
+Mais aujourd'hui, on a perdu ce lien direct entre les besoins et le travail. C'est généralement notre patron qui décide combien d'heures on travaille. Et souvent, il veut des employés à temps plein. À notre époque, ça se traduit souvent par huit heures par jour, cinq jours par semaine.
+
+Lorsqu'un seul travail à temps plein ne suffit pas à combler nos besoins, on doit s'en trouver un deuxième. Mais lorsqu'il comble plus que nos besoins, on ne travaille généralement pas moins. On trouve plutôt de nouveaux besoins à combler. On déménage dans plus grand, on fait des voyages, on achète une nouvelle auto. Et ces nouveaux besoins nous obligent à continuer à travailler autant, voire plus.
+
+Notre capacité de production ne dépend donc pas seulement de la technologie. Elle dépend aussi de combien de gens travaillent et combien de temps ils dévouent à leur emploi. Les riches ont toujour intérêt à ce que les gens travaillent plus. Plus les gens travaillent, plus ils produisent, plus ils consomment, plus les profits augmentent.
+
+Lorsqu'on parle d'augmenter l'âge de la retraite, ou de faire travailler les plus jeunes, c'est un signe que les riches sont en position de force et peuvent exiger des changements qui les avantagent. C'est la même chose lorsqu'on parle d'augmenter le nombre d'heures du travail à temps plein pour favoriser la productivité.
+
+Bien sûr, si les riches sont vraiment en position de force, on peut se retrouver réellement obligés de leur faire des concessions. C'est pour cette raison qu'il faudra sans doute d'abord oser utiliser le pouvoir gouvernemental pour s'opposer à leur puissance avant de prendre des mesures qui avantagent la collectivité.
+
+
+
+
+
+Lorsque les gens arrêtent de travailler à leur retraite, ils n'arrêtent pas pour autant d'être utiles à la société. Ils cessent seulement de gonfler des chiffres économiques.
+
+Un grand-parent qui ne travaille plus, ça peut être un grand-parent qui s'occupe des petits-enfants et donne un répit aux parents. C'est peut-être quelqu'un de plus détendu, qui a le temps pour du bénévolat, ou est simplement plus agréable à cotoyer que lorsqu'il était enseveli par les obligations.
+
+Au courant de notre vie, on passe une partie de notre temps à faire des choses pour notre propre plaisir, une autre à faire des choses pour les gens qu'on connaît, et le reste au travail à faire des choses pour des gens qu'on ne connaît généralement pas. Quand on parle de l'économie, on parle seulement de cette dernière partie. 
+
+Ça pourrait même être une définition simplifiée de l'économie: c'est la somme du temps consacré à des gens qu'on ne connaît pas. Quand on offre notre temps aux gens qu'on connaît, on demande rarement de l'argent en retour. On appelle souvent ça le travail invisible, parce qu'il ne se reflète pas dans le portrait économique.
+
+Mais le temps qu'on donne à l'économie n'est pas le seul qui comble des besoins. Et ce n'est pas nécessairement celui qui contribue le plus au bonheur des autres.
+
+
+
+
+
+Le travail est la valeur de référence dans nos sociétés. L'économie va bien quand le chômage est bas. Les partis politiques se font élire en promettant du travail. Un projet est bon s'il génère des emplois. Il est encore meilleur s'il génère de bons emplois. Un bon emploi vient avec un bon salaire qui permet de consommer beaucoup.
+
+La création d'emplois est une valeur en soi. La société a besoin d'emplois, peu importe ce que ces emplois produisent et l'importance des besoins que cette production comble.
+
+Quand la société a des besoins majeurs, on n'a pas besoin de créer les emplois. Ils se manifestent d'eux-mêmes en réponse à la demande, ou alors on peine à y répondre et on parle d'une pénurie d'infirmières ou d'enseignantes. On ne se vante pas d'avoir créé des emplois si on forme plus de médecins, on se félicite d'avoir sauvé le système de santé.
+
+Toute mesure qui pourrait nuire à l'emploi est impopulaire. On peut seulement protéger l'environnement à condition de ne pas mettre d'emplois en péril. On défend la culture en parlant de création d'emplois et de retombées économiques. Les retombées économiques, c'est de la consommation, et la consommation génère des emplois.
+
+Dans notre système économique, bien sûr, c'est parfaitement logique. Si la survie des gens dépend de leur capacité à trouver un emploi, ça devient notre priorité absolue. C'est ce qui rend les valeurs commerciales dominantes dans nos sociétés. Toute valeur alternative pourrait nuire à l'emploi, et l'emploi, c'est la survie.
+
+Notre priorité absolue n'est donc pas de combler les besoins des citoyens, mais de leur donner l'occasion de prouver qu'ils méritent leur part de la production collective, quitte à y sacrifier toutes les autres valeurs qui pourraient nous sembler importantes.
+
+
+
+
+
+Le besoin de travail donne un terrain d'entente aux riches et aux pauvres. Le pauvre a besoin d'un emploi pour survivre. Le riche veut accroître sa richesse. La richesse s'accroît seulement lorsqu'elle est investie. Et un bon investissement génère toujours des profits et nécessite généralement des emplois.
+
+Les riches sont donc des créateurs d'emplois. C'est ce qui fait leur acceptabilité sociale. Même si un entrepreneur fait tout pour maximiser ses profits et affaiblir les conditions de travail de ses employés, il demeure un créateur d'emplois, et c'est le rôle le plus important dans notre système économique. Ceux qui défendent les profits des riches le font toujours au nom des emplois des pauvres. 
+
+Plus on consomme, plus les riches peuvent faire de profits, plus leur pouvoir s'accroît. Plus on consomme, plus les pauvres peuvent travailler. Plus les pauvres travaillent, plus ils ont le droit de consommer et plus les riches font de profits.
+
+La société s'organise donc naturellement autour de cette augmentation de la consommation. La réglementation doit faciliter la production. La publicité peut s'immiscer dans toutes les sphères de notre vie. Les compagnies étudient les mécanismes d'addiction pour créer des comportements compulsifs chez les consommateurs.
+
+Lorsqu'il y a une telle concordance d'intérêts, on ne s'étonnera pas que peu osent s'y opposer au nom du bien-être collectif et de la survie de la planète. Et on ne s'étonnera pas du peu de succès qu'ils rencontrent, malgré l'importance du combat.
+
+
+
+
+
+Les efforts pour modérer la consommation seront toujours vains. Ils peuvent réussir dans un domaine précis, mais le besoin de production sera simplement redirigé pour augmenter la consommation ailleurs.
+
+Ça ne veut pas dire que ces efforts n'ont pas d'importance. La surconsommation est un vrai problème et il faut en prendre conscience. Et certains achats entraînent plus de pollution que d'autres. On ne peut pas produire trop de santé mentale.
+
+Mais comme c'est le besoin de production qui entraîne la surconsommation, on ne réussira jamais à réduire la consommation de manière globale sans s'attaquer à l'impératif de production.
+
+On le voit dans l'histoire de la lutte environnementale. Les gouvernements s'imposent des cibles qu'ils ratent systématiquement. Les seuls succès possibles sont des succès technologiques. On remplace les CFC par d'autres produits pour protéger la couche d'ozone. Les moteurs à essence deviennent électriques.
+
+Les vraies solutions exigeraient qu'on réduise la consommation. Mais ce sont justement ces solutions qui sont impossibles dans notre système économique, parce que le besoin de production est trop grand. Dans le système actuel, il est beaucoup plus réaliste de s'attaquer au réchauffement climatique par des solutions d'ingénierie planétaire qui coûteraient des billions que par une réduction de la consommation.
+
+En fait, le coût énorme de ces solutions technologiques est dans un sens un avantage plutôt qu'un inconvénient, parce qu'il implique une production faramineuse qui pourrait donner à des millions de personnes l'occasion de prouver qu'ils méritent une place dans la société.
+
+Pour réduire notre consommation de manière globale, il faut réduire notre besoin de production. Aujourd'hui, on doit travailler beaucoup. Et on trouve des besoins à combler avec l'argent qu'on gagne. Si on pouvait travailler moins, certains choisiraient de combler moins de besoins pour avoir plus de loisirs. Lorsqu'on comble moins de besoins, on consomme moins. Ça me semble la seule issue viable pour sauver la planète.
+
+
+
+
+
+
+
+
+Pour consommer, il faut travailler. Pour travailler, il faut produire. Pour produire, quelqu'un doit consommer.
+
+Cette chaîne décrit notre système économique. C'est un cercle qui pourrait être viable si la consommation restait stable.
+
+Mais cette chaîne exige une consommation égale à notre capacité de production. Comme la technologie augmente continuellement cette capacité, notre consommation doit suivre. Et plus la consommation augmente, plus la planète souffre.
+
+Si on veut sauver la planète, il faut briser cette chaîne. Et je crois qu'elle a un maillon faible.
+
+On ne peut pas produire sans consommer. Produire, c'est vendre, consommer, c'est acheter. Il n'y a pas de vendeur sans acheteur. Ce maillon de la chaîne est incassable.
+
+Est-ce qu'on peut travailler sans produire? Peut-être, mais ce serait une drôle de stratégie commerciale que de payer des travailleurs qui ne contribuent pas à la production.
+
+Mais est-ce qu'on doit absolument travailler pour consommer? Non, puisqu'on voit déjà des exceptions. Certains vivent de l'aide de l'état ou des revenus de leur fortune. Ce n'est pas une règle absolue, et je crois donc que c'est le maillon faible de la chaîne.
+
+Bien sûr, ce maillon joue un rôle clé dans notre système économique. Pour consommer même l'essentiel, il faut d'abord le produire. Et la production exige du travail. S'il faut travailler pour consommer, les gens sont motivés à produire ce qui est nécessaire.
+
+Mais dans les sociétés riches, on produit plus que nécessaire, parce que l'incitatif au travail est trop puissant. La solution évidente serait donc de réduire cet incitatif, sans l'éliminer. Pour éviter d'étouffer la planète par la surconsommation, l'incitatif au travail aurait la force exacte pour stimuler une production suffisante, mais durable.
+
+Le revenu minimum est justement un outil économique qui peut être ajusté finement pour réguler l'incitatif au travail. Il existe même déjà, sous la forme d'aide de dernier recours, mais il n'est pas encore bien adapté. Il faudrait l'ajuster à la fois dans son esprit et dans sa mécanique. On y reviendra dans la proposition finale.
+
+
+
+
+
+À quoi ressemblerait une société où l'incitatif au travail est plus bas? Essentiellement à la nôtre, en surface du moins. Elle serait toujours organisée selon les principes du capitalisme. Chacun serait encore libre de décider ce qui est bon pour lui et serait motivé par l'argent à travailler pour les autres. Il s'agit de réduire finement l'incitatif au travail, pas de l'éliminer.
+
+Il y aurait quand même des différences. On produirait moins, on consommerait moins, et on aurait plus de temps libre. Ça se ferait naturellement. La plupart des gens continueraient sans doute à travailler autant pour pouvoir consommer comme avant, mais d'autres choisiraient de consommer moins pour avoir plus de loisirs.
+
+On peut quand même se demander à quel point on peut se passer de ce qu'on produit aujourd'hui. Je ne prétends pas répondre pour tout le monde, puisque chacun a son propre rapport à la consommation. Mais j'espère que les prochains textes pourront nourrir votre réflexion.
+
+
+
+
+
+
+Personne ne veut revivre la pandémie de Covid-19, mais elle a été le théâtre d'une expérience économique à grande échelle dont on peut tirer des leçons.
+
+Dans les sociétés où on a imposé le confinement, il y a eu une étrange inversion: plutôt que de prouver leur mérite social en travaillant, on demandait à beaucoup de gens de prouver leur mérite en ne travaillant pas. Leur incitatif au travail était à zéro. Et le gouvernement, pour les récompenser, leur offrait un revenu minimum pour leur permettre de survivre.
+
+Ces gens vivaient en quelque sorte une version extrême du scénario qu'on explore: aucune production, un minimum de consommation, trop de loisir, mais la survie assurée.
+
+Les travailleurs essentiels devaient prouver leur mérite en restant à l'ouvrage. Ce n'était pas les plus riches d'entre nous. Bien sûr, il y avait parmi eux des médecins, mais aussi beaucoup de travailleurs agricoles, des employés de supermarché, des livreurs. Quant à moi, je faisais partie de l'autre groupe, dont le travail était jugé superflu en temps de crise. J'ai donc été un des cobayes de l'expérience.
+
+J'ai trouvé cette période très pénible, mais pas pour des raisons matérielles. J'avais tout ce qu'il me fallait pour survivre. C'est le contact social qui me manquait. Je m'ennuyais d'aller au restaurant avec les amis, mais j'étais content d'avoir le temps de cuisiner davantage. J'aurais payé cher pour voir ma famille, mais je n'avais rien besoin de consommer de plus.
+
+Lorsque mes proches me parlaient d'un achat qu'ils souhaitaient faire, c'était généralement pour compenser le manque de contact humain. Les célibataires voulaient un chien ou un chat, les familles un chalet à la campagne où être bien ensemble, même isolés des autres.
+
+Je n'ai entendu personne se plaindre de ne pas pouvoir consommer autant qu'avant. Clairement, on pouvait se passer d'une grande partie de ce qu'on produisait. La souffrance venait des restrictions sur nos libertés et nos contacts humains, pas de celles sur notre consommation.
+
+Pendant cette période, tous les indicateur environnementaux étaient au vert, à un niveau qui suffirait à sauver la planète. Soyons clairs: on s'intéresse seulement à ce scénario extrême pour en tirer des leçons, par pour le reproduire. Je crois qu'un gouvernement sage devrait faire des changements doux et graduels et respecter les libertés individuelles, tout le contraire de ce qui s'est fait pour répondre à la crise pendant les confinements.
+
+Mais je crois que cette période nous montre tout de même que la capacité de production dans les sociétés riches dépasse largement le besoin de consommation nécessaire au bonheur.
+
+
+
+
+Même s'il me semble clair qu'on produit collectivement plus que ce qui est essentiel à notre bonheur, ça ne correspond pas nécessairement à notre expérience vécue. Peu importe le revenu, beaucoup de gens ont l'impression de gagner juste assez pour subvenir à leurs besoins.
+
+Comment peut-on affirmer que la société produit plus que nécessaire si chacun consomme à peine ce qu'il faut? L'explication est bien sûr en partie reliée à la redistribution de la richesse, mais ce n'est pas le sujet de ce livre, donc je me contente de le mentionner. Je veux plutôt m'attarder à un autre aspect bien réel, mais plus difficile à cerner.
+
+Peu de gens se considèrent riches. Si on demande aux gens leur classe sociale, la classe moyenne regroupera des gens dont le salaire peut être quatre fois plus grand que d'autres. Ça peut sembler absurbe, mais leur expérience subjective sera en effet similaire.
+
+On peut s'imaginer deux familles avec le même nombre d'enfants, dont les parents travaillent fort pour payer le logement, la nourriture, le transport, les frais scolaires, les activités des enfants. Et au bout du compte, il ne leur reste presque rien, même si une de ces deux familles a un revenu quatre fois plus grand.
+
+La différence, bien sûr, c'est que cette famille a une jolie maison dans un beau quartier plutôt qu'un appartement dans un milieu moins favorisé. Ils mangent sans doute mieux. Les enfants vont à l'école privée. On hésite moins à remplacer l'auto qui se fait vieille. On prend l'avion plus souvent. Ils sont peut-être aussi plus heureux que la famille moins aisée, mais pas nécessairement.
+
+Maintenant, imaginons ces mêmes familles en 1950. Comme la technologie et la productivité ont énormément progressé en soixante-quinze ans, ils consomment beaucoup moins que la famille moderne équivalente. Mais si on les questionnait sur leur bonheur ou leur satisfaction financière, on obtiendrait sans doute des réponses similaires. Comme nous, ils devaient sentir qu'ils avaient tout juste ce qu'il leur fallait.
+
+En fait, à n'importe quelle époque, ce qui compte le plus est en quantité limitée, peu importe la production globale. Il y aura toujours de meilleurs quartiers et de meilleures écoles. Les familles vont toujours être en compétition pour y habiter et y envoyer leurs enfants. Et on peut seulement envier nos voisins, pas les gens de l'avenir qui auront accès à des choses qu'on ne peut pas encore s'imaginer.
+
+Et si on se projette dans l'avenir, est-ce qu'on peut s'imaginer un monde où la production globale est assez grande pour que chacun soit satisfait de son sort, peu importe son rang social? Passé un certain seuil, il me semble que le bonheur global dépend davantage de la répartition de la richesse que de son augmentation.
+
+
+
+
+Si on produit plus que ce qui est nécessaire à notre bonheur, qu'est-ce qu'on produit de superflu? Pour s'aider à y réfléchir, on pourrait classer le travail selon le type de besoin qu'il comble.
+
+Un travail peut combler un besoin naturel. Il peut créer et stimuler des besoins. Ou il peut combler les besoins qu'on vient de créer ou stimuler.
+
+Comme lorsqu'on a redéfini les riches et les pauvres plus tôt, il ne s'agit pas de catégories exclusives. Un travail réel appartient toujours à plusieurs catégories. C'est un outil de réflexion, pas une grille pour juger les emplois de chacun et leur accorder une valeur morale.
+
+Je définirais le besoin naturel de manière très large, en incluant non seulement les besoins essentiels, mais aussi tout ce qui se manifeste naturellement en nous. On va à l'èpicerie parce qu'on a faim. On va au spa pour se détendre. Ce sont des besoins naturels, même si un seul des deux est essentiel.
+
+Mais même avec une définition aussi large, nos besoins naturels ne suffisent pas à engager toute notre capacité de production. C'est le rôle du travail des deux dernières catégories. Une crée et stimule des besoins, l'autre les comble. De cette manière, on réussit à occuper la grande majorité des citoyens en âge de travailler.
+
+On pense à l'industrie publicitaire, mais aussi à tous les gens dont le travail est de rendre un produit plus séduisant. Par exemple, un jeu vidéo sert un besoin naturel de divertissement. Mais on ne se contente pas de le vendre. On rajoute des mécanismes addictifs pour que l'utilisateur joue le plus souvent possible et fasse régulièrement des achats virtuels.
+
+L'épicerie est un tourbillon de couleurs où les panneaux-réclames concurrencent l'emballage des produits sur les étagères. Le spa interdit d'apporter de la nourriture pour obliger les clients à fréquenter son restaurant. Il ne suffit pas de combler nos besoins naturels. Il faut aussi nous stimuler à consommer davantage.
+
+Dans un sens, tout le travail des deux dernières catégories est inutile. On comble des besoins qu'on vient de créer. Mais c'est parfaitement impossible de les éliminer dans une société libre. Le profit est le même peu importe le type de besoin qu'on comble. Et en pratique, les trois types de travail sont indénouables.
+
+Si les gens travaillaient moins et consommaient moins, on peut s'imaginer qu'ils couperaient d'abord dans ces besoins artificiels, mais rien n'est moins sûr. J'ai déjà été ce fumeur qui préfère sauter un repas qu'une cigarette.
+
+Bien sûr, lorsque je dis que nos besoins naturels ne suffisent pas à notre capacité de production, je ne prétends pas que tous nos besoins naturels sont comblés. On ne vit pas dans des sociétés égalitaires où chacun a le même droit sur les ressources. Ce serait plus juste dire que les besoins naturels de ceux qui ont droit aux ressources ne suffisent pas à occuper toute notre capacité de production.
+
+J'aimerais vivre dans une société où on satisfait les besoins de tous avant de satisfaire les désirs de certains, mais ce souhait restera sans doute vain tant qu'il y aura des milliardaires.
+
+
+
+
+Il existe aussi du travail qui ne comble aucun besoin. Là encore, ce ne sont pas des catégories exclusives. Les médecins ont le travail le plus utile qui soit, mais même eux doivent se sentir inutiles au moment d'accomplir leurs tâches bureaucratiques.
+
+Un premier type de travail inutile permet de s'emparer de la richesse existante sans rien produire de nouveau. L'exemple le plus évident serait les chasseurs de brevets. Ces compagnies basées sur la propriété intellectuelle ne comptent pas d'inventeurs, que des avocats. Elles achètent des brevets très larges et poursuivent les compagnies qui utilisent des technologies analogues. Elles ne produisent rien, mais détournent des profits qui seraient allés à d'autres.
+
+Comme la société s'apparente à un organisme vivant, il est normal qu'elle ait aussi des parasites. Il faut peut-être simplement les endurer, comme les moustiques en camping.
+
+L'autre type de travail qui ne comble aucun besoin est surtout propre aux grandes organisations. Beaucoup d'employés ont déjà senti que le travail qu'on leur demande de faire ne sert à rien. Là encore, je ne m'y attarderai pas, à part pour dire que selon les lois de la physique, une part de l'énergie investie dans un travail utile se perd toujours en chaleur.
+
+Il faut donc sans doute simplement s'y résigner, comme pour les moustiques. 
+
+
+
+
+J'ai fumé un paquet de cigarettes par jour pendant ma vingtaine. Comme beaucoup d'anciens fumeurs, ça m'a donné une conscience physique de la différence entre un besoin naturel et un besoin artificiel. Avant ma première cigarette, je n'avais pas besoin de fumer. Un an après ma dernière, je n'avais plus besoin de fumer. Mais entre ces deux moments, chaque cigarette répondait à un besoin et m'apportait du plaisir.
+
+Pendant que j'étais encore fumeur, je croyais que fumer rajoutait à mon bonheur. Un café sans cigarette était une hérésie. Mon moment préféré au restaurant était la cigarette qui suivait le repas. Quand j'ai arrêté de fumer, j'étais convaincu que j'allais devoir sacrifier ces plaisirs pour ma santé.
+
+J'ai plutôt été contrarié de constater qu'après le sevrage, le café était tout aussi bon. Le repas était même meilleur une fois retrouvé un peu d'odorat. J'ai compris que le seul plaisir que m'apportait la cigarette était de combler le manque qu'elle avait créé en moi.
+
+Je ne prétends pas que c'est une expérience universelle. Chaque fumeur a son propre rapport à la cigarette, et certains y rêvent encore des décennies après avoir arrêté. Pour moi, la cigarette servait de béquille sociale, et comme je pouvais me passer de béquille à l'aube de la trentaine, il ne me restait que l'addiction.
+
+Est-ce qu'il existe en nous d'autres besoins dont on se passerait avec plus de bonheur qu'en les comblant? Combien de nos plaisirs dépendent d'une pseudo-addiction à notre dopamine naturelle?
+
+Je ne veux pas tomber dans la moralité. On doit rester libre de combler tous les besoins qu'on veut combler, peu importe leur nature. Mais on peut certainement se demander à quel point chaque besoin qu'on comble rajoute ou non à notre bonheur.
+
+
+
+
+
+L'alimentation est le besoin de plus fondamental qui soit. On doit donc se demander si ce besoin serait affecté par la mise en place d'un revenu minimum. Quelles seraient les conséquences d'une réduction de l'incitatif au travail sur l'agriculture? 
+
+De manière paradoxale, on peut s'imaginer que l'effet serait à peu près nul, parce qu'une grande part du travail agricole est déjà fait par des travailleurs étrangers qui n'auraient pas accès au revenu minimum.
+
+Le système actuel échoue déjà à motiver les citoyens à faire du travail agricole pour gagner un revenu. Ceux qui le font encore le font pour des raisons personnelles: certains suivent la tradition familiale, d'autres veulent se rapprocher de la terre. Et l'engrenage de l'endettement oblige beaucoup d'entre eux à travailler jusqu'au désespoir pour rentabiliser leur investissement.
+
+Aujourd'hui, les mêmes gouvernements qui pestent contre l'immigration se résignent à laisser entrer des centaines de milliers d'immigrants temporaires parce que le système de l'offre et de la demande ne suffit plus naturellement à produire les aliments dont on a besoin. Personne ne semble comprendre exactement ce qui est arrivé pour qu'on se retrouve à délocaliser notre agriculture de l'autre côté de frontières virtuelles dans notre propre pays.
+
+Il y a sans doute une multitude de causes, mais j'aimerais en souligner une qui découle naturellement des mécanismes qu'on a décrits dans cette section. 
+
+Il fut un temps où notre capacité de production suffisait à peine à répondre à nos besoins essentiels. Le secteur agricole avait alors beaucoup moins de compétition pour les travailleurs. C'était un moyen difficile de gagner sa vie, mais comparable aux autres emplois de l'époque.
+
+Mais comme on l'a vu, notre système économique exige que la production augmente avec notre capacité de production. On comble aujourd'hui bien plus que les besoins essentiels, et le secteur agricole est maintenant en compétition avec le secteur des services, moins pénible, et le secteur industriel, plus payant. Comme les citoyens ont d'autres choix, ils délaissent le travail agricole.
+
+Bien sûr, on aurait pu croire que les salaires agricoles auraient augmenté pour compenser, mais ce n'est pas arrivé. Je me permets de suggérer une explication, en sachant très bien que je m'aventure bien au-delà de mes connaissances et mes compétences.
+
+Il me semble que le secteur agricole a comme particularité que le prix de vente de la nourriture ne peut pas augmenter passé le point où un travailleur ordinaire ne peut plus se nourrir. Et le profit des compagnies d'alimentation est assez incompressible, puisque c'est leur raison d'être.
+
+Il reste donc le profit des agriculteurs à réduire, puisqu'ils sont souvent endettés et font ce travail pour des raisons émotives ou par tradition familiale. Ils acceptent donc de travailler de longues heures pour peu d'argent et beaucoup de stress. Et comme ça ne suffit pas, on fait aussi venir des travailleurs de l'étranger, pour qui le salaire trop bas pour un citoyen est un cadeau du ciel.
+
+Je ne crois pas qu'on règlerait ces problèmes avec un revenu minimum qui réduit l'incitatif au travail. Mais je ne vois pas de raisons de croire qu'il empirerait non plus.
+
+
+
+
+
+
+
+
+On parle généralement du revenu minimum comme une mesure de justice sociale. 
+
+
+
+
+
+Il va sûrement y avoir des tensions. Rappel: personne n'est obligé. Ce ne sera pas consensuel - Travail manuel vs intellectuel - On les BS sont encore plus mal vus que les immigrants
+
+
+
+Si IA libère travailleurs intellectuels, retour au travail manuel? Corvée agricole?
+
+
+
+
+
+On n'a déjà beaucoup discuté du revenu minimal comme mesure de justice sociale. Je n'ai rien à rajouter sur le sujet. Tant mieux si elle peut jouer ce rôle, mais je m'intéresse ici seulement à son aspect environnemental. Le revenu minimum peut aussi bien ressembler à Arabie Saoudite qu'à une mesure sociale. On va regarder les caractéristiques qu'elle doit avoir pour jouer son rôle environnemental.
+
+
+
+
+
+
+
+
+
+
+
+NOTES EN VRAC: Nommer le revenu minimal selon un terme qui fait référence à l’environnement (objecteur de conscience) - Définir RM en fonction de logé-nourri minimal, pas montant précis - Section sur le revenu minimum - on devrait avoir plus de respect pour quelqu’un qui ne travaille pas mais ne consomme que le minimum vital que pour quelqu’un qui ne travaille pas mais produit autant de gaz à effet de serre avec son jet privé que 20000 snowbirds - À base ce qu’il nous faut pour être heureux c’est un endroit où dormir de la nourriture à notre faim et des gens qu’on aime et qui nous aiment
+
+Travailller 15 heures plutôt que 0 ou 40
+
+On veut une récession qui ne fait pas souffrir les gens
+
+Les idées qui naissent à gauche se réaliseront peut-être au centre.
+
+
+
+
+
+Mécanisme est simple: si les gens peuvent survivre en travaillant moins qu'à temps plein, ils le feront peut-être. Ils consommeront moins. La consommation réduite sera nécessairement la consommation qui comble des besoins non-essentiels, et probablement des besoins non-naturels.
+
+qu’est-ce qu’on produit? - exemple pandémie - imposé du haut - avec revenu minimal ça émerge naturellement du bas
+
+Comme la demande pour les besoins essentiels ne descendra pas, probablement que les salaires pour ces emplois vont augmenter (mécanisme exact? seulementi intuition pour l'instant)
+
+On pourra continuer à exploiter une main d'oeuvre étrangère qui n'a pas droit au revenu minimum pour les combler (comparaison Grecs (romains?) / métèques) ou trouver une autre système (service agricole?)
+
+Pas pour ce livre: Borders create arbitrage opportunities - and being on the right side of the border puts you on the winning side of all those deals - Ou plutôt l'évoquer dans le contexte des travailleurs agricoles temporaires? Créer une frontière virtuelle à l'intérieur du pays?
+
+
+
+
+Je vois deux autres manières de sauver la planète malgré la chaîne qu'on a décrite plus haut, mais chacune relève du cauchemar plutôt que du rêve.
+
+Si on accepte que la production et la consommation continuent à croître à l'infini, on pourrait technologiser à outrance la planète, dans une course sans fin entre consommation galopante et nouvelles innovations vertes. Je laisse ce scénario aux écrivains de science-fiction, qui sont plus aptes à imaginer des boucliers anti-réchauffement climatique et des expéditions dans le système solaire à la recherche de nouveaux minéraux.
+
+L'autre issue, dans un monde ou l'IA aurait réussi à rendre notre travail superflu, verrait la population réduite à l'esclavage économique au service des milliardaires qui la contrôlent, seuls humains ayant le droit de consommer plus que le minimum. La technologie serait venu à bout de la chaine travail-production-consommation, au prix d'une grande misère. 
+
+
+
+
+
+
+Dans l’intro de la 2e partie (ou conclusion?) on ne réussira pas à régler nos problèmes environnementaux dans le contexte politique actuel 
+
+Si t’as mal à la tête à cause d’un virus, tu peux prendre des advil en attendant que ça passe. Mais si c’est à cause d’une tumeur au cerveau, il faut opérer (traiter cause = surproduction vs symptôme = surconsommation)
+
+
+
+
+
+
+NOTES EN VRAC: Section sur travailler avec les humains qu'on a.
+
+Certains seront toujours gentils et généreux, peu importe leur contexte.
+
+D'autres seront toujours égoïstes et mesquins, peu importe le contexte.
+
+Mais pour la majorité, ils ont le potentiel d'écouter leur petit ange ou leur petit diable selon le contexte.
+
+Les riches ont un intérêt économique à faire ressortir ce qu'il y a de plus méchant chez l'homme.
+
+L’argent peut servir d’amplificateur idéologique. On l’utilise pour choisir ce qui existe déjà chez les gens et lui donner plus de force.
+
+Si on enlève l’argent, ces sentiments existeront encore mais ils ne prendront pas toute la place
+
+
+
+
+Texte sur impératif de la production par rapport aux médias 
+
+
+
+on aura le temps d'en discuter parce que je ne crois pas qu'on pourra réussir à amener le revenu minimum avant d'avoir réussi à imposer la fortune maximale, ce qui sera déjà un long combat - le temps presse, mais on peut seulement aller à la vitesse du changement d'esprit.
+
+Parler des riches qui s'opposeront nécessairement à la réduction de l'incitatif au travail puisqu'ils tirent leur pouvoir de notre consommation - Revenu minimum impossible dans un contexte où les riches sont trop puissants - riches sont riches en prenant une cut de notre travail - moins on travaille, moins ils sont riches
+
+
+
+
+
+Revenir à l’incitatif au travail trop grand aussi pour les milliardaires à qui on accorde un pouvoir inutilement - boucler la boucle
+
+Un milliardaire ne paie généralement pas plus ses employés que ce qui l’avantage. C’est d’ailleurs entre autres comme ça qu’on devient milliardaire. Mais comme société on récompense le milliardaire bien plus que nécessaire. Il nous donnerait la même contribution pour beaucoup moins. Mais comme un employé refuse rarement une augmentation, un patron refuse rarement les profits gratuits
+
+
+
+
+Il faut comprendre que les grands riches sont moins intéressés aux choses matérielles que leur richesse leur apporte qu’au sentiment de supériorité qu’elle leur procure. Sinon, ils cesseraient de vouloir l’accroître sans cesse à partir du moment qu’elle dépasse leurs besoins les plus grands. Dans ce sens, les grands riches sont moins matérialistes que les petits riches qui en sont encore à profiter de leur capacité à dépenser.
+
+C’est un manquement moral d’être milliardaire dans notre société, ce qui ne veut pas dire que ce sont des moins bonnes personnes que les autres. On a failli à notre devoir moral comme société d’établir des attentes claires à respecter. La majorité d’entre nous agirions de la même façon, exemple du portefeuille trouvé dans la rue
+
+Contexte parental - on doit être de bons parents - ensuite à chacun ses responsabilités et sans blâme - de très bons parents peuvent avoir un enfant qui agit mal et un saint peut naître dans une famille misérable. Notre devoir est accompli dès qu’on donne le bon exemple et qu’on a des attentes claires
+
+Le prestige social doit être plus fort à donner son argent qu’à le garder (suite milliardaires moins matérialistes) c’est donc notre devoir à tous de créer une société avec des valeurs différentes par un processus où les changements concrets mènent à des changements spirituels et émotifs qui permettent de nouveaux changements matériels 
+
+
+
+
+Mécanisme de solution = Discussion mène à changement de perception - Changement de perception mène à changement concret - Changement concret mène à changement de perception - Changement de perception mène à discussion - Discussion mène à...
+
+
+
+
+Les mesures que je propose dans ce livre pourraient difficilement être plus minimes. La fortune maximale ne touchera directement que quelques milliers de personnes à travers la planète. Pour les autres huit milliards, non seulement ils n'auront rien à verser, mais ils hériteront du pouvoir qu'on retire aux milliardaires.
+
+Bien sûr, en pratique, imposer une limite au pouvoir privé aura un effet énorme et difficile à prévoir, parce que beaucoup de ces milliardaires et des aspirant-milliardaires vont tout mettre en oeuvre pour conserver leur pouvoir, et ils ont la capacité de causer énormément de dégats.
+
+Il faut donc agir de la manière la plus douce possible, avec patience, en leur offrant une voie honorable pour rejoindre la société. Ceux qui acceptent volontairement les limites doivent connaître un meilleur sort que les récalcitrants. Il faut s'inspirer des amnisties qui suivent les guerres civiles, où on pardonne presque tout pour favoriser la réconciliation.
+
+Quant au revenu minimal, il s'agit essentiellement d'une action symbolique, puisque le revenu minimal existe déjà sous d'autres noms. Il s'agit simplement de reconnaître que ceux qui consomment moins contribuent du fait même à la société et ne méritent pas automatiquement notre jugement négatif, même s'ils n'ont pas de travail officiel.
+
+Si on croit sincèrement à ce changement dans nos perceptions, on voudra naturellement modifier la forme du revenu minimum pour qu'il permette un mode de vie minimal mais honnête, tout en facilitant la possibilité de l'améliorer un peu par le travail à temps partiel ou le bénévolat.
+
+Ces changements ne suffiraient sans doute pas par eux-mêmes à sauver la démocratie et la planète. Mais j'espère qu'ils auront non seulement un effet pratique, mais aussi et surtout un effet moral et symbolique. Elles seront seulement efficaces si elles mènent, suivent et facilitent un changement dans nos valeurs. Si on réussit à les mettre en place, ça voudra dire que la lutte en ce sens nous aura déjà permis de faire un pas énorme dans la bonne direction.
+
