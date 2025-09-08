@@ -22,7 +22,7 @@ Revenu minimum, pour sauver la planète.
 
 Il n'y a rien là qui n'a pas déjà été proposé, et la fortune maximale est une des principales recommandations de Piketty. Mais on les propose généralement dans un esprit de justice sociale qui les cantonne à gauche de l'échiquier politique. Je crois que c'est une erreur.
 
-Le but essentiel de la fortune maximale est d'enlever du pouvoir aux milliardaires. Ce qu'on fait du pouvoir qu'on récupère est secondaire. Qu'un gouvernement de droite en fasse profiter les entreprises ou qu'un gouvernement de gauche remette l'argent aux pauvres, on aura donné un nouveau souffle à nos démocraties en peine.
+Le but premier de la fortune maximale est d'enlever du pouvoir aux milliardaires. Ce qu'on fait du pouvoir qu'on récupère est secondaire. Qu'un gouvernement de droite en fasse profiter les entreprises ou qu'un gouvernement de gauche remette l'argent aux pauvres, on aura donné un nouveau souffle à nos démocraties en peine.
 
 La société est le lieu d'un combat perpétuel pour notre temps. Mon temps, votre temps, notre temps. Et on a collectivement abandonné le champ de bataille, laissant les milliardaires régner seuls en maîtres. Qu'on vote à gauche ou à droite, on est perdants. Il est temps de recommencer à exercer notre pouvoir.
 
@@ -34,7 +34,7 @@ C'est pourquoi je propose la fin des milliardaires.
 
 CE QU'EST CE LIVRE ET CE QU'IL N'EST PAS
 
-Quand j'ai terminé de lire le Capital au XXIème siècle, j'étais plein d'espoir. Quelqu'un avait identifié un problème fondamental et proposait des solutions simples. Pourtant, rien n'a changé. Et quand j'ai lu Capital et idéologie, j'ai compris que si les solutions sont claires, il y a des gens très puissants qui n'ont pas du tout intérêt à ce qu'on règle le problème.
+Quand j'ai terminé de lire le Capital au XXIème siècle, j'étais plein d'espoir. Quelqu'un avait identifié le problème fondamental du capitalisme et proposait des solutions simples. Pourtant, rien n'a changé. Et quand j'ai lu Capital et idéologie, j'ai compris que si les solutions sont claires, il y a des gens très puissants qui n'ont pas du tout intérêt à ce qu'on règle le problème.
 
 Depuis, quand j'observe le monde autour de moi, je constate que tous les conflits qui déchirent la société tirent leurs racines dans les efforts de ces gens, que j'appelle milliardaires pour simplifier le discours, pour préserver et accroître leur pouvoir.
 
@@ -42,37 +42,36 @@ Ce que certains appellent la métacrise, au confluent de la crise environnementa
 
 Comme la plupart d'entre nous, j'aimerais que la planète se porte mieux et que ses habitants soient plus heureux. J'ai commencé à écrire ce livre dans l'espoir un peu fou qu'il nous aide à mieux voir ceux qui luttent dans le sens contraire et nous donner de nouvelles armes pour nous défendre. Mais je suis bien conscient de mes limites.
 
-Si vous cherchez des chiffres et des preuves, lisez Piketty. Tout y est. Vous n'en trouverez pas dans ce livre. Mais s'il suffisait d'avoir raison et de le prouver, les choses s'amélioreraient plutôt que de s'empirer. L'être humain n'est pas que rationnel. Les émotions et les symboles ont souvent une influence plus grande sur nos pensées et nos actions que la pure logique cartésienne.
+Si vous cherchez des chiffres et des preuves, lisez Piketty. Tout y est. Vous n'en trouverez pas dans ce livre. Mais s'il suffisait d'avoir raison et de réussir à le prouver, les choses s'amélioreraient plutôt que de s'empirer. L'être humain n'est pas que rationnel. Les émotions et les symboles ont souvent une influence plus grande sur nos pensées et nos actions que la pure logique cartésienne.
 
 Je crois justement que l'arme principale des milliardaires dans leur lutte d'influence est la confusion. Si l'on voyait la réalité clairement, on verrait la nécessité de combattre. Tous leurs efforts visent à créer une confusion morale et une confusion entre notre intérêt et le leur.
 
-Tout ce que j'ai à offrir, c'est mon regard sur le monde. Il ne vaut pas plus que celui d'un autre, mais j'espère qu'il est empreint d'une certaine clarté et d'une certaine qualité de réflexion qui vous permettra de pénétrer quelque peu la confusion ambiante de notre monde. Si le monde que je décris vous semble étranger, j'espère qu'il y aura tout de même quelques passages qui sonnent juste et ébranlent un peu vos certitudes.
+Tout ce que je peux offrir dans ce livre, c'est mon regard sur le monde. Il ne vaut pas plus que celui d'un autre, mais j'espère qu'il est empreint d'une certaine clarté et d'une certaine qualité de réflexion qui vous permettra de pénétrer quelque peu la confusion ambiante. Si le monde que je décris vous semble étranger, j'espère qu'il y aura tout de même quelques passages qui sonnent juste et ébranlent vos certitudes.
 
-Et si j'ai l'esprit rêveur, je viens d'une famille d'ingénieurs. Je ne veux pas écrire un autre livre qui se contente de préciser le diagnostic sans proposer de remède. J'ai une idée toute simple et très concrète qu'on pourrait mettre en application dès maintenant pour faire un premier pas vers une fortune maximale. Je la présenterai vers la fin de la première partie lorsqu'elle aura pris tout son sens, en espérant que vous me pardonnerez l'attente.
+Et si j'ai l'esprit rêveur, je viens d'une famille d'ingénieurs. Je ne veux pas écrire un autre livre qui se contente de préciser le diagnostic sans proposer de remède. J'ai une idée toute simple et très concrète qu'on pourrait mettre en application dès maintenant pour faire un premier pas vers une fortune maximale. Je la présenterai vers la fin de la première partie, lorsqu'elle aura pris tout son sens, en espérant que vous me pardonnerez l'attente.
 
 J'ai voulu faire un livre simple à lire qui ne rebute pas par sa taille. Je l'ai écrit dans un esprit de synthèse, avec une réflexion informée par mes lectures passées, mais qui prend une nouvelle forme. J'espère qu'on ne confondra pas l'absence de citations avec un manque de reconnaissance pour tous les auteurs qui ont formé ma pensée.
 
 
 
 
+LES MILLIARDAIRES
+
+Lorsque je parlerai de milliardaires, de riches et pauvres dans ce livre, j'utiliserai ces termes dans un sens qui s'écarte quelque peu de leur définition habituelle. Je crois que c'est nécessaire pour nous aider à comprendre comment une personne ordinaire peut se retrouver à défendre les intérêts des milliardaires.
+
+Dans le cadre de ce livre, être milliardaire, c'est avoir trop d'argent. L'argent en trop, c'est celui qui ne sert plus à satisfaire ses envies et ses besoins, mais devient plutôt un outil pour accroître son pouvoir sur la société.
+
+Pour une personne ordinaire, l'argent est une façon d'améliorer son sort. Il nous protège de la souffrance et nous accorde du confort et du plaisir. On peut se serrer la ceinture au présent pour être plus à l'aise dans l'avenir. Si on accumule assez d'argent avant de mourir, nos enfants auront une vie plus facile. Dans tous les cas, il s'agit d'un pouvoir centré sur nous et nos proches.
+
+Mais même les besoins et les plaisir les plus fous ne suffisent pas à occuper la fortune d'un milliardaire. L'argent cesse pour lui d'être un moyen d'améliorer sa vie et celle de sa descendance pour devenir une forme de contrôle sur la société.
+
+Certains se contentent peut-être d'investir sur les marchés financiers. Le contrôle qu'ils exercent sera plus subtil et indirect, même si le poids d'une grande fortune se fait inévitablement sentir avec force. Mais d'autres comprennent que l'investissement le plus rentable pour augmenter leur pouvoir est de créer des conditions politiques favorables à la grande richesse. 
+
+Je dis que cet argent est de trop parce qu'il ne sert plus les intérêts de la société. Le désir d'argent nous pousse à travailler, à créer des entreprises, à contribuer à la société. En échange, on a une vie meilleure. Lorsque l'argent cesse d'être une façon d'améliorer notre vie pour devenir une façon d'accroître son pouvoir à l'infini, il devient de trop.
+
+Je ne fais donc pas référence au total des actifs et aux chiffres des comptes en banque lorsque je parle de milliardaires. D'ailleurs, dans le sens où je l'utilise, il y avait des milliardaires bien avant John D. Rockefeller. La famille Licinia de la Rome antique, les Médicis à la Renaissance, les Rotschilds et les Krupps par la suite, tous avaient compris qu'un pouvoir financier suffisamment grand était de facto un pouvoir politique.
 
 
-
-
-
-Quand j'ai terminé de lire le Capital au XXIe siècle, j'étais enchanté. Quelqu'un avait identifié le problème à régler et les solutions étaient claires. Mais quand j'ai terminé de lire Capital et Idéologie, j'ai dû... Si les solutions sont claires, il y a des gens très puissants qui n'ont pas du tout intérêt à ce qu'on règle le problème.
-
-Je ne vais rien prouver. Piketty s'est déjà occupé du côté rationnel. Mais l'humain n'est pas que rationnel. Je veux surtout explorer ce qui fait qu'on n'engage pas le combat. 
-
-
-
-
-Mais avant d'arriver au quoi, il faut comprendre le pourquoi. En commençant par les menaces à la démocratie.
-
-
-
-
-Qu'est-ce qu'un milliardaire, dans le cadre de ce livre? En bref, c'est quelqu'un qui a trop d'argent.
 
 
 
